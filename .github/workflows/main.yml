@@ -1,10 +1,12 @@
-name: update-stars
+name: update awesome-stars
 on:
   schedule:
-  - cron: "*/2 * * * *"
+  - cron: 0 10 * * *
+  push:
+    branches: [ master ]
 jobs:
   awesome-stars:
-    name: update-stars
+    name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
