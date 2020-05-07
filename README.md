@@ -69,6 +69,7 @@
 
 ## C 
 
+- [xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
 - [sendkeys](https://github.com/kyoto/sendkeys) - Send key presses to open applications in X Windows (GNOME, KDE, Unity, etc.)
 - [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
@@ -112,6 +113,7 @@
 
 ## C++ 
 
+- [applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [ksnip](https://github.com/ksnip/ksnip) - Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
 - [tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
@@ -318,6 +320,7 @@
 
 ## JavaScript 
 
+- [eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [slack-sidebar-toggler](https://github.com/dumptyd/slack-sidebar-toggler) - A userscript to add the ability to toggle the main sidebar on Slack Web using keyboard shortcut.
 - [ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [syntax-highlighting-scopes-showroom](https://github.com/baleyko/syntax-highlighting-scopes-showroom) - Highlights syntax scopes to simplify syntax highlighting extensions development
@@ -470,6 +473,7 @@
 - [simple-translate](https://github.com/sienori/simple-translate) - Firefox add-on for simple translation
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - More information you can read at this link:
+- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [vscode-sshextension](https://github.com/VitalyKondratiev/vscode-sshextension) - Extension for SSH connections using the ftp-simple settings
 - [grc](https://github.com/pengwynn/grc) - Mirror of Radovan Garabík's - Generic Colourizer for terminal apps
@@ -540,7 +544,6 @@
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 - [MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
-- [DarkBoot](https://github.com/w0lfschild/DarkBoot) - :computer: Customize the boot, login and lock screens on macOS
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [IOJones](https://github.com/acidanthera/IOJones) - Realtime I/O Registry viewer
 - [vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
@@ -550,6 +553,7 @@
 
 ## Others 
 
+- [rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
 - [vscode-userscript](https://github.com/kufii/vscode-userscript) - UserScript language support for VS Code
 - [sxhkdrc-syntax](https://github.com/mosbasik/sxhkdrc-syntax) - Syntax definition for the sxhkd configuration file for Visual Studio Code.
 - [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
@@ -651,7 +655,6 @@
 - [Divi-Layout](https://github.com/artikus11/Divi-Layout) - Макеты сайтов для использования в теме Divi
 - [Time-Travelers](https://github.com/merveilles/Time-Travelers) - List of artists and hackers using homegrown time-tracking tools
 - [forklift-folder](https://github.com/Acidham/forklift-folder) - Open Folder from Alfred in Forfklift
-- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -717,6 +720,7 @@
 
 ## Python 
 
+- [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [wsltools](https://github.com/Symbo1/wsltools) - Web Scan Lazy Tools - Python Package
 - [wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
@@ -872,6 +876,7 @@
 
 ## QML 
 
+- [latte_slideshow_wallpaper](https://github.com/psifidotos/latte_slideshow_wallpaper) - Plasma SlideShow Wallpaper plugin
 - [McMojave-kde](https://github.com/vinceliuice/McMojave-kde) - MacOSX Mojave like theme for KDE Plasma
 
 ## Rich Text Format 
@@ -936,6 +941,7 @@
 
 ## Shell 
 
+- [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [updoot](https://github.com/b0o/updoot) - unify the update process for your entire system
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a Bash configuration with bash syntax highlighting, auto suggestions, vim modes, etc. in interactive sessions
 - [aurpublish](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository
@@ -1104,6 +1110,7 @@
 - [Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [Lazy-Hackintosh-Image-Generator](https://github.com/arslan2012/Lazy-Hackintosh-Image-Generator) - This automatical app makes Hackintosh installer from original Macintosh Installer app/disk image.
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 👨‍💻Watch the latest and greatest conference videos on your Mac
+- [DarkBoot](https://github.com/w0lfschild/DarkBoot) - :computer: Customize the boot, login and lock screens on macOS
 - [pixel-picker](https://github.com/acheronfail/pixel-picker) - A tiny menu bar application that helps you pick colours from your screen! 🔍✨
 - [Mos](https://github.com/Caldis/Mos) - 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS
 - [Polyglot](https://github.com/uetchy/Polyglot) - 🌏 The missing Safari extension that translates selected text into your native language.
