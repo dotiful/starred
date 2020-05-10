@@ -264,7 +264,7 @@
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, and DNSCrypt support
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -372,7 +372,7 @@
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (April 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (May 2020)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [startpage](https://github.com/psaegert/startpage) - Startpage
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -470,7 +470,7 @@
 - [user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [LinkBot](https://github.com/PaeP3nguin/LinkBot) - Chrome extension that converts URLs and emails in text to clickable links
 - [Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
-- [simple-translate](https://github.com/sienori/simple-translate) - Firefox add-on for simple translation
+- [simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - More information you can read at this link:
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
