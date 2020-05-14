@@ -919,6 +919,7 @@
 
 ## Rust 
 
+- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
 - [lscolors](https://github.com/sharkdp/lscolors) - A Rust library to colorize paths using LS_COLORS
@@ -1044,7 +1045,7 @@
 - [promptless](https://github.com/dylanaraps/promptless) - 🚀 A super fast and extremely minimal shell prompt.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh) - Script to generate a SSDT for Power Management
-- [i-vagrant](https://github.com/bogdanvlviv/i-vagrant) - Mirror of https://gitlab.com/bogdanvlviv/i-vagrant
+- [i-vagrant](https://github.com/bogdanvlviv/i-vagrant) - 
 - [hackapk](https://github.com/adi1090x/hackapk) - An Advanced Tool For Complete Apk-Modding In Termux ...
 - [awm](https://github.com/danielbayley/awm) - Extend @Homebrew-Alfred to manage your Alfred workflow development cycle.
 - [alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
@@ -1099,7 +1100,6 @@
 - [zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 - [Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-- [finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
 - [bootoption](https://github.com/bootoption/bootoption) - EFI boot menu manipulation for macOS, like efibootmgr
@@ -1151,6 +1151,7 @@
 - [alfred-hugo](https://github.com/Cloudstek/alfred-hugo) - Alfred workflow bindings for NodeJS
 - [alfred-atom](https://github.com/Cloudstek/alfred-atom) - Alfred workflow to browse and open Atom projects
 - [bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
+- [finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
 - [vscode-commentbars](https://github.com/zfzackfrost/vscode-commentbars) - Easily create comments that separate your code into sections (Visual Studio Code Extension).
 - [comment-divider](https://github.com/stackbreak/comment-divider) - Divide your code by sections with styled separators
