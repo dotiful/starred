@@ -11,6 +11,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [D](#d)
@@ -113,6 +114,8 @@
 
 ## C++ 
 
+- [krunner-kwallet](https://github.com/alex1701c/krunner-kwallet) - This is a Krunner plugin which allows you to copy/show/edit/add entries from KWallet
+- [krunner-firefox](https://github.com/alex1701c/krunner-firefox) - Launch your Firefox profiles from Krunner and register them in the Firefox .desktop file
 - [applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [ksnip](https://github.com/ksnip/ksnip) - Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
@@ -150,6 +153,10 @@
 - [npackd-cpp](https://github.com/tim-lebedkov/npackd-cpp) - Package manager for Microsoft Windows (GUI and command line utility)
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [poedit](https://github.com/vslavik/poedit) - Gettext translations editor for Mac, Windows and Unix.
+
+## CMake 
+
+- [krunner-vscodeprojects](https://github.com/alex1701c/krunner-vscodeprojects) - Open VSCode Project Manager projects from Krunner
 
 ## CSS 
 
@@ -211,6 +218,7 @@
 
 ## Go 
 
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
 - [repoctl](https://github.com/cassava/repoctl) - Make it easy to manage your local Arch Linux repository.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
@@ -319,6 +327,9 @@
 
 ## JavaScript 
 
+- [kwin-move-window-to-center](https://github.com/KSmanis/kwin-move-window-to-center) - A simple KWin script that introduces a KDE Global Shortcut for centering the active window in the current screen.
+- [hide-titles](https://github.com/bahamondev/hide-titles) - A Kwin script which hides window title when is maximized
+- [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [slack-sidebar-toggler](https://github.com/dumptyd/slack-sidebar-toggler) - A userscript to add the ability to toggle the main sidebar on Slack Web using keyboard shortcut.
 - [ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
@@ -329,7 +340,7 @@
 - [browser-extensions](https://github.com/maple3142/browser-extensions) - 我的一些 userjs & usercss
 - [prettier-plugin-package](https://github.com/shellscape/prettier-plugin-package) - An opinionated package.json formatter plugin for Prettier
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [Pywalfox](https://github.com/Frewacom/Pywalfox) - Dynamic theming of Firefox using your pywal colors
+- [pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox using your Pywal colors
 - [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [vscode-open-file-from-path](https://github.com/Jack89ita/vscode-open-file-from-path) - Simple plugin for VS Code that allows you to quickly open file starting from path string.
 - [showthedocs](https://github.com/idank/showthedocs) - 
@@ -471,7 +482,7 @@
 - [Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
 - [simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
-- [AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - More information you can read at this link:
+- [AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - Store link:
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
 - [vscode-sshextension](https://github.com/VitalyKondratiev/vscode-sshextension) - Extension for SSH connections using the ftp-simple settings
 - [grc](https://github.com/pengwynn/grc) - Mirror of Radovan Garabík's - Generic Colourizer for terminal apps
@@ -502,6 +513,7 @@
 
 ## Lua 
 
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
 - [alfred-pcalc](https://github.com/themadsens/alfred-pcalc) - A programmers calculator for alfred 3
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [awesome](https://github.com/awesomeWM/awesome) - awesome window manager
