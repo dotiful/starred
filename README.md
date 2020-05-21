@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [krunner-kwallet](https://github.com/alex1701c/krunner-kwallet) - This is a Krunner plugin which allows you to copy/show/edit/add entries from KWallet
 - [krunner-firefox](https://github.com/alex1701c/krunner-firefox) - Launch your Firefox profiles from Krunner and register them in the Firefox .desktop file
 - [applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
@@ -327,6 +328,10 @@
 
 ## JavaScript 
 
+- [adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
+- [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
+- [My-UserScripts](https://github.com/kufii/My-UserScripts) - A collection of user scripts that I made to make my experience on the web a little nicer
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [kwin-move-window-to-center](https://github.com/KSmanis/kwin-move-window-to-center) - A simple KWin script that introduces a KDE Global Shortcut for centering the active window in the current screen.
 - [hide-titles](https://github.com/bahamondev/hide-titles) - A Kwin script which hides window title when is maximized
 - [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
@@ -417,7 +422,6 @@
 - [tldr-node-client](https://github.com/tldr-pages/tldr-node-client) - Node.js command line client for TLDR-pages
 - [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) - Alfred 3 workflow to fabulously search and kill processes
 - [codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
-- [github-code-folding](https://github.com/noam3127/github-code-folding) - Chrome extension that enables code folding in GitHub
 - [github-releases-notify-bot](https://github.com/pyatyispyatil/github-releases-notify-bot) - Allows you to receive notifications of new releases of software on GitHub in Telegram
 - [alfred-caniuse](https://github.com/robjtede/alfred-caniuse) - Quickly reference caniuse.com support tables using Alfred 3.
 - [copy-url-for-alfred](https://github.com/fallroot/copy-url-for-alfred) - You can copy browser's URL and title with various formats like markdown, anchor tag and your own.
@@ -442,7 +446,6 @@
 - [buster](https://github.com/dessant/buster) - Captcha solver extension for humans 🐶
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [tower-alfred-workflow](https://github.com/drudge/tower-alfred-workflow) - Quickly access your Tower 2 git repositories from Alfred 2
-- [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [github-downloads](https://github.com/samuelmeuli/github-downloads) - ⬇️ See the number of downloads next to releases on GitHub
 - [firefox-tab-suspender](https://github.com/Hau-Hau/firefox-tab-suspender) - A Firefox extension that automatic suspend tabs and saves memory
 - [github-file-icon](https://github.com/homerchen19/github-file-icon) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
@@ -733,6 +736,7 @@
 
 ## Python 
 
+- [krunner-appmenu](https://github.com/ArturGaspar/krunner-appmenu) - KRunner appmenu plugin
 - [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
@@ -891,6 +895,8 @@
 
 ## QML 
 
+- [org.kpple.kppleMenu](https://github.com/kppleos/org.kpple.kppleMenu) - The Kpple menu is the drop-down menu of Kpple OS.
+- [Qogir-kde](https://github.com/vinceliuice/Qogir-kde) - Qogir theme for kde plasma desktop
 - [latte_slideshow_wallpaper](https://github.com/psifidotos/latte_slideshow_wallpaper) - Plasma SlideShow Wallpaper plugin
 - [McMojave-kde](https://github.com/vinceliuice/McMojave-kde) - MacOSX Mojave like theme for KDE Plasma
 
@@ -931,10 +937,11 @@
 
 ## Rust 
 
+- [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
-- [lscolors](https://github.com/sharkdp/lscolors) - A Rust library to colorize paths using LS_COLORS
+- [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using LS_COLORS
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -957,6 +964,10 @@
 
 ## Shell 
 
+- [SysTrayModder](https://github.com/baduhai/SysTrayModder) - Script to make the Plasma system tray behave like a sidebar.
+- [action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck and shfmt
+- [zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash-completions for a command if no native one is available
+- [dotbare](https://github.com/kazhala/dotbare) - Manage your dotfiles interactively any where in your system
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [updoot](https://github.com/b0o/updoot) - unify the update process for your entire system
@@ -1144,6 +1155,7 @@
 
 ## TypeScript 
 
+- [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github
 - [Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [kmdr-cli](https://github.com/ediardo/kmdr-cli) - 🧠The CLI learning tool for explaining commands from your terminal
 - [vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
