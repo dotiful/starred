@@ -95,7 +95,7 @@
 - [zinit](https://github.com/zdharma/zinit) - Ultra-flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
 - [hcxtools](https://github.com/ZerBea/hcxtools) - Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = convert and calculate candidates, x = different hashtypes
-- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, Plex servers and Chromecast devices.
+- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeart, Plex servers and Chromecast devices.
 - [nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 
@@ -474,7 +474,6 @@
 - [alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
 - [alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - Very simple workflow to quickly open up AWS Console Services in your browser
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
-- [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
@@ -1196,6 +1195,7 @@
 - [vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended) - Extended syntaxes to built-in markdown & What you see is what you get exporter.
 - [local-history](https://github.com/zabel-xyz/local-history) - local-history for vscode
 - [vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
+- [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
