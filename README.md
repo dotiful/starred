@@ -95,7 +95,7 @@
 - [zinit](https://github.com/zdharma/zinit) - Ultra-flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
 - [hcxtools](https://github.com/ZerBea/hcxtools) - Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = convert and calculate candidates, x = different hashtypes
-- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeart, Plex servers and Chromecast devices.
+- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 
@@ -123,7 +123,7 @@
 - [tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
+- [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -345,7 +345,6 @@
 - [browser-extensions](https://github.com/maple3142/browser-extensions) - 我的一些 userjs & usercss
 - [prettier-plugin-package](https://github.com/shellscape/prettier-plugin-package) - An opinionated package.json formatter plugin for Prettier
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox using your Pywal colors
 - [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [vscode-open-file-from-path](https://github.com/Jack89ita/vscode-open-file-from-path) - Simple plugin for VS Code that allows you to quickly open file starting from path string.
 - [showthedocs](https://github.com/idank/showthedocs) - 
@@ -1160,6 +1159,7 @@
 - [kmdr-cli](https://github.com/ediardo/kmdr-cli) - 🧠The CLI learning tool for explaining commands from your terminal
 - [vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
+- [pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox using your Pywal colors
 - [vscode-init-script](https://github.com/bodil/vscode-init-script) - Programmatic configuration for VS Code
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
