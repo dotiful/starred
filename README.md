@@ -220,6 +220,8 @@
 
 ## Go 
 
+- [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
+- [lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
 - [repoctl](https://github.com/cassava/repoctl) - Make it easy to manage your local Arch Linux repository.
@@ -566,6 +568,7 @@
 
 ## Others 
 
+- [PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
 - [rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
 - [vscode-userscript](https://github.com/kufii/vscode-userscript) - UserScript language support for VS Code
 - [sxhkdrc-syntax](https://github.com/mosbasik/sxhkdrc-syntax) - Syntax definition for the sxhkd configuration file for Visual Studio Code.
