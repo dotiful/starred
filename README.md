@@ -720,7 +720,7 @@
 
 ## Perl 
 
-- [ddclient](https://github.com/ddclient/ddclient) - Fork of the original ddclient code
+- [ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids
