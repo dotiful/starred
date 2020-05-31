@@ -389,7 +389,7 @@
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (May 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (June 2020)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [startpage](https://github.com/psaegert/startpage) - Startpage
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
