@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -421,7 +422,6 @@
 - [default-bookmark-folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - WebExtension allowing you to choose the default bookmark location folder and quickly bookmark pages via a dedicated icon.
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
 - [atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
-- [tldr-node-client](https://github.com/tldr-pages/tldr-node-client) - Node.js command line client for TLDR-pages
 - [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) - Alfred 3 workflow to fabulously search and kill processes
 - [codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
 - [github-releases-notify-bot](https://github.com/pyatyispyatil/github-releases-notify-bot) - Allows you to receive notifications of new releases of software on GitHub in Telegram
@@ -739,6 +739,7 @@
 
 ## Python 
 
+- [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [krunner-appmenu](https://github.com/ArturGaspar/krunner-appmenu) - KRunner appmenu plugin
 - [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -940,6 +941,7 @@
 
 ## Rust 
 
+- [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
