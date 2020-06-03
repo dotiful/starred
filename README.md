@@ -289,6 +289,7 @@
 
 ## HTML 
 
+- [podcast](https://github.com/web-standards-ru/podcast) - Выпуски подкаста «Веб-стандарты»
 - [colors](https://github.com/jonasjacek/colors) - List of 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number, HEX, RGB and HSL code.
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [fzf-color-picker](https://github.com/minSW/fzf-color-picker) - Web Color Picker for fzf custom color scheme
@@ -332,6 +333,7 @@
 
 ## JavaScript 
 
+- [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
 - [adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [My-UserScripts](https://github.com/kufii/My-UserScripts) - A collection of user scripts that I made to make my experience on the web a little nicer
@@ -408,7 +410,7 @@
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [alfred-kutt](https://github.com/thedevs-network/alfred-kutt) - Alfred workflow for Kutt.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-- [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility.
+- [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified) - Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
 - [alfred-prettier](https://github.com/keyz/alfred-prettier) - Run Prettier in Alfred
 - [userscript-template](https://github.com/kevinoid/userscript-template) - A userscript (viz. Greasemonkey/Tampermonkey/Violentmonkey script) project template with codecov, coveralls, ESLint, github_changelog_generator, istanbul, JSDoc, and mocha.
@@ -529,6 +531,7 @@
 
 ## Makefile 
 
+- [editorconfig-checker.javascript](https://github.com/editorconfig-checker/editorconfig-checker.javascript) - A tool to verify that your files are in harmony with your .editorconfig
 - [strlen.awf](https://github.com/mklement0/strlen.awf) - An Alfred workflow that counts the number of characters and bytes in a string.
 - [mac-playbook](https://github.com/oxyc/mac-playbook) - Mac setup and configuration via Ansible.
 
