@@ -742,7 +742,7 @@
 
 ## Python 
 
-- [textshot](https://github.com/ianzhao05/textshot) - Cross-platform Python tool for grabbing text via screenshot
+- [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [krunner-appmenu](https://github.com/ArturGaspar/krunner-appmenu) - KRunner appmenu plugin
 - [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
