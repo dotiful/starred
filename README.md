@@ -271,6 +271,7 @@
 - [alfred-github-jump](https://github.com/lox/alfred-github-jump) - An alfred plugin to quickly jump to a github repository page
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [alfred-circleci-workflow](https://github.com/lorentzca/alfred-circleci-workflow) - Search and show CircleCI build status.
+- [alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers
 - [capsulecd](https://github.com/AnalogJ/capsulecd) - Continuous Delivery for automating package releases (npm, cookbooks, gems, pip, jars, etc)
@@ -863,7 +864,6 @@
 - [alfred-help-workflow](https://github.com/pochemuto/alfred-help-workflow) - Helps to remember workflow keywords
 - [LeetCode-Search](https://github.com/TooSchoolForCool/LeetCode-Search) - An Alfred Workflow for searching algorithm problems in LeetCode with advanced options
 - [tesla-alfred-workflow](https://github.com/ejsuncy/tesla-alfred-workflow) - A workflow for Alfred to interact with a Tesla vehicle using the unofficial Tesla JSON API
-- [alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [alfred-oh-my-zsh-workflow](https://github.com/matthewmcgarvey/alfred-oh-my-zsh-workflow) - 
 - [shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts!
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -977,7 +977,7 @@
 - [SysTrayModder](https://github.com/baduhai/SysTrayModder) - Script to make the Plasma system tray behave like a sidebar.
 - [action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck and shfmt
 - [zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
-- [dotbare](https://github.com/kazhala/dotbare) - Manage your dotfiles interactively any where in your system
+- [dotbare](https://github.com/kazhala/dotbare) - Manage your dotfiles interactively with fzf
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [updoot](https://github.com/b0o/updoot) - unify the update process for your entire system
