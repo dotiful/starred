@@ -706,6 +706,7 @@
 - [alfred-devdocs](https://github.com/yannickglt/alfred-devdocs) - Alfred workflow for devdocs.io
 - [deepl-alfred-workflow](https://github.com/m9dfukc/deepl-alfred-workflow) - DeepL translations for Alfred
 - [alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
+- [asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 3
 - [alfred-github-stars](https://github.com/stroebjo/alfred-github-stars) - Alfred workflow to search your stars on GitHub stars directly from Alfred.
 - [QLColorCode-extra](https://github.com/BrianGilbert/QLColorCode-extra) - Quicklook Syntax highlighting with support for Drupal filetypes and more (module, profile, theme, install, inc)
@@ -1067,7 +1068,6 @@
 - [HP-ProBook-4x30s-DSDT-Patch](https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch) - This repository contains the ACPI patches (using Clover hotpatch) for a wide range of HP ProBook/EliteBook/ZBook laptops
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [zsh-completions](https://github.com/zchee/zsh-completions) - Yet another zsh completion sources library. fork, fix or wrote myself.
-- [asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [AlfredGithubFolderDownloader](https://github.com/logic1988/AlfredGithubFolderDownloader) - Alfred Workflow for download a specific folder in GitHub.
 - [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
