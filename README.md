@@ -76,6 +76,7 @@
 - [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [font-manager](https://github.com/FontManager/font-manager) - 
+- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
 - [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -123,7 +124,6 @@
 - [ksnip](https://github.com/ksnip/ksnip) - Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
 - [tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
-- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -220,6 +220,8 @@
 
 ## Go 
 
+- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -572,6 +574,7 @@
 
 ## Others 
 
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
 - [rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
 - [vscode-userscript](https://github.com/kufii/vscode-userscript) - UserScript language support for VS Code
@@ -726,6 +729,7 @@
 
 ## Perl 
 
+- [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
@@ -744,6 +748,8 @@
 
 ## Python 
 
+- [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [APK-Downloader](https://github.com/HamidrezaMoradi/APK-Downloader) - Download latest version of android apps and games from Google Play.
 - [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [krunner-appmenu](https://github.com/ArturGaspar/krunner-appmenu) - KRunner appmenu plugin
 - [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
@@ -958,7 +964,6 @@
 - [run-or-raise](https://github.com/Soft/run-or-raise) - Utility for launching applications or focusing their windows
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
