@@ -711,7 +711,7 @@
 - [deepl-alfred-workflow](https://github.com/m9dfukc/deepl-alfred-workflow) - DeepL translations for Alfred
 - [alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
 - [asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
-- [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 3
+- [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 3/4
 - [alfred-github-stars](https://github.com/stroebjo/alfred-github-stars) - Alfred workflow to search your stars on GitHub stars directly from Alfred.
 - [QLColorCode-extra](https://github.com/BrianGilbert/QLColorCode-extra) - Quicklook Syntax highlighting with support for Drupal filetypes and more (module, profile, theme, install, inc)
 - [fakerpress](https://github.com/bordoni/fakerpress) - A WordPress plugin that implements an easy way to create fake data inside WordPress.
