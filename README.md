@@ -337,6 +337,7 @@
 
 ## JavaScript 
 
+- [TIL3R](https://github.com/causa-prima/TIL3R) - TIL3R adds more manual tiling options to KWin. With this script you can divide you screen in thirds, using the full or half screen height.
 - [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
 - [adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
@@ -749,6 +750,7 @@
 
 ## Python 
 
+- [krunner-shell](https://github.com/papajoker/krunner-shell) - plasma krunner plugin run shell commands
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [APK-Downloader](https://github.com/HamidrezaMoradi/APK-Downloader) - Download latest version of android apps and games from Google Play.
 - [textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
@@ -982,6 +984,7 @@
 
 ## Shell 
 
+- [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [SysTrayModder](https://github.com/baduhai/SysTrayModder) - Script to make the Plasma system tray behave like a sidebar.
@@ -1202,7 +1205,7 @@
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
-- [vscode-svgo](https://github.com/1000ch/vscode-svgo) - Minify SVG with SVGO.
+- [vscode-svgo](https://github.com/1000ch/vscode-svgo) - Minify SVG with SVGO 🐯
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [vscode-tree-sitter](https://github.com/georgewfraser/vscode-tree-sitter) - Accurate syntax coloring for VSCode using tree-sitter
 - [maptz.vscode.extensions.customfolding](https://github.com/maptz/maptz.vscode.extensions.customfolding) - 
