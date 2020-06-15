@@ -352,7 +352,7 @@
 - [syntax-highlighting-scopes-showroom](https://github.com/baleyko/syntax-highlighting-scopes-showroom) - Highlights syntax scopes to simplify syntax highlighting extensions development
 - [githubbox](https://github.com/dferber90/githubbox) - 🏖 Open any GitHub repo in CodeSandbox by changing the hostname
 - [colorpicker](https://github.com/Toinane/colorpicker) - A mininal but complete colorpicker desktop app
-- [kwin-quick-tile-enhancements](https://github.com/tarkusdev/kwin-quick-tile-enhancements) - Enhancements for the KWin Quick Tile feature.
+- [kwin-quick-tile-enhancements](https://github.com/michaelmob/kwin-quick-tile-enhancements) - Enhancements for the KWin Quick Tile feature.
 - [browser-extensions](https://github.com/maple3142/browser-extensions) - 我的一些 userjs & usercss
 - [prettier-plugin-package](https://github.com/shellscape/prettier-plugin-package) - An opinionated package.json formatter plugin for Prettier
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
