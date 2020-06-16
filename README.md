@@ -163,6 +163,7 @@
 
 ## CSS 
 
+- [material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [OLX-QuiteDark](https://github.com/pawelos076232/OLX-QuiteDark) - The new dark style for OLX #multilang (ad remove included)
 - [VDARK](https://github.com/Wondermarin/VDARK) - Perhaps the best dark theme for VK
@@ -337,6 +338,7 @@
 
 ## JavaScript 
 
+- [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
 - [TIL3R](https://github.com/causa-prima/TIL3R) - TIL3R adds more manual tiling options to KWin. With this script you can divide you screen in thirds, using the full or half screen height.
 - [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
 - [adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
@@ -750,6 +752,7 @@
 
 ## Python 
 
+- [AIO-Boot-Helper](https://github.com/BruceZhang1993/AIO-Boot-Helper) - Helper scripts for AIO-Boot on Linux and more.
 - [krunner-shell](https://github.com/papajoker/krunner-shell) - plasma krunner plugin run shell commands
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [APK-Downloader](https://github.com/HamidrezaMoradi/APK-Downloader) - Download latest version of android apps and games from Google Play.
@@ -956,6 +959,7 @@
 
 ## Rust 
 
+- [cw](https://github.com/Freaky/cw) - A Rust wc clone
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
@@ -984,6 +988,7 @@
 
 ## Shell 
 
+- [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
