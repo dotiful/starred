@@ -566,7 +566,7 @@
 - [AdvanceKextUpdater](https://github.com/MuntashirAkon/AdvanceKextUpdater) - Keep your kexts up-to-date all the time starting from macOS 10.7
 - [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [NativeDisplayBrightness](https://github.com/Bensge/NativeDisplayBrightness) - macOS display brightness utility for external monitors with a native UI.
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 - [MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
@@ -709,7 +709,7 @@
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [piratebay-alfred-workflow](https://github.com/Sheraff/piratebay-alfred-workflow) - workflow for Alfred App to crawl piratebay and return torrent files / magnet links
-- [alfred-kat](https://github.com/godbout/alfred-kat) - KAT workflow for Alfred, search and open magnet links directly from Alfred
+- [alfred-kat](https://github.com/godbout/alfred-kat) - KAT workflow for Alfred, search and open magnet links directly from Alfred.
 - [alfred-devdocs](https://github.com/yannickglt/alfred-devdocs) - Alfred workflow for devdocs.io
 - [deepl-alfred-workflow](https://github.com/m9dfukc/deepl-alfred-workflow) - DeepL translations for Alfred
 - [alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
