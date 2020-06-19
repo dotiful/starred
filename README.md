@@ -341,6 +341,7 @@
 - [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
 - [TIL3R](https://github.com/causa-prima/TIL3R) - TIL3R adds more manual tiling options to KWin. With this script you can divide you screen in thirds, using the full or half screen height.
 - [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
+- [PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
 - [adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [My-UserScripts](https://github.com/kufii/My-UserScripts) - A collection of user scripts that I made to make my experience on the web a little nicer
@@ -579,7 +580,6 @@
 ## Others 
 
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
 - [rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
 - [vscode-userscript](https://github.com/kufii/vscode-userscript) - UserScript language support for VS Code
 - [sxhkdrc-syntax](https://github.com/mosbasik/sxhkdrc-syntax) - Syntax definition for the sxhkd configuration file for Visual Studio Code.
@@ -1210,7 +1210,7 @@
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
-- [vscode-svgo](https://github.com/1000ch/vscode-svgo) - Minify SVG with SVGO 🐯
+- [vscode-svgo](https://github.com/1000ch/vscode-svgo) - Fully featured SVGO plugin for Visual Studio Code 🐯
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [vscode-tree-sitter](https://github.com/georgewfraser/vscode-tree-sitter) - Accurate syntax coloring for VSCode using tree-sitter
 - [maptz.vscode.extensions.customfolding](https://github.com/maptz/maptz.vscode.extensions.customfolding) - 
