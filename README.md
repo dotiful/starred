@@ -163,6 +163,7 @@
 
 ## CSS 
 
+- [MDN-Dark](https://github.com/AfroThundr3007730/MDN-Dark) - Dark theme for the Mozilla Developer Network
 - [material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [OLX-QuiteDark](https://github.com/pawelos076232/OLX-QuiteDark) - The new dark style for OLX #multilang (ad remove included)
@@ -294,6 +295,7 @@
 
 ## HTML 
 
+- [code](https://github.com/joeytwiddle/code) - All my old code in various languages.  Some of it is better than the rest.
 - [podcast](https://github.com/web-standards-ru/podcast) - Выпуски подкаста «Веб-стандарты»
 - [colors](https://github.com/jonasjacek/colors) - List of 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number, HEX, RGB and HSL code.
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
@@ -331,13 +333,14 @@
 - [xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
 - [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
-- [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB
+- [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 - [syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [Hijacker](https://github.com/chrisk44/Hijacker) - Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android
 
 ## JavaScript 
 
+- [mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
 - [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
 - [TIL3R](https://github.com/causa-prima/TIL3R) - TIL3R adds more manual tiling options to KWin. With this script you can divide you screen in thirds, using the full or half screen height.
 - [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
@@ -988,6 +991,8 @@
 
 ## Shell 
 
+- [bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
+- [kunst](https://github.com/sdushantha/kunst) - 🖼️ Download and display album art or display embedded album art
 - [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
@@ -1182,6 +1187,7 @@
 
 ## TypeScript 
 
+- [stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
 - [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github
 - [Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [kmdr-cli](https://github.com/ediardo/kmdr-cli) - 🧠The CLI learning tool for explaining commands from your terminal
