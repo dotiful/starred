@@ -184,6 +184,7 @@
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [bookmarklets](https://github.com/janmoesen/bookmarklets) - Time-saving and life-enhancing (ahem) bookmarklets
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [qlplayground](https://github.com/norio-nomura/qlplayground) - `qlplayground` is a QuickLook plugin for Swift files.
 - [Telegram-Vanilla-Dark-Web](https://github.com/VChet/Telegram-Vanilla-Dark-Web) - Dark theme for web.telegram.org
 - [slack-dark-mojave-theme](https://github.com/elv1n/slack-dark-mojave-theme) - Beautiful dark theme for slack 3, 4+. Apply theme by running one command 🌸
@@ -442,7 +443,6 @@
 - [alfred-caniuse](https://github.com/robjtede/alfred-caniuse) - Quickly reference caniuse.com support tables using Alfred 3.
 - [copy-url-for-alfred](https://github.com/fallroot/copy-url-for-alfred) - You can copy browser's URL and title with various formats like markdown, anchor tag and your own.
 - [extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
 - [js-for-firefox](https://github.com/janakaud/js-for-firefox) - JavaScript snippets and hacks for Mozilla Firefox
@@ -634,7 +634,7 @@
 - [atom-language-homebrew-formula](https://github.com/josa42/atom-language-homebrew-formula) - 
 - [alfred-special-characters](https://github.com/typefacts/alfred-special-characters) - Special Characters by Typefacts — An Alfred App Workflow
 - [hackintosh](https://github.com/macfanatic77/hackintosh) - 
-- [mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users. You can have any color as long as it's not Black 🎩
+- [mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users. 🎩
 - [open-in-buttons-for-finder-toolbar](https://github.com/cnstntn-kndrtv/open-in-buttons-for-finder-toolbar) - Open in TextMate, open in VS Code buttons for Finder toolbar and MB pro Touch Bar
 - [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
@@ -826,7 +826,7 @@
 - [aws-alfred-workflow](https://github.com/twang817/aws-alfred-workflow) - aws alfred workflow
 - [alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
 - [alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
-- [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow) - Search StackOverflow.com from Alfred
+- [alfred-stackexchange](https://github.com/deanishe/alfred-stackexchange) - Search StackOverflow.com from Alfred
 - [alfred-gitmoji-workflow](https://github.com/ai0/alfred-gitmoji-workflow) - 💥 A handy Alfred workflow to use gitmojis
 - [Alfred-Gitlab-Tool](https://github.com/wangshub/Alfred-Gitlab-Tool) - 🦊 Time saving: Alfred Gitlab workflow tool.
 - [vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
