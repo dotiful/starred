@@ -459,7 +459,7 @@
 - [google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
 - [TravisCI-Telegam-Bot](https://github.com/artemgurzhii/TravisCI-Telegam-Bot) - Telegram bot, which will notify you each time, when your travis ci build is done.
 - [tap-release](https://github.com/toolmantim/tap-release) - Automatically update Homebrew taps when you publish new GitHub releases
-- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans 🐶
+- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [tower-alfred-workflow](https://github.com/drudge/tower-alfred-workflow) - Quickly access your Tower 2 git repositories from Alfred 2
 - [github-downloads](https://github.com/samuelmeuli/github-downloads) - ⬇️ See the number of downloads next to releases on GitHub
@@ -921,7 +921,7 @@
 ## QML 
 
 - [applet-window-title](https://github.com/psifidotos/applet-window-title) - Plasma 5 applet that shows the application title and icon for active window
-- [kde-plasmoid-chiliclock](https://github.com/MarianArlt/kde-plasmoid-chiliclock) - The hottest clock around on a single line!
+- [kde-plasmoid-betterinlineclock](https://github.com/MarianArlt/kde-plasmoid-betterinlineclock) - Your usual clock widget, just way better and on a single line!
 - [org.kpple.kppleMenu](https://github.com/kppleos/org.kpple.kppleMenu) - The Kpple menu is the drop-down menu of Kpple OS.
 - [Qogir-kde](https://github.com/vinceliuice/Qogir-kde) - Qogir theme for kde plasma desktop
 - [latte_slideshow_wallpaper](https://github.com/psifidotos/latte_slideshow_wallpaper) - Plasma SlideShow Wallpaper plugin
