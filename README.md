@@ -156,7 +156,7 @@
 - [incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod) - Apache module for rewriting web pages to reduce latency and bandwidth.
 - [npackd-cpp](https://github.com/tim-lebedkov/npackd-cpp) - Package manager for Microsoft Windows (GUI and command line utility)
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [poedit](https://github.com/vslavik/poedit) - Gettext translations editor for Mac, Windows and Unix.
+- [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 
 ## CMake 
 
@@ -849,7 +849,7 @@
 - [alfred-default-app](https://github.com/Acidham/alfred-default-app) - Change default app for an extension
 - [firefox-bookmark-to-disk](https://github.com/octplane/firefox-bookmark-to-disk) - Alfred Workflow + FF Webextension + FF Native App Manifest + Python App to save your bookmarks as they are updated
 - [pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
-- [runMacOSinVirtualBox](https://github.com/AlexanderWillner/runMacOSinVirtualBox) - Run macOS 10.15 Catalina (and other versions) in VirtualBox on macOS
+- [runMacOSinVirtualBox](https://github.com/AlexanderWillner/runMacOSinVirtualBox) - Run macOS 10.16 Big Sur (and other versions) in VirtualBox on macOS
 - [tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [pass-alfred](https://github.com/MatthewWest/pass-alfred) - An alfred UI for the pass password manager (passwordstore.org)
 - [smd](https://github.com/artyshko/smd) - Spotify Music Downloader
