@@ -1091,7 +1091,7 @@
 - [instashell](https://github.com/thelinuxchoice/instashell) - Multi-threaded Instagram Brute Forcer without password limit
 - [HP-ProBook-4x30s-DSDT-Patch](https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch) - This repository contains the ACPI patches (using Clover hotpatch) for a wide range of HP ProBook/EliteBook/ZBook laptops
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
-- [zsh-completions](https://github.com/zchee/zsh-completions) - Yet another zsh completion sources library. fork, fix or wrote myself.
+- [zsh-completions](https://github.com/zchee/zsh-completions) - Yet another zsh completion sources library. Fork, fix and written by me.
 - [AlfredGithubFolderDownloader](https://github.com/logic1988/AlfredGithubFolderDownloader) - Alfred Workflow for download a specific folder in GitHub.
 - [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
