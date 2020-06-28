@@ -70,6 +70,7 @@
 
 ## C 
 
+- [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [spwd](https://github.com/ayosec/spwd) - ShorterPWD: show the current path, trimming the parents to fit a certain width
 - [xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
 - [sendkeys](https://github.com/kyoto/sendkeys) - Send key presses to open applications in X Windows (GNOME, KDE, Unity, etc.)
@@ -583,6 +584,7 @@
 
 ## Others 
 
+- [udev-rules](https://github.com/dpkristensen/udev-rules) - vscode syntax highlighting for udev rules
 - [VimL](https://github.com/evandroforks/VimL) - VimL Package for Sublime Text.
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
@@ -636,6 +638,7 @@
 - [hackintosh](https://github.com/macfanatic77/hackintosh) - 
 - [mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users. 🎩
 - [open-in-buttons-for-finder-toolbar](https://github.com/cnstntn-kndrtv/open-in-buttons-for-finder-toolbar) - Open in TextMate, open in VS Code buttons for Finder toolbar and MB pro Touch Bar
+- [kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [alfred-github-gists](https://github.com/vookimedlo/alfred-github-gists) - Alfred 4 workflow for opening your GitHub Gists in your default browser.
@@ -830,7 +833,6 @@
 - [alfred-gitmoji-workflow](https://github.com/ai0/alfred-gitmoji-workflow) - 💥 A handy Alfred workflow to use gitmojis
 - [Alfred-Gitlab-Tool](https://github.com/wangshub/Alfred-Gitlab-Tool) - 🦊 Time saving: Alfred Gitlab workflow tool.
 - [vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
-- [kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [Lilu-and-Friends](https://github.com/corpnewt/Lilu-and-Friends) - A python script that can download and build a number of kexts.
 - [alfred-workflow-packager](https://github.com/caleb531/alfred-workflow-packager) - A command-line utility for packaging and exporting Alfred workflows with ease
 - [ProgressBar](https://github.com/jeeftor/ProgressBar) - Sample Alfred progress bar workflow
@@ -964,6 +966,7 @@
 
 ## Rust 
 
+- [hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [cw](https://github.com/Freaky/cw) - A Rust wc clone
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
@@ -1189,6 +1192,7 @@
 
 ## TypeScript 
 
+- [vscode-iterm2-theme-sync](https://github.com/tusaeff/vscode-iterm2-theme-sync) - Extension that synchronizes an iTerm2 color profile with selected VSCode theme
 - [stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
 - [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github
 - [Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
