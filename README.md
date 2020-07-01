@@ -742,6 +742,7 @@
 ## Perl 
 
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
+- [ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids
@@ -759,6 +760,7 @@
 
 ## Python 
 
+- [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [AIO-Boot-Helper](https://github.com/BruceZhang1993/AIO-Boot-Helper) - Helper scripts for AIO-Boot on Linux and more.
 - [krunner-shell](https://github.com/papajoker/krunner-shell) - plasma krunner plugin run shell commands
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
@@ -1007,7 +1009,6 @@
 - [zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
 - [dotbare](https://github.com/kazhala/dotbare) - Manage your dotfiles interactively with fzf
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
-- [ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [updoot](https://github.com/b0o/updoot) - unify the update process for your entire system
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a Bash configuration with bash syntax highlighting, auto suggestions, vim modes, etc. in interactive sessions
