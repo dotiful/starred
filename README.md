@@ -982,7 +982,7 @@
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [run-or-raise](https://github.com/Soft/run-or-raise) - Utility for launching applications or focusing their windows
-- [delta](https://github.com/dandavison/delta) - A syntax-highlighter for git and diff output
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
