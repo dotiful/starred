@@ -520,7 +520,7 @@
 - [vscode-nginx-conf-hint](https://github.com/hangxingliu/vscode-nginx-conf-hint) - :pencil: VS Code extension: Nginx config file hint(auto-completion)
 - [vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [gnome-shell-remove-dropdown-arrows](https://github.com/mpdeimos/gnome-shell-remove-dropdown-arrows) - Removes the dropdown arrows from the AppMenu and SystemMenu (AggregateMenu) which were introduced in Gnome 3.10.
-- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 125+ key mappings for 20+ sites & OmniBar search suggestions for 55+ sites
+- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 125+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
 - [notion-app](https://github.com/sysdrum/notion-app) - Notion.so desktop application for Linux
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
@@ -760,6 +760,7 @@
 
 ## Python 
 
+- [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [AIO-Boot-Helper](https://github.com/BruceZhang1993/AIO-Boot-Helper) - Helper scripts for AIO-Boot on Linux and more.
 - [krunner-shell](https://github.com/papajoker/krunner-shell) - plasma krunner plugin run shell commands
@@ -1193,7 +1194,7 @@
 
 ## TypeScript 
 
-- [vscode-iterm2-theme-sync](https://github.com/tusaeff/vscode-iterm2-theme-sync) - Extension that synchronizes an iTerm2 color profile with selected VSCode theme
+- [vscode-iterm2-theme-sync](https://github.com/tusaeff/vscode-iterm2-theme-sync) - Synchronizes an iTerm2 color profile with selected VSCode theme 🎨
 - [stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
 - [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github
 - [Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
