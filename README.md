@@ -7,6 +7,7 @@
 
   - [AppleScript](#applescript)
   - [AutoHotkey](#autohotkey)
+  - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -62,6 +63,10 @@
 - [AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
 - [AutoHotkey-script-Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - AutoHotkey script to open, restore or minimize, Window's and Chrome's Apps using hotkeys
 - [Panel](https://github.com/Joonikko/Panel) - The missing GUI for Microsoft Windows
+
+## AutoIt 
+
+- [PortableApps-App-Creation-Wizard](https://github.com/BetaLeaf/PortableApps-App-Creation-Wizard) - A simple GUI-based wizard for assisting developers creating PortableApps.
 
 ## Batchfile 
 
@@ -406,7 +411,7 @@
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2020)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [startpage](https://github.com/psaegert/startpage) - Startpage
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -584,6 +589,7 @@
 
 ## Others 
 
+- [vim_shortcut_wallpaper](https://github.com/LevelbossMike/vim_shortcut_wallpaper) - A vim cheat sheet wallpaper.
 - [udev-rules](https://github.com/dpkristensen/udev-rules) - vscode syntax highlighting for udev rules
 - [VimL](https://github.com/evandroforks/VimL) - VimL Package for Sublime Text.
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -973,7 +979,7 @@
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
-- [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
+- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
@@ -1237,7 +1243,7 @@
 - [vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended) - Extended syntaxes to built-in markdown & What you see is what you get exporter.
 - [local-history](https://github.com/zabel-xyz/local-history) - local-history for vscode
 - [vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
-- [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
+- [statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
