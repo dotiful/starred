@@ -589,6 +589,7 @@
 
 ## Others 
 
+- [SublimeText-3211-License-Key-](https://github.com/AchrafIdir/SublimeText-3211-License-Key-) - 
 - [vim_shortcut_wallpaper](https://github.com/LevelbossMike/vim_shortcut_wallpaper) - A vim cheat sheet wallpaper.
 - [udev-rules](https://github.com/dpkristensen/udev-rules) - vscode syntax highlighting for udev rules
 - [VimL](https://github.com/evandroforks/VimL) - VimL Package for Sublime Text.
@@ -1014,7 +1015,7 @@
 - [SysTrayModder](https://github.com/baduhai/SysTrayModder) - Script to make the Plasma system tray behave like a sidebar.
 - [action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck and shfmt
 - [zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
-- [dotbare](https://github.com/kazhala/dotbare) - Manage your dotfiles interactively with fzf
+- [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [updoot](https://github.com/b0o/updoot) - unify the update process for your entire system
