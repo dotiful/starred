@@ -74,6 +74,7 @@
 
 ## C 
 
+- [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [spwd](https://github.com/ayosec/spwd) - ShorterPWD: show the current path, trimming the parents to fit a certain width
 - [xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
@@ -121,6 +122,7 @@
 
 ## C++ 
 
+- [kwin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - stutter and latency reductions to KWin
 - [grub2-editor](https://github.com/maz-1/grub2-editor) - A KDE Control Module for configuring the GRUB2 bootloader. Unofficial KF5 port.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
@@ -346,6 +348,7 @@
 
 ## JavaScript 
 
+- [sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
 - [mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
 - [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
 - [TIL3R](https://github.com/causa-prima/TIL3R) - TIL3R adds more manual tiling options to KWin. With this script you can divide you screen in thirds, using the full or half screen height.
