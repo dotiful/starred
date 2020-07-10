@@ -74,6 +74,7 @@
 
 ## C 
 
+- [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [spwd](https://github.com/ayosec/spwd) - ShorterPWD: show the current path, trimming the parents to fit a certain width
@@ -109,6 +110,7 @@
 
 ## C# # 
 
+- [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -758,6 +760,7 @@
 
 ## PowerShell 
 
+- [pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
 - [Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Add coloring to the output of Get-ChildItem Cmdlet of PowerShell.
 - [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
@@ -1191,7 +1194,7 @@
 - [Menu-Bar-Search](https://github.com/BenziAhamed/Menu-Bar-Search) - Quickly search through menu options of the front-most application - Alfred Workflow
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS.
 - [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
-- [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [MaterialDesignColorPicker](https://github.com/CodeCatalyst/MaterialDesignColorPicker) - Material Design Color Picker for macOS
