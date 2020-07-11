@@ -1009,6 +1009,7 @@
 
 ## Shell 
 
+- [vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [kunst](https://github.com/sdushantha/kunst) - 🖼️ Download and display album art or display embedded album art
