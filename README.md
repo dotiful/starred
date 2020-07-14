@@ -322,7 +322,6 @@
 - [syndicate](https://github.com/kaishin/syndicate) - Safari extension that brings the RSS button back to the toolbar.
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [PEPortal](https://github.com/0xFireWolf/PEPortal) - FireWolf OS X PE Portal hosted on Github
-- [Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [Parsing-Workshop](https://github.com/InsightDataScience/Parsing-Workshop) - This is Insight's Workshop to help our DevOps Fellows prepare for Log Parsing Intervies.
 - [OS-X-MaciASL-patchmatic](https://github.com/RehabMan/OS-X-MaciASL-patchmatic) - Fork of phpdev32's MaciASL project, primarily to add command line patcher, patchmatic
 - [alfred-searchio](https://github.com/deanishe/alfred-searchio) - Alfred workflow to auto-suggest search results from multiple search engines and languages.
@@ -731,6 +730,7 @@
 - [alfred-devdocs](https://github.com/yannickglt/alfred-devdocs) - Alfred workflow for devdocs.io
 - [deepl-alfred-workflow](https://github.com/m9dfukc/deepl-alfred-workflow) - DeepL translations for Alfred
 - [alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
+- [Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 3/4
 - [alfred-github-stars](https://github.com/stroebjo/alfred-github-stars) - Alfred workflow to search your stars on GitHub stars directly from Alfred.
