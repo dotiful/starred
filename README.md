@@ -1210,7 +1210,7 @@
 - [stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
 - [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github
 - [Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-- [kmdr-cli](https://github.com/ediardo/kmdr-cli) - 🧠The CLI learning tool for explaining commands from your terminal
+- [kmdr-cli](https://github.com/ediardo/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox using your Pywal colors
