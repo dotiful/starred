@@ -406,7 +406,7 @@
 - [themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Userscripts](https://github.com/darkred/Userscripts) - My userscripts
 - [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
-- [eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint shared configs and rules used by GitHub.
+- [eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
 - [addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
 - [npmhub](https://github.com/npmhub/npmhub) - :mag_right: A browser extension for exploring npm dependencies on GitHub repos
 - [Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
@@ -905,7 +905,7 @@
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible examples from Ansible for DevOps.
-- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker) - Automatically exported from code.google.com/p/fern-wifi-cracker
 - [adb-alfred](https://github.com/zjn0505/adb-alfred) - adb alfred - all in one
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
