@@ -349,6 +349,7 @@
 
 ## JavaScript 
 
+- [exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API
 - [sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
 - [mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
 - [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
@@ -771,6 +772,7 @@
 
 ## Python 
 
+- [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [AIO-Boot-Helper](https://github.com/BruceZhang1993/AIO-Boot-Helper) - Helper scripts for AIO-Boot on Linux and more.
@@ -1206,6 +1208,9 @@
 
 ## TypeScript 
 
+- [ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
+- [ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub
+- [codeui](https://github.com/ryanraposo/codeui) - Build, edit, & explore your color theme for VS Code.
 - [vscode-iterm2-theme-sync](https://github.com/tusaeff/vscode-iterm2-theme-sync) - Synchronizes an iTerm2 color profile with selected VSCode theme 🎨
 - [stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
 - [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github
@@ -1219,7 +1224,7 @@
 - [swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
 - [vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
 - [vscode-run-commands-view](https://github.com/usernamehw/vscode-run-commands-view) - Run commands from its own view
-- [vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
+- [vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings.
 - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [vscode-control-snippets](https://github.com/svipas/vscode-control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
