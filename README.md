@@ -57,6 +57,7 @@
 
 ## AutoHotkey 
 
+- [FoldersPopup](https://github.com/JnLlnd/FoldersPopup) - Popup menu to jump instantly from one folder to another. Freeware.
 - [CL3](https://github.com/hi5/CL3) - Minimal clipboard caching utility inspired by CLCL 📋
 - [screenkey.ahk](https://github.com/mihaifm/screenkey.ahk) - A tool that displays the keys that you type on the screen
 - [AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
@@ -74,6 +75,7 @@
 
 ## C 
 
+- [reghack](https://github.com/Luminger/reghack) - Fix OpenWRT wlan regulatory settings (mirror from http://luci.subsignal.org/~jow/reghack/
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -111,7 +113,6 @@
 ## C# # 
 
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -125,10 +126,12 @@
 
 ## C++ 
 
+- [linssid](https://github.com/Exhar/linssid) - LinSSID repository
 - [kwin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - stutter and latency reductions to KWin
 - [grub2-editor](https://github.com/maz-1/grub2-editor) - A KDE Control Module for configuring the GRUB2 bootloader. Unofficial KF5 port.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [krunner-kwallet](https://github.com/alex1701c/krunner-kwallet) - This is a Krunner plugin which allows you to copy/show/edit/add entries from KWallet
 - [krunner-firefox](https://github.com/alex1701c/krunner-firefox) - Launch your Firefox profiles from Krunner and register them in the Firefox .desktop file
 - [krunner-vscodeprojects](https://github.com/alex1701c/krunner-vscodeprojects) - Open VSCode Project Manager projects from Krunner
@@ -723,6 +726,7 @@
 
 ## PHP 
 
+- [dwpa](https://github.com/RealEnder/dwpa) - Distributed WPA PSK auditor
 - [alfred-time](https://github.com/godbout/alfred-time) - Start and stop tracking time with Toggl, Harvest or Everhour through Alfred 4
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
@@ -1218,7 +1222,7 @@
 - [kmdr-cli](https://github.com/ediardo/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
-- [pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox using your Pywal colors
+- [pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [vscode-init-script](https://github.com/bodil/vscode-init-script) - Programmatic configuration for VS Code
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
