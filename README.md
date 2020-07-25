@@ -308,6 +308,7 @@
 
 ## HTML 
 
+- [AutoHotkey_LPortable](https://github.com/2wayne/AutoHotkey_LPortable) - AutoHotkey in the PortableApps.com Format
 - [code](https://github.com/joeytwiddle/code) - All my old code in various languages.  Some of it is better than the rest.
 - [podcast](https://github.com/web-standards-ru/podcast) - Выпуски подкаста «Веб-стандарты»
 - [colors](https://github.com/jonasjacek/colors) - List of 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number, HEX, RGB and HSL code.
