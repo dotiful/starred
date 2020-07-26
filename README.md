@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [AdGuardHome](https://github.com/iganeshk/AdGuardHome) - A deep orange influenced dark theme builds for Adguard Home.
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
@@ -308,6 +309,7 @@
 
 ## HTML 
 
+- [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
 - [AutoHotkey_LPortable](https://github.com/2wayne/AutoHotkey_LPortable) - AutoHotkey in the PortableApps.com Format
 - [code](https://github.com/joeytwiddle/code) - All my old code in various languages.  Some of it is better than the rest.
 - [podcast](https://github.com/web-standards-ru/podcast) - Выпуски подкаста «Веб-стандарты»
@@ -353,6 +355,9 @@
 
 ## JavaScript 
 
+- [stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
+- [speed-cloudflare-cli](https://github.com/KNawm/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
+- [speedo-cli](https://github.com/xxczaki/speedo-cli) - ⌚️ Internet speed report in your terminal!
 - [exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API
 - [sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
 - [mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
@@ -596,6 +601,7 @@
 
 ## Others 
 
+- [SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
 - [SublimeText-3211-License-Key-](https://github.com/AchrafIdir/SublimeText-3211-License-Key-) - 
 - [vim_shortcut_wallpaper](https://github.com/LevelbossMike/vim_shortcut_wallpaper) - A vim cheat sheet wallpaper.
 - [udev-rules](https://github.com/dpkristensen/udev-rules) - vscode syntax highlighting for udev rules
@@ -777,6 +783,7 @@
 
 ## Python 
 
+- [sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
@@ -986,6 +993,7 @@
 
 ## Rust 
 
+- [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [cw](https://github.com/Freaky/cw) - A Rust wc clone
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
