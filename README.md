@@ -290,6 +290,7 @@
 - [alfred-github-jump](https://github.com/lox/alfred-github-jump) - An alfred plugin to quickly jump to a github repository page
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [alfred-circleci-workflow](https://github.com/lorentzca/alfred-circleci-workflow) - Search and show CircleCI build status.
+- [alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - Very simple workflow to quickly open up AWS Console Services in your browser
 - [alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers
@@ -355,6 +356,7 @@
 
 ## JavaScript 
 
+- [scroll-snap-carousel](https://github.com/dimanech/scroll-snap-carousel) - Carousel based on CSS Scroll Snap functionality
 - [stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [speed-cloudflare-cli](https://github.com/KNawm/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [speedo-cli](https://github.com/xxczaki/speedo-cli) - ⌚️ Internet speed report in your terminal!
@@ -506,7 +508,6 @@
 - [alfred-github-notifications](https://github.com/anshumanv/alfred-github-notifications) - Alfred workflow to take control of your github notifications
 - [alfred-github-activity](https://github.com/anshumanv/alfred-github-activity) - An alfred workflow to get public activity of a github user
 - [alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
-- [alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - Very simple workflow to quickly open up AWS Console Services in your browser
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
