@@ -356,6 +356,7 @@
 
 ## JavaScript 
 
+- [YouTubeHideChatByDefaultUserscript](https://github.com/skoshy/YouTubeHideChatByDefaultUserscript) - Hides YouTube chat by default
 - [scroll-snap-carousel](https://github.com/dimanech/scroll-snap-carousel) - Carousel based on CSS Scroll Snap functionality
 - [stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [speed-cloudflare-cli](https://github.com/KNawm/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
@@ -425,7 +426,7 @@
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [startpage](https://github.com/psaegert/startpage) - Startpage
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -602,6 +603,7 @@
 
 ## Others 
 
+- [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
 - [SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
 - [SublimeText-3211-License-Key-](https://github.com/AchrafIdir/SublimeText-3211-License-Key-) - 
 - [vim_shortcut_wallpaper](https://github.com/LevelbossMike/vim_shortcut_wallpaper) - A vim cheat sheet wallpaper.
