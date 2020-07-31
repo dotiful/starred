@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [material-decoration](https://github.com/Zren/material-decoration) - Material-ish window decoration theme for KWin, with LIM, based on zzag's original design.
 - [linssid](https://github.com/Exhar/linssid) - LinSSID repository
 - [kwin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - stutter and latency reductions to KWin
 - [grub2-editor](https://github.com/maz-1/grub2-editor) - A KDE Control Module for configuring the GRUB2 bootloader. Unofficial KF5 port.
@@ -356,6 +357,9 @@
 
 ## JavaScript 
 
+- [plasmoid-kwin-script-toggle-panel-screen-edge](https://github.com/Intika-KDE-Plasmoids/plasmoid-kwin-script-toggle-panel-screen-edge) - KDE Kwin Script - Toggle Panel Visibility From Screen Edge
+- [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+- [vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [YouTubeHideChatByDefaultUserscript](https://github.com/skoshy/YouTubeHideChatByDefaultUserscript) - Hides YouTube chat by default
 - [scroll-snap-carousel](https://github.com/dimanech/scroll-snap-carousel) - Carousel based on CSS Scroll Snap functionality
 - [stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
@@ -786,6 +790,7 @@
 
 ## Python 
 
+- [plasma-hud](https://github.com/Zren/plasma-hud) - Provides a way to run menubar commands through rofi, much like the Unity 7 Heads-Up Display (HUD), in KDE Plasma.
 - [sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
@@ -1027,6 +1032,10 @@
 
 ## Shell 
 
+- [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - an installer for Photoshop CC v19 on Gnu/Linux
+- [kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configration files
+- [systemd-user-units](https://github.com/zoqaeski/systemd-user-units) - Systemd user units for my own session.
+- [systemd-user-pam-ssh](https://github.com/capocasa/systemd-user-pam-ssh) - Script used to decrypt a SSH key into a systemd --user managed ssh agnet
 - [vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
