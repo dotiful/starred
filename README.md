@@ -175,6 +175,8 @@
 
 ## CSS 
 
+- [Dark-by-DM](https://github.com/DM164/Dark-by-DM) - Dark by DM, a family of dark themes for different websites on the internet.
+- [zren.github.io](https://github.com/Zren/zren.github.io) - 
 - [MDN-Dark](https://github.com/AfroThundr3007730/MDN-Dark) - Dark theme for the Mozilla Developer Network
 - [material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
@@ -741,7 +743,7 @@
 ## PHP 
 
 - [dwpa](https://github.com/RealEnder/dwpa) - Distributed WPA PSK auditor
-- [alfred-time](https://github.com/godbout/alfred-time) - Start and stop tracking time with Toggl, Harvest or Everhour through Alfred 4
+- [alfred-time](https://github.com/godbout/alfred-time) - Start and stop tracking time with Toggl, Harvest, Everhour or Clockify through Alfred 4
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [piratebay-alfred-workflow](https://github.com/Sheraff/piratebay-alfred-workflow) - workflow for Alfred App to crawl piratebay and return torrent files / magnet links
@@ -1233,6 +1235,7 @@
 
 ## TypeScript 
 
+- [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
 - [ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub
 - [codeui](https://github.com/ryanraposo/codeui) - Build, edit, & explore your color theme for VS Code.
