@@ -293,7 +293,7 @@
 - [alfred-github-jump](https://github.com/lox/alfred-github-jump) - An alfred plugin to quickly jump to a github repository page
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [alfred-circleci-workflow](https://github.com/lorentzca/alfred-circleci-workflow) - Search and show CircleCI build status.
-- [alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - Very simple workflow to quickly open up AWS Console Services in your browser
+- [alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
 - [alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers
@@ -1034,6 +1034,8 @@
 
 ## Shell 
 
+- [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
+- [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - an installer for Photoshop CC v19 on Gnu/Linux
 - [kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configration files
 - [systemd-user-units](https://github.com/zoqaeski/systemd-user-units) - Systemd user units for my own session.
@@ -1049,7 +1051,7 @@
 - [SysTrayModder](https://github.com/baduhai/SysTrayModder) - Script to make the Plasma system tray behave like a sidebar.
 - [action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck and shfmt
 - [zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
-- [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles interactively with fzf
+- [dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [updoot](https://github.com/b0o/updoot) - unify the update process for your entire system
