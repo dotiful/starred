@@ -238,7 +238,6 @@
 
 ## Go 
 
-- [AdGuardHome](https://github.com/iganeshk/AdGuardHome) - A deep orange influenced dark theme builds for Adguard Home.
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
@@ -943,6 +942,7 @@
 - [spotify-downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata
 - [Triton](https://github.com/ArionMiles/Triton) - GitHub notifications tracker for Telegram. Pushes GitHub notifications to Telegram.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
+- [systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
 - [gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
@@ -1156,7 +1156,7 @@
 - [alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
 - [Tmux-Bunch](https://github.com/Hax4us/Tmux-Bunch) - (Deprecated Use Apkmod instead)Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)
 - [TermuxSSHDsetup](https://github.com/tomhiggins/TermuxSSHDsetup) - Scripts and notes for setting up and using SSHd on your Android device using Termux so that you can SSH, SFTP, and SSHFS to your Android
-- [termux-style](https://github.com/adi1090x/termux-style) - Simple Program for customizing the termux font and color theme...
+- [termux-style](https://github.com/adi1090x/termux-style) - Simple script to change color-schemes and fonts for Termux.
 - [Termux-ADB](https://github.com/MasterDevX/Termux-ADB) - Install ADB & FastBoot Tools in Termux!
 - [shenv](https://github.com/shenv/shenv) - Simple shell version management
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -1183,7 +1183,6 @@
 - [vscode-zsh-debug](https://github.com/rogalmic/vscode-zsh-debug) - Z shell debugger extension for VSCode (based on vscode-bash-debug + zshdb)
 - [live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
-- [systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
 - [zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt) - A OpenWrt package for ZeroTier One - Pull requests are welcome!
