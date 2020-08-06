@@ -318,6 +318,7 @@
 - [podcast](https://github.com/web-standards-ru/podcast) - Выпуски подкаста «Веб-стандарты»
 - [colors](https://github.com/jonasjacek/colors) - List of 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number, HEX, RGB and HSL code.
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [fzf-color-picker](https://github.com/minSW/fzf-color-picker) - Web Color Picker for fzf custom color scheme
 - [services](https://github.com/selfrefactor/services) - Holder of multiple npm packages
 - [privacy-settings](https://github.com/schomery/privacy-settings) - Alter Firefox's built-in privacy settings easily with a toolbar panel
@@ -927,7 +928,7 @@
 - [base16-shell-preview](https://github.com/nvllsvm/base16-shell-preview) - Preview and enable Base16 Shell themes in your terminal.
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
-- [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible examples from Ansible for DevOps.
+- [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker) - Automatically exported from code.google.com/p/fern-wifi-cracker
 - [adb-alfred](https://github.com/zjn0505/adb-alfred) - adb alfred - all in one
@@ -1019,7 +1020,6 @@
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [run-or-raise](https://github.com/Soft/run-or-raise) - Utility for launching applications or focusing their windows
-- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
