@@ -226,7 +226,7 @@
 
 ## Dart 
 
-- [color-studio](https://github.com/bernaferrari/color-studio) - It is too hard build your own dark theme. This should help.
+- [color-studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help.
 
 ## Elixir 
 
