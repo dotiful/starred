@@ -113,6 +113,7 @@
 ## C# # 
 
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -132,7 +133,6 @@
 - [grub2-editor](https://github.com/maz-1/grub2-editor) - A KDE Control Module for configuring the GRUB2 bootloader. Unofficial KF5 port.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [krunner-kwallet](https://github.com/alex1701c/krunner-kwallet) - This is a Krunner plugin which allows you to copy/show/edit/add entries from KWallet
 - [krunner-firefox](https://github.com/alex1701c/krunner-firefox) - Launch your Firefox profiles from Krunner and register them in the Firefox .desktop file
 - [krunner-vscodeprojects](https://github.com/alex1701c/krunner-vscodeprojects) - Open VSCode Project Manager projects from Krunner
@@ -536,7 +536,7 @@
 - [arch-update](https://github.com/RaphaelRochet/arch-update) - Update indicator for ArchLinux and Gnome-Shell
 - [gnome-shell-extensions-mediaplayer](https://github.com/webmastak/gnome-shell-extensions-mediaplayer) - A mediaplayer indicator for GNOME Shell 3.18+.
 - [gnome-shell-extension-services-systemd](https://github.com/petres/gnome-shell-extension-services-systemd) - Gnome Shell Extension that allows to start and stop systemd services
-- [shellman](https://github.com/yousefvand/shellman) - vscode bash script snippet extension
+- [shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
 - [preact-starter](https://github.com/lukeed/preact-starter) - Webpack3 boilerplate for building SPA / PWA / offline front-end apps with Preact
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
@@ -599,7 +599,6 @@
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 - [MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
-- [IOJones](https://github.com/acidanthera/IOJones) - Realtime I/O Registry viewer
 - [vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
 - [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
@@ -685,6 +684,7 @@
 - [apple-installer-checksums](https://github.com/notpeter/apple-installer-checksums) - Checksums of Mac OSX installer DMGs
 - [Spotify-Ad-free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - A filter list to block all Spotify ads!
 - [marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
+- [IOJones](https://github.com/acidanthera/IOJones) - Realtime I/O Registry viewer
 - [hackintosh-list](https://github.com/xzhih/hackintosh-list) - Hackintosh EFI and Kext, Clover theme, macOS installer image, mac Free App ...
 - [Hackintosh-Guide](https://github.com/corpnewt/Hackintosh-Guide) - 
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
@@ -1203,6 +1203,7 @@
 - [zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 - [Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+- [finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise
 - [bootoption](https://github.com/bootoption/bootoption) - EFI boot menu manipulation for macOS, like efibootmgr
@@ -1262,7 +1263,6 @@
 - [alfred-hugo](https://github.com/Cloudstek/alfred-hugo) - Alfred workflow bindings for NodeJS
 - [alfred-atom](https://github.com/Cloudstek/alfred-atom) - Alfred workflow to browse and open Atom projects
 - [bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
-- [finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
 - [vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
 - [vscode-commentbars](https://github.com/zfzackfrost/vscode-commentbars) - Easily create comments that separate your code into sections (Visual Studio Code Extension).
 - [comment-divider](https://github.com/stackbreak/comment-divider) - Divide your code by sections with styled separators
