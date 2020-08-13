@@ -489,7 +489,6 @@
 - [tower-alfred-workflow](https://github.com/drudge/tower-alfred-workflow) - Quickly access your Tower 2 git repositories from Alfred 2
 - [github-downloads](https://github.com/samuelmeuli/github-downloads) - ⬇️ See the number of downloads next to releases on GitHub
 - [firefox-tab-suspender](https://github.com/Hau-Hau/firefox-tab-suspender) - A Firefox extension that automatic suspend tabs and saves memory
-- [github-file-icon](https://github.com/homerchen19/github-file-icon) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [alfred-anki](https://github.com/bikenik/alfred-anki) - Create New Cards into any decks with any "Note Type".
 - [magnet-link](https://github.com/ungoldman/magnet-link) - :link: Get a magnet link from a torrent file.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
@@ -1278,6 +1277,7 @@
 - [vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
+- [github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended) - Extended syntaxes to built-in markdown & What you see is what you get exporter.
 - [local-history](https://github.com/zabel-xyz/local-history) - local-history for vscode
