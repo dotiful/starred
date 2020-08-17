@@ -357,6 +357,9 @@
 
 ## JavaScript 
 
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - :rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [plasmoid-kwin-script-toggle-panel-screen-edge](https://github.com/Intika-KDE-Plasmoids/plasmoid-kwin-script-toggle-panel-screen-edge) - KDE Kwin Script - Toggle Panel Visibility From Screen Edge
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
@@ -605,6 +608,7 @@
 
 ## Others 
 
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
 - [SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
 - [SublimeText-3211-License-Key-](https://github.com/AchrafIdir/SublimeText-3211-License-Key-) - 
@@ -1032,6 +1036,8 @@
 
 ## Shell 
 
+- [nrgh-sync](https://github.com/pschmitt/nrgh-sync) - Sync your GitHub starred repositories with newreleases.io
+- [fzf-obc](https://github.com/rockandska/fzf-obc) - fzf over bash complete
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - an installer for Photoshop CC v19 on Gnu/Linux
