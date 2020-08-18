@@ -300,7 +300,7 @@
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, and DNSCrypt support
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
