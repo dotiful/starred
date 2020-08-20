@@ -431,6 +431,7 @@
 - [npmhub](https://github.com/npmhub/npmhub) - :mag_right: A browser extension for exploring npm dependencies on GitHub repos
 - [Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
+- [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
@@ -642,7 +643,6 @@
 - [Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
-- [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [devOps-patch](https://github.com/g0x7f/devOps-patch) - A Patch for Dev-Ops community  https://t.me/devOpsPatch
 - [vscode-language-ignore](https://github.com/ldez/vscode-language-ignore) - Syntax highlighting for 'ignore' files : gitignore, npmignore, dockerignore, prettierignore, ...
 - [alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
