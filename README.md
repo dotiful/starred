@@ -1233,7 +1233,7 @@
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
-- [MaterialDesignColorPicker](https://github.com/CodeCatalyst/MaterialDesignColorPicker) - Material Design Color Picker for macOS
+- [MaterialDesignColorPicker](https://github.com/johnyanarella/MaterialDesignColorPicker) - Material Design Color Picker for macOS
 
 ## TeX 
 
