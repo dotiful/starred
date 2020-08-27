@@ -358,6 +358,7 @@
 
 ## JavaScript 
 
+- [splide](https://github.com/Splidejs/splide) - Splide is a lightweight, powerful and flexible slider and carousel, written in pure JavaScript without any dependencies.
 - [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - :rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
@@ -611,6 +612,7 @@
 
 ## Others 
 
+- [language-dircolors](https://github.com/jolkdarr/language-dircolors) - Atom package for .dircolors files.
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
 - [SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
@@ -1245,6 +1247,7 @@
 
 ## TypeScript 
 
+- [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.
 - [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
 - [ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub
