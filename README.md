@@ -126,6 +126,8 @@
 
 ## C++ 
 
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [material-decoration](https://github.com/Zren/material-decoration) - Material-ish window decoration theme for KWin, with LIM, based on zzag's original design.
 - [linssid](https://github.com/Exhar/linssid) - LinSSID repository
@@ -358,6 +360,7 @@
 
 ## JavaScript 
 
+- [Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button) - Add download button to download media in the post and the story in Instagram
 - [splide](https://github.com/Splidejs/splide) - Splide is a lightweight, powerful and flexible slider and carousel, written in pure JavaScript without any dependencies.
 - [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - :rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
@@ -797,6 +800,8 @@
 
 ## Python 
 
+- [qBt_SE](https://github.com/imDMG/qBt_SE) - qBittorrent search engine plugins
+- [qBittorrent-RuTracker-plugin](https://github.com/Skymirrh/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [plasma-hud](https://github.com/Zren/plasma-hud) - Provides a way to run menubar commands through rofi, much like the Unity 7 Heads-Up Display (HUD), in KDE Plasma.
 - [sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
