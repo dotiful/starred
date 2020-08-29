@@ -743,7 +743,6 @@
 - [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [arch-linux-install](https://github.com/angristan/arch-linux-install) - My Arch Linux installation notes
 - [kali-linux-wallpapers](https://github.com/dorianpro/kali-linux-wallpapers) - A set of dedicated Kali Linux* wallpapers which I'm going to update regularly. They all done using GIMP and other GNU/Linux/FOSS.
-- [Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [alfred-darkmode](https://github.com/jasonshanks/alfred-darkmode) - An Alfred workflow to toggle Yosemite's dark and light modes.
 - [vagrant-openwisp2](https://github.com/openwisp/vagrant-openwisp2) - Ansible Vagrant profile to install an OpenWISP 2 server
 - [dotfiles](https://github.com/brianclemens/dotfiles) - 
@@ -1200,6 +1199,7 @@
 - [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
+- [Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt) - A OpenWrt package for ZeroTier One - Pull requests are welcome!
 - [dotfiles](https://github.com/vitorgalvao/dotfiles) - My personal dotfiles and install scripts. These are meant to reflect my needs/preferences, rather than being a “fits all” solution. If they can be of use to anybody else, so much the better.
 - [bindle](https://github.com/xwmx/bindle) - A configuration and dotfile management tool for your personal unix-like computer.
