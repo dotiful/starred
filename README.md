@@ -360,6 +360,8 @@
 
 ## JavaScript 
 
+- [web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
+- [simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 - [Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button) - Add download button to download media in the post and the story in Instagram
 - [splide](https://github.com/Splidejs/splide) - Splide is a lightweight, powerful and flexible slider and carousel, written in pure JavaScript without any dependencies.
 - [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -615,6 +617,7 @@
 
 ## Others 
 
+- [psiphon](https://github.com/Psiphon-Inc/psiphon) - Meta-repo with info about and links to Psiphon resources
 - [language-dircolors](https://github.com/jolkdarr/language-dircolors) - Atom package for .dircolors files.
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
@@ -799,6 +802,7 @@
 
 ## Python 
 
+- [linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
 - [qBt_SE](https://github.com/imDMG/qBt_SE) - qBittorrent search engine plugins
 - [qBittorrent-RuTracker-plugin](https://github.com/Skymirrh/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [plasma-hud](https://github.com/Zren/plasma-hud) - Provides a way to run menubar commands through rofi, much like the Unity 7 Heads-Up Display (HUD), in KDE Plasma.
