@@ -617,6 +617,7 @@
 
 ## Others 
 
+- [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - :computer: Introduction to Linux commands and Shell scripting
 - [psiphon](https://github.com/Psiphon-Inc/psiphon) - Meta-repo with info about and links to Psiphon resources
 - [language-dircolors](https://github.com/jolkdarr/language-dircolors) - Atom package for .dircolors files.
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your Profile and Projects.
