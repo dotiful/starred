@@ -178,6 +178,7 @@
 
 ## CSS 
 
+- [Discourse-Dark](https://github.com/StylishThemes/Discourse-Dark) - 🏛️ Darken Discourse forums
 - [Dark-by-DM](https://github.com/DM164/Dark-by-DM) - Dark by DM, a family of dark themes for different websites on the internet.
 - [zren.github.io](https://github.com/Zren/zren.github.io) - 
 - [MDN-Dark](https://github.com/AfroThundr3007730/MDN-Dark) - Dark theme for the Mozilla Developer Network
@@ -360,6 +361,9 @@
 
 ## JavaScript 
 
+- [action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
+- [all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
+- [learn_js_regexp](https://github.com/learnbyexample/learn_js_regexp) - Example based guide to mastering JavaScript regexp
 - [web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 - [Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button) - Add download button to download media in the post and the story in Instagram
@@ -617,6 +621,8 @@
 
 ## Others 
 
+- [vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
+- [awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - :computer: Introduction to Linux commands and Shell scripting
 - [psiphon](https://github.com/Psiphon-Inc/psiphon) - Meta-repo with info about and links to Psiphon resources
 - [language-dircolors](https://github.com/jolkdarr/language-dircolors) - Atom package for .dircolors files.
@@ -683,7 +689,7 @@
 - [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [alfred-github-gists](https://github.com/vookimedlo/alfred-github-gists) - Alfred 4 workflow for opening your GitHub Gists in your default browser.
 - [alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
-- [awesome-alfred-workflows](https://github.com/derimagia/awesome-alfred-workflows) - A curated list of awesome alfred workflows
+- [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [alfred-github-repositories](https://github.com/vookimedlo/alfred-github-repositories) - Alfred 4 workflow for opening your GitHub Repositories in your default browser.
 - [alfred-file](https://github.com/vookimedlo/alfred-file) - Alfred 3 workflow for analyzing given files.
 - [System-Commands.alfredworkflow](https://github.com/joonaspaakko/System-Commands.alfredworkflow) - Alfred's system commands, like "Restart" doesn’t honor the "Reopen windows when logging back in" option. This workflow gets around it.
@@ -803,6 +809,7 @@
 
 ## Python 
 
+- [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
 - [qBt_SE](https://github.com/imDMG/qBt_SE) - qBittorrent search engine plugins
 - [qBittorrent-RuTracker-plugin](https://github.com/Skymirrh/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
@@ -1049,6 +1056,7 @@
 
 ## Shell 
 
+- [learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
 - [zsh-toggle-command-prefix](https://github.com/xPMo/zsh-toggle-command-prefix) - Zsh widget to toggle a prefix on a command
 - [history-here](https://github.com/leonjza/history-here) - A zsh plugin to quickly isolate shell history recording.
 - [nrgh-sync](https://github.com/pschmitt/nrgh-sync) - Sync your GitHub starred repositories with newreleases.io
@@ -1123,7 +1131,7 @@
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
-- [academic-kickstart](https://github.com/sourcethemes/academic-kickstart) - 📝 Easily create a beautiful website using Academic, Hugo, and Netlify
+- [starter-academic](https://github.com/wowchemy/starter-academic) - 📝 Easily create a beautiful website using Wowchemy, GitHub, and Netlify
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
