@@ -24,6 +24,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [M4](#m4)
@@ -562,6 +563,10 @@
 - [notion-app](https://github.com/sysdrum/notion-app) - Notion.so desktop application for Linux
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
+
+## Jupyter Notebook 
+
+- [starter-academic](https://github.com/wowchemy/starter-academic) - 📝 Easily create a beautiful website using Wowchemy, GitHub, and Netlify
 
 ## Kotlin 
 
@@ -1131,7 +1136,6 @@
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
-- [starter-academic](https://github.com/wowchemy/starter-academic) - 📝 Easily create a beautiful website using Wowchemy, GitHub, and Netlify
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
