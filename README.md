@@ -92,7 +92,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
+- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to standard output for further processing.
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
@@ -362,6 +362,7 @@
 
 ## JavaScript 
 
+- [gm-storage](https://github.com/chocolateboy/gm-storage) - An ES6 Map wrapper for the synchronous userscript storage API
 - [action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
 - [learn_js_regexp](https://github.com/learnbyexample/learn_js_regexp) - Example based guide to mastering JavaScript regexp
