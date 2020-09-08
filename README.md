@@ -46,6 +46,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
@@ -244,6 +245,7 @@
 
 ## Go 
 
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -364,6 +366,7 @@
 
 ## JavaScript 
 
+- [automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [gm-storage](https://github.com/chocolateboy/gm-storage) - An ES6 Map wrapper for the synchronous userscript storage API
 - [action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [all-contributors-cli](https://github.com/all-contributors/all-contributors-cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
@@ -480,7 +483,7 @@
 - [chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [default-bookmark-folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - WebExtension allowing you to choose the default bookmark location folder and quickly bookmark pages via a dedicated icon.
-- [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
+- [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
 - [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) - Alfred 3 workflow to fabulously search and kill processes
 - [codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block
@@ -569,7 +572,7 @@
 
 ## Jupyter Notebook 
 
-- [starter-academic](https://github.com/wowchemy/starter-academic) - 📝 Easily create a beautiful website using Wowchemy, GitHub, and Netlify
+- [starter-academic](https://github.com/wowchemy/starter-academic) - 📝 Easily create a beautiful website using Hugo, GitHub, and Netlify
 
 ## Kotlin 
 
@@ -1272,7 +1275,7 @@
 
 ## TypeScript 
 
-- [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.
+- [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
 - [ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub
@@ -1342,11 +1345,14 @@
 - [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 - [Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
 
+## Vim Snippet 
+
+- [dotfiles](https://github.com/japorized/dotfiles) - 🔰 Opinionated configurations for this relatively new and under-educated power user
+
 ## Vim script 
 
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [dotfiles](https://github.com/japorized/dotfiles) - 🔰 Opinionated configurations for this relatively new and under-educated power user
 - [dotfiles](https://github.com/amarshall/dotfiles) - Carefully curated configuration for (almost) everything.
 - [dotfiles](https://github.com/motemen/dotfiles) - My dotfiles
 - [dotfiles](https://github.com/tylucaskelley/dotfiles) - My dotfiles, meant for use on macOS computers
