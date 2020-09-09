@@ -114,6 +114,7 @@
 
 ## C# # 
 
+- [control-uwp](https://github.com/builtbybel/control-uwp) - 🎨 Control Windows 10 Settings
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -348,6 +349,7 @@
 - [postmortem-docs](https://github.com/PagerDuty/postmortem-docs) - PagerDuty's Public Postmortem Documentation
 - [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
+- [spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 - [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 
 ## Haskell 
@@ -820,6 +822,7 @@
 
 ## Python 
 
+- [sacad](https://github.com/desbma/sacad) - Smart Automatic Cover Art Downloader
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
 - [qBt_SE](https://github.com/imDMG/qBt_SE) - qBittorrent search engine plugins
@@ -1200,7 +1203,6 @@
 - [alfred-network-workflow](https://github.com/mrodalgaard/alfred-network-workflow) - Show and change your network settings
 - [OpenWrtScripts](https://github.com/richb-hanover/OpenWrtScripts) - A set of scripts for maintaining and testing OpenWrt
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 - [Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
