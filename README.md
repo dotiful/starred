@@ -114,7 +114,7 @@
 
 ## C# # 
 
-- [control-uwp](https://github.com/builtbybel/control-uwp) - 🎨 Control Windows 10 Settings
+- [control-uwp](https://github.com/builtbybel/control-uwp) - 🎨 Alternative Control panel for Windows 10
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -455,7 +455,7 @@
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2020)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [startpage](https://github.com/psaegert/startpage) - Startpage
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -791,7 +791,7 @@
 - [Spotify-for-Alfred](https://github.com/citelao/Spotify-for-Alfred) - aka Spotifious — a natural Spotify controller for Alfred
 - [Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [wc-plugins-snippets](https://github.com/skyverge/wc-plugins-snippets) - Custom code snippets and examples for SkyVerge-built WooCommerce extensions
-- [wp-stateless](https://github.com/wpCloud/wp-stateless) - WP-Stateless is a WordPress plugin that uploads and serves your WordPress media from Google Cloud Storage.
+- [wp-stateless](https://github.com/udx/wp-stateless) - WP-Stateless is a WordPress plugin that uploads and serves your WordPress media from Google Cloud Storage.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [w3-total-cache](https://github.com/W3EDGE/w3-total-cache) - 
 - [woo-shipping-with-nova-poshta](https://github.com/sergeynezbritskiy/woo-shipping-with-nova-poshta) - 
