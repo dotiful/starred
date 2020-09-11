@@ -114,7 +114,7 @@
 
 ## C# # 
 
-- [control-uwp](https://github.com/builtbybel/control-uwp) - 🎨 Alternative Control panel for Windows 10
+- [control-uwp](https://github.com/builtbybel/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -309,7 +309,7 @@
 - [capsulecd](https://github.com/AnalogJ/capsulecd) - Continuous Delivery for automating package releases (npm, cookbooks, gems, pip, jars, etc)
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
-- [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, and DNSCrypt support
+- [dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -326,6 +326,7 @@
 - [AutoHotkey_LPortable](https://github.com/2wayne/AutoHotkey_LPortable) - AutoHotkey in the PortableApps.com Format
 - [code](https://github.com/joeytwiddle/code) - All my old code in various languages.  Some of it is better than the rest.
 - [podcast](https://github.com/web-standards-ru/podcast) - Выпуски подкаста «Веб-стандарты»
+- [PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
 - [colors](https://github.com/jonasjacek/colors) - List of 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number, HEX, RGB and HSL code.
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [fzf-color-picker](https://github.com/minSW/fzf-color-picker) - Web Color Picker for fzf custom color scheme
@@ -395,7 +396,6 @@
 - [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
 - [TIL3R](https://github.com/causa-prima/TIL3R) - TIL3R adds more manual tiling options to KWin. With this script you can divide you screen in thirds, using the full or half screen height.
 - [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
-- [PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
 - [adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [My-UserScripts](https://github.com/kufii/My-UserScripts) - A collection of user scripts that I made to make my experience on the web a little nicer
@@ -607,7 +607,7 @@
 
 - [Hackintool](https://github.com/headkaze/Hackintool) - The Swiss army knife of vanilla Hackintoshing
 - [tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
-- [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - QLColorCode Quick Look plugin for source code with syntax highlighting.
+- [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - QuickLook plugin for source code with syntax highlighting.
 - [InsomniaX](https://github.com/semaja2/InsomniaX) - InsomniaX - Keep your Mac awake the easy way
 - [nosleep](https://github.com/integralpro/nosleep) - The MacOS X kernel extension, preventing sleep when you close the lid.
 - [defaultbrowser](https://github.com/kerma/defaultbrowser) - Command line tool for getting and setting a default browser (HTTP handler) in Mac OS X
@@ -876,7 +876,7 @@
 - [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [instagram-scraper](https://github.com/realsirjoe/instagram-scraper) - scrapes medias, likes, followers, tags and all metadata. Inspired by instagram-php-scraper,bot
 - [search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
-- [alfred-yaml](https://github.com/mperezi/alfred-yaml) - Alfred workflow to validate YAML documents
+- [alfred-validate-yaml](https://github.com/mperezi/alfred-validate-yaml) - Alfred workflow to validate YAML documents
 - [opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [sh-manpage-completions](https://github.com/nevesnunes/sh-manpage-completions) - Generate bash/zsh completions from man pages
