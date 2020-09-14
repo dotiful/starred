@@ -42,6 +42,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -154,7 +155,6 @@
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [NoVPAJpeg](https://github.com/vulgo/NoVPAJpeg) - Lilu plugin that 'fixes' opening JPEGs with Preview and Quicklook on 10.14
 - [macos-patcher](https://github.com/rmc-team/macos-patcher) - Command line tool for running macOS on unsupported Macs
-- [LiluFriend](https://github.com/PMheart/LiluFriend) - A helper of Lilu that ensures everything loaded properly
 - [VoodooPS2](https://github.com/acidanthera/VoodooPS2) - 
 - [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 - [shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -211,7 +211,6 @@
 - [slack-dark-mojave-theme](https://github.com/elv1n/slack-dark-mojave-theme) - Beautiful dark theme for slack 3, 4+. Apply theme by running one command 🌸
 - [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum
 - [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
-- [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
@@ -706,6 +705,7 @@
 - [alfred-github-repositories](https://github.com/vookimedlo/alfred-github-repositories) - Alfred 4 workflow for opening your GitHub Repositories in your default browser.
 - [alfred-file](https://github.com/vookimedlo/alfred-file) - Alfred 3 workflow for analyzing given files.
 - [System-Commands.alfredworkflow](https://github.com/joonaspaakko/System-Commands.alfredworkflow) - Alfred's system commands, like "Restart" doesn’t honor the "Reopen windows when logging back in" option. This workflow gets around it.
+- [LiluFriend](https://github.com/PMheart/LiluFriend) - A helper of Lilu that ensures everything loaded properly
 - [language-asl](https://github.com/sebadur/language-asl) - Atom Editor package for ACPI Source Language Support
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [AudioPkg](https://github.com/Goldfish64/AudioPkg) - Audio stack for UEFI. Currently supports HD audio controllers/codecs. WIP
@@ -1067,6 +1067,10 @@
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
+
+## SCSS 
+
+- [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
 ## Shell 
 
