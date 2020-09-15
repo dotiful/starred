@@ -519,7 +519,7 @@
 - [alfred-show-network-info](https://github.com/jeppestaerk/alfred-show-network-info) - Alfred 4 Workflow - See network info and discover local devices
 - [alfred-mac-torrents](https://github.com/gemoroy/alfred-mac-torrents) - workflow for Alfred3 to crawl mac-torrents.com and return .torrent
 - [alfred-iconfinder-search](https://github.com/Rawnly/alfred-iconfinder-search) - Alfred 3 workflow for Iconfinder instant search
-- [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting
+- [user.js](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [alfred-youtube-bookmarks](https://github.com/bikenik/alfred-youtube-bookmarks) - quick search youtube playlist, creating video-bookmarks with tags
@@ -1074,6 +1074,7 @@
 
 ## Shell 
 
+- [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
 - [zsh-toggle-command-prefix](https://github.com/xPMo/zsh-toggle-command-prefix) - Zsh widget to toggle a prefix on a command
 - [history-here](https://github.com/leonjza/history-here) - A zsh plugin to quickly isolate shell history recording.
@@ -1236,7 +1237,7 @@
 - [bork](https://github.com/mattly/bork) - the Bash-Operated Reconciling Kludge
 - [dotfiles](https://github.com/zmwangx/dotfiles) - My config files on macOS (also works on Linux, but with limited testing).
 - [shell-logger](https://github.com/rcmdnk/shell-logger) - Logger for shell script
-- [bask](https://github.com/xwmx/bask) - A pure Bash mini-framework for command-centric Bash scripts.
+- [bask](https://github.com/xwmx/bask) - A tool and framework for command-centric Bash scripts.
 - [buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
 - [homer](https://github.com/tubbo/homer) - The home directory management tool.
 - [dotfiles](https://github.com/vinkla/dotfiles) - .files – sensible hacker defaults for macOS
