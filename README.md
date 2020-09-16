@@ -193,7 +193,6 @@
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
 - [firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [Stylus-DeepDark](https://github.com/RaitaroH/Stylus-DeepDark) - Write thy themes in the dark. May the dark be kinder on thine eyes. (Stylus dark theme)
-- [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [Dark-userstyles](https://github.com/Izheil/Dark-userstyles) - Dark userCSS styles to use with Stylus addon.
 - [Mc-OS-themes](https://github.com/paullinuxthemer/Mc-OS-themes) - Mac OS-themes for the Linux-Gnome desktop
 - [firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
@@ -822,6 +821,7 @@
 
 ## Python 
 
+- [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
 - [sacad](https://github.com/desbma/sacad) - Smart Automatic Cover Art Downloader
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
@@ -1039,6 +1039,7 @@
 
 ## Rust 
 
+- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
 - [cw](https://github.com/Freaky/cw) - A Rust wc clone
@@ -1070,10 +1071,14 @@
 
 ## SCSS 
 
+- [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
 ## Shell 
 
+- [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
+- [base16-fzf](https://github.com/fnune/base16-fzf) - base16 colorschemes for fzf
+- [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
 - [zsh-toggle-command-prefix](https://github.com/xPMo/zsh-toggle-command-prefix) - Zsh widget to toggle a prefix on a command
@@ -1237,7 +1242,7 @@
 - [bork](https://github.com/mattly/bork) - the Bash-Operated Reconciling Kludge
 - [dotfiles](https://github.com/zmwangx/dotfiles) - My config files on macOS (also works on Linux, but with limited testing).
 - [shell-logger](https://github.com/rcmdnk/shell-logger) - Logger for shell script
-- [bask](https://github.com/xwmx/bask) - A tool and framework for command-centric Bash scripts.
+- [bask](https://github.com/xwmx/bask) - Command-centric Bash scripts.
 - [buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
 - [homer](https://github.com/tubbo/homer) - The home directory management tool.
 - [dotfiles](https://github.com/vinkla/dotfiles) - .files – sensible hacker defaults for macOS
