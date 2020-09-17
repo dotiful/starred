@@ -357,6 +357,7 @@
 
 ## Java 
 
+- [openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
 - [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -821,6 +822,7 @@
 
 ## Python 
 
+- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
 - [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
 - [sacad](https://github.com/desbma/sacad) - Smart Automatic Cover Art Downloader
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
@@ -1076,6 +1078,8 @@
 
 ## Shell 
 
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [ncmpcpp-ueberzug](https://github.com/alnj/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [base16-fzf](https://github.com/fnune/base16-fzf) - base16 colorschemes for fzf
 - [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
@@ -1363,6 +1367,7 @@
 
 ## Vim script 
 
+- [nvim](https://github.com/ChristianChiarulli/nvim) - Truly the Ultimate Neovim Config NVCode
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [dotfiles](https://github.com/amarshall/dotfiles) - Carefully curated configuration for (almost) everything.
