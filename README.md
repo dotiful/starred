@@ -350,6 +350,7 @@
 - [zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
 - [spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 - [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
+- [vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
 
 ## Haskell 
 
@@ -1355,7 +1356,6 @@
 - [remote-vscode](https://github.com/rafaelmaiolla/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
 - [vscode-duplicate](https://github.com/mrmlnc/vscode-duplicate) - :electric_plug: Ability to duplicate files in VS Code.
 - [vs-deploy](https://github.com/mkloubert/vs-deploy) - Visual Studio Code extension that provides commands to deploy files of a workspace to a destination.
-- [vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
