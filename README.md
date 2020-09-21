@@ -823,6 +823,8 @@
 
 ## Python 
 
+- [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
+- [kb](https://github.com/gnebbia/kb) - A minimalist knowledge base manager
 - [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
 - [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
 - [sacad](https://github.com/desbma/sacad) - Smart Automatic Cover Art Downloader
