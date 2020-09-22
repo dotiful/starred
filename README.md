@@ -94,7 +94,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to standard output for further processing.
+- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from stdin or a file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to stdout for further processing.
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
@@ -1081,7 +1081,7 @@
 
 ## Shell 
 
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - :robot:Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [ncmpcpp-ueberzug](https://github.com/alnj/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [base16-fzf](https://github.com/fnune/base16-fzf) - base16 colorschemes for fzf
