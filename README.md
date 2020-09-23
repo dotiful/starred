@@ -1081,7 +1081,7 @@
 
 ## Shell 
 
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - :robot:Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. 🤖 Asynchronous find-as-you-type autocompletion.
 - [ncmpcpp-ueberzug](https://github.com/alnj/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [base16-fzf](https://github.com/fnune/base16-fzf) - base16 colorschemes for fzf
