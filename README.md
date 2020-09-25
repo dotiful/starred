@@ -380,7 +380,6 @@
 - [splide](https://github.com/Splidejs/splide) - Splide is a lightweight, powerful and flexible slider and carousel, written in pure JavaScript without any dependencies.
 - [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - :rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
-- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [plasmoid-kwin-script-toggle-panel-screen-edge](https://github.com/Intika-KDE-Plasmoids/plasmoid-kwin-script-toggle-panel-screen-edge) - KDE Kwin Script - Toggle Panel Visibility From Screen Edge
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
@@ -1085,7 +1084,7 @@
 - [ncmpcpp-ueberzug](https://github.com/alnj/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [base16-fzf](https://github.com/fnune/base16-fzf) - base16 colorschemes for fzf
-- [tmpmail](https://github.com/sdushantha/tmpmail) - ✉️  A temporary email right from your terminal
+- [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
 - [zsh-toggle-command-prefix](https://github.com/xPMo/zsh-toggle-command-prefix) - Zsh widget to toggle a prefix on a command
@@ -1383,6 +1382,7 @@
 ## Vue 
 
 - [Kage](https://github.com/Zerx0r/Kage) - Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 
