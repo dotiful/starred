@@ -825,7 +825,7 @@
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
-- [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's Plugins, Generate Awesome Statistics and Optimize Vim Startup Time
+- [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize Vim startup time
 - [sacad](https://github.com/desbma/sacad) - Smart Automatic Cover Art Downloader
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
@@ -1043,6 +1043,7 @@
 
 ## Rust 
 
+- [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [hunter](https://github.com/rabite0/hunter) - The fastest file manager in the galaxy!
