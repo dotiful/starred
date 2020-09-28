@@ -932,7 +932,7 @@
 - [pass-alfred](https://github.com/MatthewWest/pass-alfred) - An alfred UI for the pass password manager (passwordstore.org)
 - [smd](https://github.com/artyshko/smd) - Spotify Music Downloader
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
-- [USBMap](https://github.com/corpnewt/USBMap) - Py script for mapping out USB ports and creating a custom SSDT or injector kext (WIP).
+- [USBMap](https://github.com/corpnewt/USBMap) - Python script for mapping USB ports in macOS and creating a custom injector kext.
 - [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [EFI-Backup-Restore](https://github.com/corpnewt/EFI-Backup-Restore) - A smallish script that can backup EFI partitions - and eventually restore them (hopefully).
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
