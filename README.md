@@ -191,6 +191,7 @@
 - [OLX-QuiteDark](https://github.com/pawelos076232/OLX-QuiteDark) - The new dark style for OLX #multilang (ad remove included)
 - [VDARK](https://github.com/Wondermarin/VDARK) - Perhaps the best dark theme for VK
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
+- [ctlosiso](https://github.com/ctlos/ctlosiso) - Ctlos Linux source. Arch based distro x86-64(64-bit).
 - [firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [Stylus-DeepDark](https://github.com/RaitaroH/Stylus-DeepDark) - Write thy themes in the dark. May the dark be kinder on thine eyes. (Stylus dark theme)
 - [Dark-userstyles](https://github.com/Izheil/Dark-userstyles) - Dark userCSS styles to use with Stylus addon.
@@ -244,6 +245,7 @@
 
 ## Go 
 
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
@@ -978,7 +980,7 @@
 - [freckles](https://github.com/makkus/freckles) - Github mirror, for convenience. Here's where it's really at:
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [aurman](https://github.com/polygamma/aurman) - AUR Helper
-- [spotify-downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata
+- [spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata
 - [Triton](https://github.com/ArionMiles/Triton) - GitHub notifications tracker for Telegram. Pushes GitHub notifications to Telegram.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
@@ -1124,7 +1126,6 @@
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [zsh-prompt-dir-glob](https://github.com/xPMo/zsh-prompt-dir-glob) - 
-- [ctlosiso](https://github.com/ctlos/ctlosiso) - Ctlos Linux source. Arch based distro x86-64(64-bit).
 - [bashible](https://github.com/mig1984/bashible) - Simple bash DSL framework for writing shell scripts safe and agile.
 - [dotfiles](https://github.com/denisidoro/dotfiles) - Awesome personal dotfiles
 - [zsh-expand-all](https://github.com/simnalamburt/zsh-expand-all) - :shell: Automatically expands all glob expressions, subcommands, and aliases
