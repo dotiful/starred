@@ -333,7 +333,6 @@
 - [services](https://github.com/selfrefactor/services) - Holder of multiple npm packages
 - [privacy-settings](https://github.com/schomery/privacy-settings) - Alter Firefox's built-in privacy settings easily with a toolbar panel
 - [js-library-boilerplate-basic](https://github.com/hodgef/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 4, Babel 7, UMD, Unit Testing
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [gitstars](https://github.com/Monine/gitstars) - Github Stars Repositories Manager
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
@@ -482,6 +481,7 @@
 - [SO-mod-userscripts](https://github.com/samliew/SO-mod-userscripts) - Stack Overflow Moderation Userscripts
 - [stackoverflow-tampermonkey-greasemonkey](https://github.com/stackuserflow/stackoverflow-tampermonkey-greasemonkey) - Série de scripts prontos para usar nos sites da rede Stack Exchange quanto para facilitar os desenvolvimento
 - [ini-for-vscode](https://github.com/DavidWang88/ini-for-vscode) - Provide outline view and section folding for INI file.
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [default-bookmark-folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - WebExtension allowing you to choose the default bookmark location folder and quickly bookmark pages via a dedicated icon.
@@ -1065,7 +1065,7 @@
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [zsh-yarn-autocompletions](https://github.com/g-plane/zsh-yarn-autocompletions) - Zsh plugin for Yarn autocompletions.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
