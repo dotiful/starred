@@ -351,7 +351,6 @@
 - [zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
 - [spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 - [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
-- [vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
 
 ## Haskell 
 
@@ -574,7 +573,7 @@
 
 ## Jupyter Notebook 
 
-- [starter-academic](https://github.com/wowchemy/starter-academic) - 📝 Easily create a beautiful website using Hugo, GitHub, and Netlify
+- [starter-academic](https://github.com/wowchemy/starter-academic) - 📝 Easily create a beautiful academic website using Hugo, GitHub, and Netlify
 
 ## Kotlin 
 
@@ -823,6 +822,7 @@
 
 ## Python 
 
+- [Instagram-DeepFake-Bot](https://github.com/dome272/Instagram-DeepFake-Bot) - An Instagram Bot serving as an account, people can use to create DeepFakes on Instagram.
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
@@ -1082,7 +1082,7 @@
 
 ## Shell 
 
-- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Real-time type-ahead completion for Zsh. 🤖 Asynchronous find-as-you-type autocompletion.
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [ncmpcpp-ueberzug](https://github.com/alnj/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [base16-fzf](https://github.com/fnune/base16-fzf) - base16 colorschemes for fzf
@@ -1185,7 +1185,6 @@
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
 - [alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
-- [spoofer](https://github.com/julian-fairfax/spoofer) - 
 - [macos-downloader](https://github.com/rmc-team/macos-downloader) - Command line tool for downloading macOS installers and beta updates
 - [osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -1359,6 +1358,7 @@
 - [remote-vscode](https://github.com/rafaelmaiolla/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
 - [vscode-duplicate](https://github.com/mrmlnc/vscode-duplicate) - :electric_plug: Ability to duplicate files in VS Code.
 - [vs-deploy](https://github.com/mkloubert/vs-deploy) - Visual Studio Code extension that provides commands to deploy files of a workspace to a destination.
+- [vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
