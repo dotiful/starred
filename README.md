@@ -685,7 +685,7 @@
 - [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
 - [base16-tomorrow-dark-vscode](https://github.com/emily-curry/base16-tomorrow-dark-vscode) - A VS Code theme based on Atom's base16-tomorrow-dark
 - [VscodeAdblockSyntax](https://github.com/ameshkov/VscodeAdblockSyntax) - TM language plugin with ad blocking rules syntax
-- [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [All-in-One-Customized-Adblock-List](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles.
 - [open-in-iina-workflow](https://github.com/eutialia/open-in-iina-workflow) - Open url in IINA directly from alfred
