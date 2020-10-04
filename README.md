@@ -43,6 +43,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Sass](#sass)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -219,7 +220,6 @@
 - [awesome-divi](https://github.com/lukecav/awesome-divi) - Resources for theme and page builder Divi.
 - [polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [AntergosI3](https://github.com/erikdubois/AntergosI3) - How to install i3 on Antergos
-- [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 - [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
 - [darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites
 
@@ -379,7 +379,7 @@
 - [Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button) - Add download button to download media in the post and the story in Instagram
 - [splide](https://github.com/Splidejs/splide) - Splide is a lightweight, powerful and flexible slider and carousel, written in pure JavaScript without any dependencies.
 - [responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - :rocket: Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI.
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [plasmoid-kwin-script-toggle-panel-screen-edge](https://github.com/Intika-KDE-Plasmoids/plasmoid-kwin-script-toggle-panel-screen-edge) - KDE Kwin Script - Toggle Panel Visibility From Screen Edge
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
@@ -1079,6 +1079,10 @@
 
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
+
+## Sass 
+
+- [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 
 ## Shell 
 
