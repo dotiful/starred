@@ -245,6 +245,7 @@
 
 ## Go 
 
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
@@ -452,6 +453,7 @@
 - [Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2020)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -1160,7 +1162,6 @@
 - [yarn-completion](https://github.com/dsifford/yarn-completion) - Bash completion for Yarn
 - [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [zshelldoc](https://github.com/zdharma/zshelldoc) - Documentation generator for Zsh & Bash, with call-trees, comment extraction, etc.
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
 - [zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
