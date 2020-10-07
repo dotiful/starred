@@ -335,7 +335,7 @@
 - [privacy-settings](https://github.com/schomery/privacy-settings) - Alter Firefox's built-in privacy settings easily with a toolbar panel
 - [js-library-boilerplate-basic](https://github.com/hodgef/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 4, Babel 7, UMD, Unit Testing
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
-- [gitstars](https://github.com/Monine/gitstars) - Github Stars Repositories Manager
+- [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [KeyBindings](https://github.com/ttscoff/KeyBindings) - DefaultKeybindings.dict for Mac OS X
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
