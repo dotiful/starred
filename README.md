@@ -1120,7 +1120,7 @@
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
 - [updoot](https://github.com/b0o/updoot) - unify the update process for your entire system
-- [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [aurpublish](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository
 - [shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [scenario-examples](https://github.com/katacoda/scenario-examples) - Collection of example Katacoda scenarios
