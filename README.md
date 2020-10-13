@@ -322,6 +322,7 @@
 
 ## HTML 
 
+- [fast](https://github.com/reblim/fast) - Develop, build, deploy, redeploy, and teardown frontend projects fast.
 - [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
 - [AutoHotkey_LPortable](https://github.com/2wayne/AutoHotkey_LPortable) - AutoHotkey in the PortableApps.com Format
 - [code](https://github.com/joeytwiddle/code) - All my old code in various languages.  Some of it is better than the rest.
@@ -369,6 +370,7 @@
 
 ## JavaScript 
 
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
 - [automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [gm-storage](https://github.com/chocolateboy/gm-storage) - An ES6 Map wrapper for the synchronous userscript storage API
 - [action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
@@ -634,6 +636,7 @@
 
 ## Others 
 
+- [sysctl](https://github.com/k4yt3x/sysctl) - K4YT3X's Hardened sysctl Configuration
 - [vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
 - [awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - :computer: Introduction to Linux commands and Shell scripting
@@ -1001,6 +1004,8 @@
 
 ## QML 
 
+- [plasma-applet-display-profile-switcher](https://github.com/MakG10/plasma-applet-display-profile-switcher) - Applet for KDE Plasma 5 to switch between display configurations.
+- [applet-latte-sidebar-button](https://github.com/psifidotos/applet-latte-sidebar-button) - Plasma applet to show and hide Latte Sidebars
 - [applet-window-title](https://github.com/psifidotos/applet-window-title) - Plasma 5 applet that shows the application title and icon for active window
 - [kde-plasmoid-betterinlineclock](https://github.com/MarianArlt/kde-plasmoid-betterinlineclock) - Your usual clock widget, just way better and on a single line!
 - [org.kpple.kppleMenu](https://github.com/kppleos/org.kpple.kppleMenu) - The Kpple menu is the drop-down menu of Kpple OS.
@@ -1087,6 +1092,7 @@
 
 ## Shell 
 
+- [ufwIconbar](https://github.com/juanmafont/ufwIconbar) - Set and ufw icon bar when login on status bar.
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - [✓] Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
@@ -1300,6 +1306,8 @@
 
 ## TypeScript 
 
+- [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
