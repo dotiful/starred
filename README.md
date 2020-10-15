@@ -182,6 +182,7 @@
 
 ## CSS 
 
+- [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
 - [Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [Discourse-Dark](https://github.com/StylishThemes/Discourse-Dark) - 🏛️ Darken Discourse forums
 - [Dark-by-DM](https://github.com/DM164/Dark-by-DM) - Dark by DM, a family of dark themes for different websites on the internet.
@@ -522,7 +523,7 @@
 - [alfred-show-network-info](https://github.com/jeppestaerk/alfred-show-network-info) - Alfred 4 Workflow - See network info and discover local devices
 - [alfred-mac-torrents](https://github.com/gemoroy/alfred-mac-torrents) - workflow for Alfred3 to crawl mac-torrents.com and return .torrent
 - [alfred-iconfinder-search](https://github.com/Rawnly/alfred-iconfinder-search) - Alfred 3 workflow for Iconfinder instant search
-- [user.js](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting
+- [user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [alfred-youtube-bookmarks](https://github.com/bikenik/alfred-youtube-bookmarks) - quick search youtube playlist, creating video-bookmarks with tags
@@ -636,6 +637,7 @@
 
 ## Others 
 
+- [60p-keyboard-layout](https://github.com/astronautr/60p-keyboard-layout) - Comfy 60% keyboard layout
 - [sysctl](https://github.com/k4yt3x/sysctl) - K4YT3X's Hardened sysctl Configuration
 - [vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
 - [awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
@@ -825,6 +827,7 @@
 
 ## Python 
 
+- [quickeys](https://github.com/brpaz/quickeys) - Linux GTK application that provides an overlay window with the list of shortcuts for the current focused application. Its a shortcut for shortcuts.
 - [Instagram-DeepFake-Bot](https://github.com/dome272/Instagram-DeepFake-Bot) - An Instagram Bot serving as an account, people can use to create DeepFakes on Instagram.
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -1297,7 +1300,7 @@
 - [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [MaterialDesignColorPicker](https://github.com/johnyanarella/MaterialDesignColorPicker) - Material Design Color Picker for macOS
 
 ## TeX 
@@ -1306,6 +1309,7 @@
 
 ## TypeScript 
 
+- [vscode-contextual-snips](https://github.com/brpaz/vscode-contextual-snips) - VSCode Extension with advanced snippet matching rules
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
