@@ -262,7 +262,7 @@
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
