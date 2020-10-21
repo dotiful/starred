@@ -45,6 +45,7 @@
   - [SCSS](#scss)
   - [Sass](#sass)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -697,7 +698,7 @@
 - [open-in-iina-workflow](https://github.com/eutialia/open-in-iina-workflow) - Open url in IINA directly from alfred
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
-- [atom-language-homebrew-formula](https://github.com/josa42/atom-language-homebrew-formula) - 
+- [atom-language-homebrew-formula](https://github.com/danielbayley/atom-language-homebrew-formula) - :atom: @Atom language support for @Homebrew formulae and Casks.
 - [alfred-special-characters](https://github.com/typefacts/alfred-special-characters) - Special Characters by Typefacts — An Alfred App Workflow
 - [hackintosh](https://github.com/macfanatic77/hackintosh) - 
 - [mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - 🎩 Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users.
@@ -1095,6 +1096,8 @@
 
 ## Shell 
 
+- [wakatime-zsh-plugin](https://github.com/sobolevn/wakatime-zsh-plugin) - 🕒Track how much time you have spent in your terminal!
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [ufwIconbar](https://github.com/juanmafont/ufwIconbar) - Set and ufw icon bar when login on status bar.
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - [✓] Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
@@ -1269,6 +1272,10 @@
 - [dotfiles](https://github.com/vinkla/dotfiles) - .files – sensible hacker defaults for macOS
 - [dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [.dotfiles](https://github.com/MaxMEllon/.dotfiles) - :wrench: my configuration files ( .zshrc , .tmux.conf , etc... )
+
+## Smarty 
+
+- [kate-stuff](https://github.com/zaufi/kate-stuff) - My (updated/improved) kate's editor syntax files, code snippets and C++ indenter
 
 ## Swift 
 
