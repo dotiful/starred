@@ -222,7 +222,6 @@
 - [polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [AntergosI3](https://github.com/erikdubois/AntergosI3) - How to install i3 on Antergos
 - [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
-- [darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites
 
 ## Clojure 
 
@@ -578,7 +577,7 @@
 
 ## Jupyter Notebook 
 
-- [starter-academic](https://github.com/wowchemy/starter-academic) - 📝 Easily create a beautiful academic website using Hugo, GitHub, and Netlify
+- [starter-academic](https://github.com/wowchemy/starter-academic) - 🎓 Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify
 
 ## Kotlin 
 
@@ -1089,6 +1088,7 @@
 
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites
 
 ## Sass 
 
