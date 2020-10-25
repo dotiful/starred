@@ -1227,7 +1227,6 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh) - Script to generate a SSDT for Power Management
 - [i-vagrant](https://github.com/bogdanvlviv/i-vagrant) - 
-- [hackapk](https://github.com/adi1090x/hackapk) - An Advanced Tool For Complete Apk-Modding In Termux ...
 - [awm](https://github.com/danielbayley/awm) - Extend @Homebrew-Alfred to manage your Alfred workflow development cycle.
 - [alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
 - [Tmux-Bunch](https://github.com/Hax4us/Tmux-Bunch) - (Deprecated Use Apkmod instead)Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)
