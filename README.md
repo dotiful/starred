@@ -207,7 +207,6 @@
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [bookmarklets](https://github.com/janmoesen/bookmarklets) - Time-saving and life-enhancing (ahem) bookmarklets
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [qlplayground](https://github.com/norio-nomura/qlplayground) - `qlplayground` is a QuickLook plugin for Swift files.
 - [Telegram-Vanilla-Dark-Web](https://github.com/VChet/Telegram-Vanilla-Dark-Web) - Dark theme for web.telegram.org
 - [slack-dark-mojave-theme](https://github.com/elv1n/slack-dark-mojave-theme) - Beautiful dark theme for slack 3, 4+. Apply theme by running one command 🌸
@@ -1088,6 +1087,7 @@
 ## SCSS 
 
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites
 
