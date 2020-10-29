@@ -1246,13 +1246,14 @@
 - [ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
 - [fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) - ZLE widgets of fzf
 - [tmux-1password](https://github.com/yardnsm/tmux-1password) - :key: Access your 1Password login items within tmux!
-- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - :rocket: Quickly open urls on terminal screen!
+- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [LARBS](https://github.com/LukeSmithxyz/LARBS) - Luke's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
 - [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
 - [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
+- [dotfiles](https://github.com/casprwang/dotfiles) - configs for neovim, tmux, zsh, hammerspoon, alacritty...
 - [vscode-zsh-debug](https://github.com/rogalmic/vscode-zsh-debug) - Z shell debugger extension for VSCode (based on vscode-bash-debug + zshdb)
 - [live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -1397,7 +1398,6 @@
 - [nvim](https://github.com/ChristianChiarulli/nvim) - Truly the Ultimate Neovim Config NVCode
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [dotfiles](https://github.com/casprwang/dotfiles) - configs for neovim, tmux, zsh, hammerspoon, alacritty...
 - [dotfiles](https://github.com/amarshall/dotfiles) - Carefully curated configuration for (almost) everything.
 - [dotfiles](https://github.com/motemen/dotfiles) - My dotfiles
 - [dotfiles](https://github.com/tylucaskelley/dotfiles) - My dotfiles, meant for use on macOS computers
