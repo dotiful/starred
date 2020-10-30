@@ -177,7 +177,7 @@
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod) - Apache module for rewriting web pages to reduce latency and bandwidth.
-- [npackd-cpp](https://github.com/tim-lebedkov/npackd-cpp) - Package manager for Microsoft Windows (GUI and command line utility)
+- [npackd-cpp](https://github.com/npackd/npackd-cpp) - Package manager for Microsoft Windows (GUI and command line utility)
 - [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 
@@ -203,7 +203,7 @@
 - [MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [hugo-base16-theme](https://github.com/htdvisser/hugo-base16-theme) - Hugo theme with base16 eighties colorscheme
 - [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
-- [Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - These usercontent and userchrome files will give a full themed dark color to Firefox Quantum, menus and dialogs included, as well as the scrollbars. It will also enable multirow/multiple rows tabs.
+- [Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme) - These usercontent and userchrome files will give a full themed dark color to Firefox Quantum, menus and dialogs included, as well as the scrollbars. You can also use the JS files to enable multirow tabs and other functions.
 - [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [bookmarklets](https://github.com/janmoesen/bookmarklets) - Time-saving and life-enhancing (ahem) bookmarklets
@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
@@ -371,6 +372,7 @@
 
 ## JavaScript 
 
+- [vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
 - [automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [gm-storage](https://github.com/chocolateboy/gm-storage) - An ES6 Map wrapper for the synchronous userscript storage API
@@ -827,6 +829,7 @@
 
 ## Python 
 
+- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [quickeys](https://github.com/brpaz/quickeys) - Linux GTK application that provides an overlay window with the list of shortcuts for the current focused application. Its a shortcut for shortcuts.
 - [Instagram-DeepFake-Bot](https://github.com/dome272/Instagram-DeepFake-Bot) - An Instagram Bot serving as an account, people can use to create DeepFakes on Instagram.
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
