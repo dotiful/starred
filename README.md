@@ -1030,6 +1030,7 @@
 
 ## Ruby 
 
+- [fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
 - [better-shell-syntax](https://github.com/jeff-hykin/better-shell-syntax) - An improvement to the shell syntax for VS Code
 - [manpages](https://github.com/bitboxer/manpages) - Gem to add man pages support to ruby gems
 - [cani](https://github.com/SidOfc/cani) - A TUI wrapper around caniuse data using FZF and curses
@@ -1056,6 +1057,7 @@
 
 ## Rust 
 
+- [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter built on top of visioncortex
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
