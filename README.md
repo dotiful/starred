@@ -245,7 +245,7 @@
 ## Go 
 
 - [imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
@@ -459,7 +459,7 @@
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [startpage](https://github.com/psaegert/startpage) - Startpage
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -1324,7 +1324,7 @@
 - [vscode-contextual-snips](https://github.com/brpaz/vscode-contextual-snips) - VSCode Extension with advanced snippet matching rules
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. Features a man-in-the-middle HTTP/1.1 proxy, project management, scope and logs.
 - [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
