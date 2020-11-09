@@ -132,6 +132,8 @@
 
 ## C++ 
 
+- [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
+- [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -830,6 +832,7 @@
 
 ## Python 
 
+- [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [quickeys](https://github.com/brpaz/quickeys) - Linux GTK application that provides an overlay window with the list of shortcuts for the current focused application. Its a shortcut for shortcuts.
@@ -1104,6 +1107,8 @@
 
 ## Shell 
 
+- [pd](https://github.com/ketancmaheshwari/pd) - Linux pipeline debug
+- [Magisk_Manager_Recovery_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) - A Magisk Manager tool that can be used in Recovery mode base Aroma Installer.
 - [wakatime-zsh-plugin](https://github.com/sobolevn/wakatime-zsh-plugin) - 🕒Track how much time you have spent in your terminal!
 - [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [ufwIconbar](https://github.com/juanmafont/ufwIconbar) - Set and ufw icon bar when login on status bar.
