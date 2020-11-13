@@ -995,7 +995,7 @@
 - [freckles](https://github.com/makkus/freckles) - Github mirror, for convenience. Here's where it's really at:
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [aurman](https://github.com/polygamma/aurman) - AUR Helper
-- [spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata
+- [spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [Triton](https://github.com/ArionMiles/Triton) - GitHub notifications tracker for Telegram. Pushes GitHub notifications to Telegram.
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
