@@ -1113,7 +1113,7 @@
 - [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [ufwIconbar](https://github.com/juanmafont/ufwIconbar) - Set and ufw icon bar when login on status bar.
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - [✓] Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
+- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [ncmpcpp-ueberzug](https://github.com/alnj/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
@@ -1216,6 +1216,7 @@
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
 - [alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
+- [spoofer](https://github.com/julian-fairfax/spoofer) - 
 - [macos-downloader](https://github.com/rmc-team/macos-downloader) - Command line tool for downloading macOS installers and beta updates
 - [osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
