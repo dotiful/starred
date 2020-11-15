@@ -1216,7 +1216,7 @@
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
 - [alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
-- [spoofer](https://github.com/julian-fairfax/spoofer) - 
+- [spoofer](https://github.com/rmc-team/spoofer) - Command line tool to spoof your MAC address and scan your network
 - [macos-downloader](https://github.com/rmc-team/macos-downloader) - Command line tool for downloading macOS installers and beta updates
 - [osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
