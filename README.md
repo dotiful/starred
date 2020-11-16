@@ -432,7 +432,7 @@
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [darken](https://github.com/ColinEspinas/darken) - 🌑 Dark mode made easy
 - [favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
-- [bruno-arizio](https://github.com/lhbzr/bruno-arizio) - :art: Bruno Arizio portfolio.
+- [bruno-arizio](https://github.com/lhbizarro/bruno-arizio) - :art: Bruno Arizio portfolio.
 - [cbf](https://github.com/joshuatvernon/cbf) - CBF  🦥is a simple CLI tool for developers who can't be f#@!'d learning or remembering all the commands they have to run day to day or just in a specific repo
 - [GM_config](https://github.com/sizzlemctwizzle/GM_config) - A lightweight, reusable, cross-browser graphical settings framework for inclusion in user scripts.
 - [figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
@@ -763,7 +763,7 @@
 - [Time-Travelers](https://github.com/merveilles/Time-Travelers) - List of artists and hackers using homegrown time-tracking tools
 - [forklift-folder](https://github.com/Acidham/forklift-folder) - Open Folder from Alfred in Forfklift
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
