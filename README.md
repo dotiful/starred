@@ -827,7 +827,7 @@
 - [Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
 - [concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A collection of Scripts which disable / remove Windows 10 Features and Apps
+- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 
 ## Python 
@@ -1015,6 +1015,7 @@
 
 ## QML 
 
+- [kargos](https://github.com/lipido/kargos) - KDE Plasma port of GNOME Argos and OSX BitBar
 - [plasma-applet-display-profile-switcher](https://github.com/MakG10/plasma-applet-display-profile-switcher) - Applet for KDE Plasma 5 to switch between display configurations.
 - [applet-latte-sidebar-button](https://github.com/psifidotos/applet-latte-sidebar-button) - Plasma applet to show and hide Latte Sidebars
 - [applet-window-title](https://github.com/psifidotos/applet-window-title) - Plasma 5 applet that shows the application title and icon for active window
