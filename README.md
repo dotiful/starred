@@ -157,7 +157,6 @@
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [NoVPAJpeg](https://github.com/vulgo/NoVPAJpeg) - Lilu plugin that 'fixes' opening JPEGs with Preview and Quicklook on 10.14
 - [macos-patcher](https://github.com/rmc-team/macos-patcher) - Command line tool for running macOS on unsupported Macs
 - [VoodooPS2](https://github.com/acidanthera/VoodooPS2) - 
 - [fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
