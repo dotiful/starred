@@ -190,7 +190,6 @@
 - [Dark-by-DM](https://github.com/DM164/Dark-by-DM) - Dark by DM, a family of dark themes for different websites on the internet.
 - [MDN-Dark](https://github.com/AfroThundr3007730/MDN-Dark) - Dark theme for the Mozilla Developer Network
 - [material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
-- [include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [OLX-QuiteDark](https://github.com/pawelos076232/OLX-QuiteDark) - The new dark style for OLX #multilang (ad remove included)
 - [VDARK](https://github.com/Wondermarin/VDARK) - Perhaps the best dark theme for VK
 - [spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
@@ -217,7 +216,6 @@
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [awesome-divi](https://github.com/lukecav/awesome-divi) - Resources for theme and page builder Divi.
 - [polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [AntergosI3](https://github.com/erikdubois/AntergosI3) - How to install i3 on Antergos
@@ -395,7 +393,7 @@
 - [stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [speed-cloudflare-cli](https://github.com/KNawm/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [speedo-cli](https://github.com/xxczaki/speedo-cli) - ⌚️ Internet speed report in your terminal!
-- [exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API
+- [exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
 - [mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
 - [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
@@ -1097,9 +1095,11 @@
 
 ## SCSS 
 
+- [include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites
 
 ## Sass 
