@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [compromise](https://github.com/omakoto/compromise) - Go Framework for Writing Shell Completion for Bash / Zsh (with Go/ADB completion)
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
