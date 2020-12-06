@@ -591,6 +591,7 @@
 
 ## Kotlin 
 
+- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
 - [papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Gtk Icon theme port for android
 - [updater-for-spotify](https://github.com/2Ra66it/updater-for-spotify) - Updater For Spotify allows you to download the latest version of Spotify
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
