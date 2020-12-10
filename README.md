@@ -134,6 +134,8 @@
 
 ## C++ 
 
+- [touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
+- [systray-x](https://github.com/Ximi1970/systray-x) - WIP: SysTray-X: A system tray extension for Thunderbird 68+. Needs both the addon AND the companion app installed to work.
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -1355,7 +1357,7 @@
 - [stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
 - [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github
 - [Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-- [kmdr-cli](https://github.com/ediardo/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
+- [kmdr-cli](https://github.com/kommandr/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
