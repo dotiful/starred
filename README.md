@@ -593,6 +593,7 @@
 
 ## Kotlin 
 
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
 - [papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Gtk Icon theme port for android
 - [updater-for-spotify](https://github.com/2Ra66it/updater-for-spotify) - Updater For Spotify allows you to download the latest version of Spotify
@@ -651,6 +652,7 @@
 
 ## Others 
 
+- [awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [uso-archive](https://github.com/33kk/uso-archive) - UserStyles.org Archive
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [60p-keyboard-layout](https://github.com/astronautr/60p-keyboard-layout) - Comfy 60% keyboard layout
@@ -1121,6 +1123,7 @@
 
 ## Shell 
 
+- [KDE-Services](https://github.com/geobarrod/KDE-Services) - This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.
 - [bash-cat-with-cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [pd](https://github.com/ketancmaheshwari/pd) - Linux pipeline debug
 - [Magisk_Manager_Recovery_Tool](https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool) - A Magisk Manager tool that can be used in Recovery mode base Aroma Installer.
@@ -1344,6 +1347,7 @@
 
 ## TypeScript 
 
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vscode-contextual-snips](https://github.com/brpaz/vscode-contextual-snips) - VSCode Extension with advanced snippet matching rules
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
