@@ -466,7 +466,6 @@
 - [Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -845,6 +844,7 @@
 
 ## Python 
 
+- [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -1123,6 +1123,7 @@
 
 ## Shell 
 
+- [onex](https://github.com/rajkumardusad/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you.
 - [KDE-Services](https://github.com/geobarrod/KDE-Services) - This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.
 - [bash-cat-with-cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [pd](https://github.com/ketancmaheshwari/pd) - Linux pipeline debug
@@ -1206,6 +1207,7 @@
 - [yarn-completion](https://github.com/dsifford/yarn-completion) - Bash completion for Yarn
 - [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [zshelldoc](https://github.com/zdharma/zshelldoc) - Documentation generator for Zsh & Bash, with call-trees, comment extraction, etc.
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
 - [zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
