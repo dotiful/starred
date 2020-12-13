@@ -588,6 +588,7 @@
 
 ## Jupyter Notebook 
 
+- [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [starter-academic](https://github.com/wowchemy/starter-academic) - 🎓 Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify
 
 ## Kotlin 
@@ -844,7 +845,6 @@
 
 ## Python 
 
-- [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time (also helpful if you need to use up your API quota as quickly as possible)
 - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
