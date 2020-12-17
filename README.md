@@ -1076,7 +1076,8 @@
 
 ## Rust 
 
-- [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter built on top of visioncortex
+- [dog](https://github.com/ogham/dog) - Command-line DNS client
+- [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
