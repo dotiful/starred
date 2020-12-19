@@ -81,6 +81,7 @@
 
 ## C 
 
+- [catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [reghack](https://github.com/Luminger/reghack) - Fix OpenWRT wlan regulatory settings (mirror from http://luci.subsignal.org/~jow/reghack/
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -653,6 +654,7 @@
 
 ## Others 
 
+- [Install-dual-boot-Manjaro-in-Asus-GL552VW](https://github.com/gmm96/Install-dual-boot-Manjaro-in-Asus-GL552VW) - Step by step to install dual boot Manjaro in Asus GL552VW using UEFI on SSD alongside Windows 10
 - [awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [uso-archive](https://github.com/33kk/uso-archive) - UserStyles.org Archive
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
@@ -846,6 +848,7 @@
 
 ## Python 
 
+- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -1077,6 +1080,7 @@
 
 ## Rust 
 
+- [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
