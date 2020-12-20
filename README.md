@@ -1094,7 +1094,7 @@
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
+- [vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using LS_COLORS
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
@@ -1152,7 +1152,7 @@
 - [fzf-obc](https://github.com/rockandska/fzf-obc) - fzf over bash complete
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
-- [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - an installer for Photoshop CC v19 on Gnu/Linux
+- [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configration files
 - [systemd-user-units](https://github.com/zoqaeski/systemd-user-units) - Systemd user units for my own session.
 - [systemd-user-pam-ssh](https://github.com/capocasa/systemd-user-pam-ssh) - Script used to decrypt a SSH key into a systemd --user managed ssh agnet
