@@ -848,6 +848,7 @@
 
 ## Python 
 
+- [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
