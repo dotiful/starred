@@ -135,6 +135,7 @@
 
 ## C++ 
 
+- [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [systray-x](https://github.com/Ximi1970/systray-x) - WIP: SysTray-X: A system tray extension for Thunderbird 68+. Needs both the addon AND the companion app installed to work.
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
@@ -249,6 +250,7 @@
 
 ## Go 
 
+- [taggo](https://github.com/relastle/taggo) - :maple_leaf: Decorating I/O Stream
 - [compromise](https://github.com/omakoto/compromise) - Go Framework for Writing Shell Completion for Bash / Zsh (with Go/ADB completion)
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
@@ -654,6 +656,7 @@
 
 ## Others 
 
+- [InfinityBomber](https://github.com/SergoProxy/InfinityBomber) - 
 - [Install-dual-boot-Manjaro-in-Asus-GL552VW](https://github.com/gmm96/Install-dual-boot-Manjaro-in-Asus-GL552VW) - Step by step to install dual boot Manjaro in Asus GL552VW using UEFI on SSD alongside Windows 10
 - [awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [uso-archive](https://github.com/33kk/uso-archive) - UserStyles.org Archive
@@ -848,6 +851,9 @@
 
 ## Python 
 
+- [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
+- [atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
+- [key-mapper](https://github.com/sezanzeb/key-mapper) - A tool to change and program the mapping of your input device buttons.
 - [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
@@ -1081,6 +1087,7 @@
 
 ## Rust 
 
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
