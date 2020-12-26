@@ -254,6 +254,7 @@
 - [compromise](https://github.com/omakoto/compromise) - Go Framework for Writing Shell Completion for Bash / Zsh (with Go/ADB completion)
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
@@ -383,6 +384,7 @@
 
 ## JavaScript 
 
+- [devtools-highlighter](https://github.com/captainbrosset/devtools-highlighter) - DevTools extension that finds and highlights elements in the page
 - [keksobooking-baseJS](https://github.com/frontender-training/keksobooking-baseJS) - Личный проект «Кексобукинг» с интенсива «Базовый JavaScript» от HTMLAcademy
 - [scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
@@ -1369,7 +1371,6 @@
 - [vscode-contextual-snips](https://github.com/brpaz/vscode-contextual-snips) - VSCode Extension with advanced snippet matching rules
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal
