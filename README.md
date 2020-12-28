@@ -215,7 +215,7 @@
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [bookmarklets](https://github.com/janmoesen/bookmarklets) - Time-saving and life-enhancing (ahem) bookmarklets
 - [qlplayground](https://github.com/norio-nomura/qlplayground) - `qlplayground` is a QuickLook plugin for Swift files.
-- [Telegram-Vanilla-Dark-Web](https://github.com/VChet/Telegram-Vanilla-Dark-Web) - Dark theme for web.telegram.org
+- [Telegram-Vanilla-Dark-Web](https://github.com/VChet/Telegram-Vanilla-Dark-Web) - Dark Theme for web.telegram.org
 - [slack-dark-mojave-theme](https://github.com/elv1n/slack-dark-mojave-theme) - Beautiful dark theme for slack 3, 4+. Apply theme by running one command 🌸
 - [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum
 - [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
@@ -720,7 +720,7 @@
 - [awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [All-in-One-Customized-Adblock-List](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles.
-- [open-in-iina-workflow](https://github.com/eutialia/open-in-iina-workflow) - Open url in IINA directly from alfred
+- [open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from alfred
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [atom-language-homebrew-formula](https://github.com/danielbayley/atom-language-homebrew-formula) - :atom: @Atom language support for @Homebrew formulae and Casks.
