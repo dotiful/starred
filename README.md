@@ -662,7 +662,7 @@
 - [Install-dual-boot-Manjaro-in-Asus-GL552VW](https://github.com/gmm96/Install-dual-boot-Manjaro-in-Asus-GL552VW) - Step by step to install dual boot Manjaro in Asus GL552VW using UEFI on SSD alongside Windows 10
 - [awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [uso-archive](https://github.com/33kk/uso-archive) - UserStyles.org Archive
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [60p-keyboard-layout](https://github.com/astronautr/60p-keyboard-layout) - Comfy 60% keyboard layout
 - [sysctl](https://github.com/k4yt3x/sysctl) - K4YT3X's Hardened sysctl Configuration
 - [vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
@@ -1120,7 +1120,7 @@
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
 
