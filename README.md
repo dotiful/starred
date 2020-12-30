@@ -853,6 +853,7 @@
 
 ## Python 
 
+- [fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) - Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
 - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
 - [atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
 - [key-mapper](https://github.com/sezanzeb/key-mapper) - A tool to change and program the mapping of your input device buttons.
@@ -1031,7 +1032,7 @@
 - [MKBRUTUS](https://github.com/mkbrutusproject/MKBRUTUS) - Password bruteforcer for MikroTik devices or boxes running RouterOS
 - [WiFi-Pumpkin-deprecated](https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated) - DEPRECATED, wifipumpkin3 -&gt; https://github.com/P0cL4bs/wifipumpkin3
 - [Alfred_ShadowsocksController](https://github.com/yourtion/Alfred_ShadowsocksController) - ShadowsocksX controller for Alfred
-- [ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades openwisp 2
+- [ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP.
 - [logcat-color](https://github.com/marshall/logcat-color) - A colorful and highly configurable alternative to the standard "adb logcat" command from the Android SDK
 - [pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [asu](https://github.com/aparcar/asu) - A image on demand server for OpenWrt based distributions
@@ -1150,7 +1151,7 @@
 - [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [ufwIconbar](https://github.com/juanmafont/ufwIconbar) - Set and ufw icon bar when login on status bar.
 - [wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian, PopOS, Manjaro
+- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [ncmpcpp-ueberzug](https://github.com/alnj/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
@@ -1212,7 +1213,7 @@
 - [Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) - maybe the best AdGuardHome luci for openwrt
 - [vscode-figma-toolkit](https://github.com/microsoft/vscode-figma-toolkit) - A Figma design toolkit for Visual Studio Code
-- [MountEFI](https://github.com/Andrej-Antipov/MountEFI) - Some shell scripts  for quickly searching and mounting EFI / ESP partitions on Mac OS 10.11 - 11.1
+- [MountEFI](https://github.com/Andrej-Antipov/MountEFI) - Some shell scripts  for quickly searching and mounting EFI / ESP partitions on Mac OS 10.11 - 11.2
 - [SpiraMira-HybridMode-Patcher](https://github.com/Andrej-Antipov/SpiraMira-HybridMode-Patcher) - The script program to easy apply SpiraMira Hybrid Mode fo Mojave Interface
 - [hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
