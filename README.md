@@ -607,7 +607,7 @@
 
 ## Lua 
 
-- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具)
+- [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [alfred-pcalc](https://github.com/themadsens/alfred-pcalc) - A programmers calculator for alfred 3
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -620,6 +620,7 @@
 ## Makefile 
 
 - [editorconfig-checker.javascript](https://github.com/editorconfig-checker/editorconfig-checker.javascript) - A tool to verify that your files are in harmony with your .editorconfig
+- [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [strlen.awf](https://github.com/mklement0/strlen.awf) - An Alfred workflow that counts the number of characters and bytes in a string.
 - [mac-playbook](https://github.com/oxyc/mac-playbook) - Mac setup and configuration via Ansible.
 
@@ -1176,7 +1177,6 @@
 - [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-- [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [SysTrayModder](https://github.com/baduhai/SysTrayModder) - Script to make the Plasma system tray behave like a sidebar.
 - [action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck and shfmt
 - [zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
