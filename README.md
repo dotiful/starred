@@ -154,7 +154,7 @@
 - [krunner-firefox](https://github.com/alex1701c/krunner-firefox) - Launch your Firefox profiles from Krunner and register them in the Firefox .desktop file
 - [krunner-vscodeprojects](https://github.com/alex1701c/krunner-vscodeprojects) - Open VSCode Project Manager projects from Krunner
 - [applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
-- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [ksnip](https://github.com/ksnip/ksnip) - Ksnip is a Qt based cross-platform screenshot tool that provides many annotation features for your screenshots.
 - [tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
@@ -250,6 +250,8 @@
 
 ## Go 
 
+- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
+- [snp](https://github.com/djyde/snp) - VS Code code snippet generator
 - [taggo](https://github.com/relastle/taggo) - :maple_leaf: Decorating I/O Stream
 - [compromise](https://github.com/omakoto/compromise) - Go Framework for Writing Shell Completion for Bash / Zsh (with Go/ADB completion)
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
@@ -332,6 +334,7 @@
 
 ## HTML 
 
+- [vscode-snippets-ranger](https://github.com/robole/vscode-snippets-ranger) - View all of your snippets in one purty place!
 - [fast](https://github.com/reblim/fast) - Develop, build, deploy, redeploy, and teardown frontend projects fast.
 - [zren.github.io](https://github.com/Zren/zren.github.io) - 
 - [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
@@ -384,6 +387,7 @@
 
 ## JavaScript 
 
+- [CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - 
 - [devtools-highlighter](https://github.com/captainbrosset/devtools-highlighter) - DevTools extension that finds and highlights elements in the page
 - [keksobooking-baseJS](https://github.com/frontender-training/keksobooking-baseJS) - Личный проект «Кексобукинг» с интенсива «Базовый JavaScript» от HTMLAcademy
 - [scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
@@ -473,7 +477,7 @@
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [startpage](https://github.com/psaegert/startpage) - Startpage
 - [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -620,7 +624,6 @@
 ## Makefile 
 
 - [editorconfig-checker.javascript](https://github.com/editorconfig-checker/editorconfig-checker.javascript) - A tool to verify that your files are in harmony with your .editorconfig
-- [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [strlen.awf](https://github.com/mklement0/strlen.awf) - An Alfred workflow that counts the number of characters and bytes in a string.
 - [mac-playbook](https://github.com/oxyc/mac-playbook) - Mac setup and configuration via Ansible.
 
@@ -854,6 +857,7 @@
 
 ## Python 
 
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) - Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
 - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
 - [atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
@@ -1091,6 +1095,10 @@
 
 ## Rust 
 
+- [sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: A fast, configurable, shell plugin manager
+- [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+- [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
@@ -1177,6 +1185,7 @@
 - [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- [vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [SysTrayModder](https://github.com/baduhai/SysTrayModder) - Script to make the Plasma system tray behave like a sidebar.
 - [action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck and shfmt
 - [zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
