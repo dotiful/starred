@@ -135,9 +135,10 @@
 
 ## C++ 
 
+- [plasma-desktop-run-command](https://github.com/wsdfhjxc/plasma-desktop-run-command) - KDE Plasma desktop mouse action for running a custom command
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
-- [systray-x](https://github.com/Ximi1970/systray-x) - WIP: SysTray-X: A system tray extension for Thunderbird 68+. Needs both the addon AND the companion app installed to work.
+- [systray-x](https://github.com/Ximi1970/systray-x) - WIP: SysTray-X: A system tray extension for Thunderbird 68+. Needs both the addon AND the companion app installed to work. Will not work with full wayland desktops.
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -190,6 +191,7 @@
 
 ## CSS 
 
+- [userstyles](https://github.com/almaceleste/userstyles) - my userstyles repo
 - [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
 - [Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
@@ -387,6 +389,7 @@
 
 ## JavaScript 
 
+- [kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
 - [CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - 
 - [devtools-highlighter](https://github.com/captainbrosset/devtools-highlighter) - DevTools extension that finds and highlights elements in the page
 - [keksobooking-baseJS](https://github.com/frontender-training/keksobooking-baseJS) - Личный проект «Кексобукинг» с интенсива «Базовый JavaScript» от HTMLAcademy
@@ -857,11 +860,12 @@
 
 ## Python 
 
+- [kdenchapters](https://github.com/BrodieRobertson/kdenchapters) - Extra YouTube chapter timestamps from a kdenlive project file
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) - Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
 - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
 - [atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
-- [key-mapper](https://github.com/sezanzeb/key-mapper) - A tool to change and program the mapping of your input device buttons.
+- [key-mapper](https://github.com/sezanzeb/key-mapper) - An easy to use tool to change the mapping of your input device buttons.
 - [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
@@ -1149,6 +1153,8 @@
 
 ## Shell 
 
+- [xdg-tools](https://github.com/MestreLion/xdg-tools) - Assorted xdg-related tools. Mostly related to icons and .desktop files handling
+- [TermuxBackupTools](https://github.com/laraib07/TermuxBackupTools) - Simple bash script to backup and restore termux(an android terminal emulator).
 - [dotfiles](https://github.com/davla/dotfiles) - My dotfiles repository. Really, just configuration files
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [onex](https://github.com/rajkumardusad/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you.
