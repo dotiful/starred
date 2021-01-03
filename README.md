@@ -81,6 +81,7 @@
 
 ## C 
 
+- [xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
 - [catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [reghack](https://github.com/Luminger/reghack) - Fix OpenWRT wlan regulatory settings (mirror from http://luci.subsignal.org/~jow/reghack/
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
@@ -665,6 +666,7 @@
 
 ## Others 
 
+- [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [InfinityBomber](https://github.com/SergoProxy/InfinityBomber) - 
 - [Install-dual-boot-Manjaro-in-Asus-GL552VW](https://github.com/gmm96/Install-dual-boot-Manjaro-in-Asus-GL552VW) - Step by step to install dual boot Manjaro in Asus GL552VW using UEFI on SSD alongside Windows 10
 - [awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
@@ -860,6 +862,7 @@
 
 ## Python 
 
+- [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [kdenchapters](https://github.com/BrodieRobertson/kdenchapters) - Extra YouTube chapter timestamps from a kdenlive project file
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) - Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
@@ -1099,6 +1102,7 @@
 
 ## Rust 
 
+- [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
 - [sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: A fast, configurable, shell plugin manager
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -1153,6 +1157,7 @@
 
 ## Shell 
 
+- [zsh-tab-title](https://github.com/trystan2k/zsh-tab-title) - A ZSH plugin to set the terminal tab title according to current directory or running process. It's based (forked) from Oh-My-ZSH one.
 - [xdg-tools](https://github.com/MestreLion/xdg-tools) - Assorted xdg-related tools. Mostly related to icons and .desktop files handling
 - [TermuxBackupTools](https://github.com/laraib07/TermuxBackupTools) - Simple bash script to backup and restore termux(an android terminal emulator).
 - [dotfiles](https://github.com/davla/dotfiles) - My dotfiles repository. Really, just configuration files
