@@ -466,7 +466,7 @@
 - [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
 - [project-scaffolder](https://github.com/travi/project-scaffolder) - opinionated scaffolder for new projects
 - [tabtab](https://github.com/mklabs/tabtab) - tab completion helpers, for node cli programs & others. Inspired by npm completion
-- [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
+- [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
 - [vscode-powertools-samples](https://github.com/egodigital/vscode-powertools-samples) - A repostory of samples, which demonstrates, how to use the 'Power Tools' extension for Visual Studio Code.
 - [vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
@@ -1157,6 +1157,7 @@
 
 ## Shell 
 
+- [printc](https://github.com/philFernandez/printc) - zsh plugin for wrapping ANSI color codes
 - [zsh-tab-title](https://github.com/trystan2k/zsh-tab-title) - A ZSH plugin to set the terminal tab title according to current directory or running process. It's based (forked) from Oh-My-ZSH one.
 - [xdg-tools](https://github.com/MestreLion/xdg-tools) - Assorted xdg-related tools. Mostly related to icons and .desktop files handling
 - [TermuxBackupTools](https://github.com/laraib07/TermuxBackupTools) - Simple bash script to backup and restore termux(an android terminal emulator).
