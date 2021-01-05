@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [aqemu](https://github.com/tobimensch/aqemu) - Official AQEMU repository - a GUI for virtual machines using QEMU as the backend
 - [plasma-desktop-run-command](https://github.com/wsdfhjxc/plasma-desktop-run-command) - KDE Plasma desktop mouse action for running a custom command
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
@@ -379,6 +380,7 @@
 
 ## Java 
 
+- [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Source code of SmartPack-Kernel Manager, the Ultimate Tool to Manage your Kernel
 - [openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
@@ -851,6 +853,7 @@
 
 ## PowerShell 
 
+- [windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 - [pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
 - [Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Add coloring to the output of Get-ChildItem Cmdlet of PowerShell.
 - [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
