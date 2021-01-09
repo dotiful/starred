@@ -289,7 +289,7 @@
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [docker-hub.alfredworkflow](https://github.com/skyzyx/docker-hub.alfredworkflow) - Alfred workflow for Docker Hub.
