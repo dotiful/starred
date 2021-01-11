@@ -1106,6 +1106,7 @@
 
 ## Rust 
 
+- [atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
 - [sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: A fast, configurable, shell plugin manager
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
