@@ -874,7 +874,7 @@
 - [atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
 - [key-mapper](https://github.com/sezanzeb/key-mapper) - An easy to use tool to change the mapping of your input device buttons.
 - [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
-- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -1008,7 +1008,7 @@
 - [alfred-translate-on-the-fly](https://github.com/NikolayKul/alfred-translate-on-the-fly) - Alfred's workflow for fluent translation [ru/en]
 - [gist-alfred](https://github.com/danielecook/gist-alfred) - An alfred workflow for accessing gists
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.
-- [alfred-workflow-moment](https://github.com/perfectworks/alfred-workflow-moment) - 
+- [alfred-workflow-moment](https://github.com/e7h4n/alfred-workflow-moment) - 
 - [Hunner](https://github.com/b3-v3r/Hunner) - Hacking framework
 - [WPSeku](https://github.com/m4ll0k/WPSeku) - WPSeku - Wordpress Security Scanner
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
