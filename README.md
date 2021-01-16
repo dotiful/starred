@@ -782,7 +782,6 @@
 - [Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover) - Visit BLOG : https://com-chris1111.github.io
 - [base16](https://github.com/chriskempson/base16) - An architecture for building themes
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
-- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [vscode-ocean-dark-extended-theme](https://github.com/kleber-swf/vscode-ocean-dark-extended-theme) - Available on VS Code Marketplace
@@ -1304,6 +1303,7 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh) - Script to generate a SSDT for Power Management
 - [i-vagrant](https://github.com/bogdanvlviv/i-vagrant) - 
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [awm](https://github.com/danielbayley/awm) - Extend @Homebrew-Alfred to manage your Alfred workflow development cycle.
 - [alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
 - [Tmux-Bunch](https://github.com/Hax4us/Tmux-Bunch) - (Deprecated Use Apkmod instead)Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)
