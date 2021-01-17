@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [snp](https://github.com/djyde/snp) - VS Code code snippet generator
 - [taggo](https://github.com/relastle/taggo) - :maple_leaf: Decorating I/O Stream
@@ -392,6 +393,7 @@
 
 ## JavaScript 
 
+- [vscode-recipes](https://github.com/brucebentley/vscode-recipes) - A collection of recipes for using Visual Studio Code with particular technologies.
 - [kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
 - [CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - 
 - [devtools-highlighter](https://github.com/captainbrosset/devtools-highlighter) - DevTools extension that finds and highlights elements in the page
@@ -723,7 +725,7 @@
 - [alfredworkflow.placeholderimages](https://github.com/manumorante/alfredworkflow.placeholderimages) - :tophat: Placeholder Images for every case from lorempixel.com and unsplash.com
 - [css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [alfred-screen-sharing](https://github.com/jtvhk/alfred-screen-sharing) - Easily start a screen sharing session directly from Alfred.
-- [comment-vscode](https://github.com/pmkary/comment-vscode) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
+- [comment-vscode](https://github.com/pouyakary/comment-vscode) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
@@ -881,7 +883,7 @@
 - [Instagram-DeepFake-Bot](https://github.com/dome272/Instagram-DeepFake-Bot) - An Instagram Bot serving as an account, people can use to create DeepFakes on Instagram.
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
-- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
+- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
 - [vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize Vim startup time
 - [sacad](https://github.com/desbma/sacad) - Smart Automatic Cover Art Downloader
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
