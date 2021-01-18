@@ -30,6 +30,7 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
+  - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -99,7 +100,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from stdin or a file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to stdout for further processing.
+- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
@@ -120,6 +121,7 @@
 
 ## C# # 
 
+- [Glow](https://github.com/MattMcManis/Glow) - mpv Config File Generator for Windows
 - [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [control-uwp](https://github.com/builtbybel/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
@@ -393,6 +395,7 @@
 
 ## JavaScript 
 
+- [register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [vscode-recipes](https://github.com/brucebentley/vscode-recipes) - A collection of recipes for using Visual Studio Code with particular technologies.
 - [kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
 - [CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - 
@@ -635,6 +638,10 @@
 - [editorconfig-checker.javascript](https://github.com/editorconfig-checker/editorconfig-checker.javascript) - A tool to verify that your files are in harmony with your .editorconfig
 - [strlen.awf](https://github.com/mklement0/strlen.awf) - An Alfred workflow that counts the number of characters and bytes in a string.
 - [mac-playbook](https://github.com/oxyc/mac-playbook) - Mac setup and configuration via Ansible.
+
+## Nix 
+
+- [dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 
 ## OCaml 
 
@@ -1350,7 +1357,6 @@
 - [buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
 - [homer](https://github.com/tubbo/homer) - The home directory management tool.
 - [dotfiles](https://github.com/vinkla/dotfiles) - .files – sensible hacker defaults for macOS
-- [dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [.dotfiles](https://github.com/MaxMEllon/.dotfiles) - :wrench: my configuration files ( .zshrc , .tmux.conf , etc... )
 
 ## Smarty 
