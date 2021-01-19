@@ -403,7 +403,7 @@
 - [keksobooking-baseJS](https://github.com/frontender-training/keksobooking-baseJS) - Личный проект «Кексобукинг» с интенсива «Базовый JavaScript» от HTMLAcademy
 - [scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
-- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take up to 100 days, follow your own pace.
 - [automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [gm-storage](https://github.com/chocolateboy/gm-storage) - An ES6 Map wrapper for the synchronous userscript storage API
 - [action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
