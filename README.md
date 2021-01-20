@@ -585,7 +585,7 @@
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - Store link:
 - [zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [vscode-sshextension](https://github.com/VitalyKondratiev/vscode-sshextension) - Extension for SSH connections using the ftp-simple settings
 - [grc](https://github.com/pengwynn/grc) - Mirror of Radovan Garabík's - Generic Colourizer for terminal apps
 - [qifi](https://github.com/evgeni/qifi) - pure JS WiFi QR Code Generator
