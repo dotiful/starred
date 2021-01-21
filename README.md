@@ -125,6 +125,7 @@
 - [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [control-uwp](https://github.com/builtbybel/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -154,7 +155,6 @@
 - [grub2-editor](https://github.com/maz-1/grub2-editor) - A KDE Control Module for configuring the GRUB2 bootloader. Unofficial KF5 port.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [krunner-kwallet](https://github.com/alex1701c/krunner-kwallet) - This is a Krunner plugin which allows you to copy/show/edit/add entries from KWallet
 - [krunner-firefox](https://github.com/alex1701c/krunner-firefox) - Launch your Firefox profiles from Krunner and register them in the Firefox .desktop file
 - [krunner-vscodeprojects](https://github.com/alex1701c/krunner-vscodeprojects) - Open VSCode Project Manager projects from Krunner
@@ -678,6 +678,7 @@
 
 ## Others 
 
+- [awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
 - [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [InfinityBomber](https://github.com/SergoProxy/InfinityBomber) - 
 - [Install-dual-boot-Manjaro-in-Asus-GL552VW](https://github.com/gmm96/Install-dual-boot-Manjaro-in-Asus-GL552VW) - Step by step to install dual boot Manjaro in Asus GL552VW using UEFI on SSD alongside Windows 10
@@ -810,7 +811,7 @@
 - [arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
-- [alfred-http-status-codes](https://github.com/ma3574/alfred-http-status-codes) - Alfred Workflow to search for http status code meanings
+- [alfred-http-status-codes](https://github.com/UpSync-Dev/alfred-http-status-codes) - Alfred Workflow to search for http status code meanings
 - [guide](https://github.com/odeskconf/guide) - Гайд сообщества OdeskConf о тонкостях работы на Upwork
 - [telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [aurman-zsh-completion](https://github.com/steven-omaha/aurman-zsh-completion) - 
