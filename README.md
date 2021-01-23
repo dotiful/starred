@@ -77,6 +77,7 @@
 
 ## Batchfile 
 
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [Windows10MiningTweaksDmW](https://github.com/DeadManWalkingTO/Windows10MiningTweaksDmW) - Windows 10 Mining Tweaks by DeadManWalking (DeadManWalkingTO-GitHub)
 - [AIO-Boot](https://github.com/nguyentumine/AIO-Boot) - AIO Boot is an All-in-One bootable software for USB and HDD. Is one of the best Multiboot USB Creator for Windows.
 
@@ -814,7 +815,6 @@
 - [alfred-http-status-codes](https://github.com/UpSync-Dev/alfred-http-status-codes) - Alfred Workflow to search for http status code meanings
 - [guide](https://github.com/odeskconf/guide) - Гайд сообщества OdeskConf о тонкостях работы на Upwork
 - [telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
-- [aurman-zsh-completion](https://github.com/steven-omaha/aurman-zsh-completion) - 
 - [wordpress-vscode-extensionpack](https://github.com/jpagano/wordpress-vscode-extensionpack) - A collection of extensions for working with WordPress sites in VS Code
 - [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [arch-linux-install](https://github.com/angristan/arch-linux-install) - My Arch Linux installation notes
@@ -1313,7 +1313,6 @@
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh) - Script to generate a SSDT for Power Management
 - [i-vagrant](https://github.com/bogdanvlviv/i-vagrant) - 
-- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [awm](https://github.com/danielbayley/awm) - Extend @Homebrew-Alfred to manage your Alfred workflow development cycle.
 - [alfred-docker-workflows](https://github.com/anmolnagpal/alfred-docker-workflows) - Alfred workflow for DevOps
 - [Tmux-Bunch](https://github.com/Hax4us/Tmux-Bunch) - (Deprecated Use Apkmod instead)Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)
