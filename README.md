@@ -126,6 +126,7 @@
 - [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [control-uwp](https://github.com/builtbybel/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -155,7 +156,6 @@
 - [grub2-editor](https://github.com/maz-1/grub2-editor) - A KDE Control Module for configuring the GRUB2 bootloader. Unofficial KF5 port.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [krunner-kwallet](https://github.com/alex1701c/krunner-kwallet) - This is a Krunner plugin which allows you to copy/show/edit/add entries from KWallet
 - [krunner-firefox](https://github.com/alex1701c/krunner-firefox) - Launch your Firefox profiles from Krunner and register them in the Firefox .desktop file
 - [krunner-vscodeprojects](https://github.com/alex1701c/krunner-vscodeprojects) - Open VSCode Project Manager projects from Krunner
@@ -257,6 +257,7 @@
 
 ## Go 
 
+- [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [snp](https://github.com/djyde/snp) - VS Code code snippet generator
@@ -875,6 +876,8 @@
 
 ## Python 
 
+- [savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art!
+- [Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [kdenchapters](https://github.com/BrodieRobertson/kdenchapters) - Extra YouTube chapter timestamps from a kdenlive project file
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
@@ -1171,6 +1174,10 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/mohkale/dotfiles) - :house: is where the :heart: is :tada:
+- [tmpsms](https://github.com/sdushantha/tmpsms) - 📥 A temporary SMS utility right from your terminal written in POSIX sh
+- [gce-disks-export](https://github.com/devxops/gce-disks-export) - Export Google Cloud instances disks to Cloud Storage
+- [compute-archlinux-image-builder](https://github.com/GoogleCloudPlatform/compute-archlinux-image-builder) - A tool to build a Arch Linux Image for GCE
 - [printc](https://github.com/philFernandez/printc) - zsh plugin for wrapping ANSI color codes
 - [zsh-tab-title](https://github.com/trystan2k/zsh-tab-title) - A ZSH plugin to set the terminal tab title according to current directory or running process. It's based (forked) from Oh-My-ZSH one.
 - [xdg-tools](https://github.com/MestreLion/xdg-tools) - Assorted xdg-related tools. Mostly related to icons and .desktop files handling
@@ -1401,6 +1408,7 @@
 
 ## TypeScript 
 
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vscode-contextual-snips](https://github.com/brpaz/vscode-contextual-snips) - VSCode Extension with advanced snippet matching rules
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
