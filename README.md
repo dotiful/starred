@@ -543,7 +543,7 @@
 - [scripty](https://github.com/testdouble/scripty) - Because no one should be shell-scripting inside a JSON file.
 - [alfred-npms](https://github.com/sindresorhus/alfred-npms) - Alfred 3 workflow to search for npm packages with npms.io
 - [alfred-imgur](https://github.com/frdmn/alfred-imgur) - 🎩 Alfred workflow to upload image files to Imgur
-- [google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
+- [google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar: :no_entry_sign:
 - [TravisCI-Telegam-Bot](https://github.com/artemgurzhii/TravisCI-Telegam-Bot) - Telegram bot, which will notify you each time, when your travis ci build is done.
 - [tap-release](https://github.com/toolmantim/tap-release) - Automatically update Homebrew taps when you publish new GitHub releases
 - [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
@@ -1022,7 +1022,6 @@
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.
 - [alfred-workflow-moment](https://github.com/e7h4n/alfred-workflow-moment) - 
 - [Hunner](https://github.com/b3-v3r/Hunner) - Hacking framework
-- [WPSeku](https://github.com/m4ll0k/WPSeku) - WPSeku - Wordpress Security Scanner
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [Alfred-Workflow-Upload-S3](https://github.com/tonyxu-io/Alfred-Workflow-Upload-S3) - This is an Alfred workflow that helps you upload image in clipboard or local to AWS S3
 - [aws-alfred](https://github.com/bfleming-ciena/aws-alfred) - AWS Workflow for Alfred2
@@ -1078,6 +1077,7 @@
 - [org.kpple.kppleMenu](https://github.com/kppleos/org.kpple.kppleMenu) - The Kpple menu is the drop-down menu of Kpple OS.
 - [Qogir-kde](https://github.com/vinceliuice/Qogir-kde) - Qogir theme for kde plasma desktop
 - [latte_slideshow_wallpaper](https://github.com/psifidotos/latte_slideshow_wallpaper) - Plasma SlideShow Wallpaper plugin
+- [materia-kde](https://github.com/PapirusDevelopmentTeam/materia-kde) - Materia KDE customization
 - [McMojave-kde](https://github.com/vinceliuice/McMojave-kde) - MacOSX Mojave like theme for KDE Plasma
 
 ## Rich Text Format 
@@ -1108,7 +1108,7 @@
 - [homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [homebrew-alfred](https://github.com/danielbayley/homebrew-alfred) - Manage Alfred with @Homebrew.
-- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 - [alfred-random_file_picker](https://github.com/claui/alfred-random_file_picker) - Alfred workflow to copy a random subset of files to another folder
 - [brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
 - [rouge](https://github.com/rouge-ruby/rouge) - A pure Ruby code highlighter that is compatible with Pygments
@@ -1247,7 +1247,6 @@
 - [zygal](https://github.com/davla/zygal) - Background-based prompt theme
 - [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [materia-kde](https://github.com/PapirusDevelopmentTeam/materia-kde) - Materia KDE customization
 - [adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization
 - [grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
@@ -1408,6 +1407,7 @@
 
 ## TypeScript 
 
+- [vscode-modelines](https://github.com/ctlajoie/vscode-modelines) - Set editor options for individual files. Supports Vim and Emacs modelines plus a Code-specific modeline syntax.
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [vscode-contextual-snips](https://github.com/brpaz/vscode-contextual-snips) - VSCode Extension with advanced snippet matching rules
