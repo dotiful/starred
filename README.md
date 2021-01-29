@@ -884,7 +884,7 @@
 - [fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) - Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
 - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
 - [atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
-- [key-mapper](https://github.com/sezanzeb/key-mapper) - An easy to use tool to change the mapping of your input device buttons.
+- [key-mapper](https://github.com/sezanzeb/key-mapper) - 🎮 An easy to use tool to change the mapping of your input device buttons.
 - [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
