@@ -48,6 +48,7 @@
   - [Sass](#sass)
   - [Shell](#shell)
   - [Smarty](#smarty)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -257,6 +258,7 @@
 
 ## Go 
 
+- [evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
@@ -485,7 +487,6 @@
 - [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
 - [eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
 - [addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
-- [npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
 - [module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -876,6 +877,8 @@
 
 ## Python 
 
+- [fierce](https://github.com/mschwager/fierce) - A DNS reconnaissance tool for locating non-contiguous IP space.
+- [OneShot](https://github.com/drygdryg/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art!
 - [Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
@@ -1057,7 +1060,6 @@
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [MKBRUTUS](https://github.com/mkbrutusproject/MKBRUTUS) - Password bruteforcer for MikroTik devices or boxes running RouterOS
-- [WiFi-Pumpkin-deprecated](https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated) - DEPRECATED, wifipumpkin3 -&gt; https://github.com/P0cL4bs/wifipumpkin3
 - [Alfred_ShadowsocksController](https://github.com/yourtion/Alfred_ShadowsocksController) - ShadowsocksX controller for Alfred
 - [ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP.
 - [logcat-color](https://github.com/marshall/logcat-color) - A colorful and highly configurable alternative to the standard "adb logcat" command from the Android SDK
@@ -1369,6 +1371,10 @@
 
 - [kate-stuff](https://github.com/zaufi/kate-stuff) - My (updated/improved) kate's editor syntax files, code snippets and C++ indenter
 
+## Svelte 
+
+- [npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
+
 ## Swift 
 
 - [zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
@@ -1407,6 +1413,7 @@
 
 ## TypeScript 
 
+- [vscode-js-profile-visualizer](https://github.com/microsoft/vscode-js-profile-visualizer) - A custom editor for viewing `.cpuprofile` files in VS Code
 - [vscode-modelines](https://github.com/ctlajoie/vscode-modelines) - Set editor options for individual files. Supports Vim and Emacs modelines plus a Code-specific modeline syntax.
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
