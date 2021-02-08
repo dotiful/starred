@@ -123,6 +123,7 @@
 
 ## C# # 
 
+- [KeeThief](https://github.com/GhostPack/KeeThief) - Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.
 - [Glow](https://github.com/MattMcManis/Glow) - mpv Config File Generator for Windows
 - [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [control-uwp](https://github.com/builtbybel/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
@@ -618,6 +619,7 @@
 
 ## Kotlin 
 
+- [Expenso](https://github.com/Spikeysanju/Expenso) - 📊 A Minimal Expense Tracker App built to demonstrate the use of modern android architecture component with MVVM Architecture
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools) - A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot
 - [papirusadaptive](https://github.com/osmanonurkoc/papirusadaptive) - Famous Gtk Icon theme port for android
@@ -750,7 +752,7 @@
 - [atom-language-homebrew-formula](https://github.com/danielbayley/atom-language-homebrew-formula) - :atom: @Atom language support for @Homebrew formulae and Casks.
 - [alfred-special-characters](https://github.com/typefacts/alfred-special-characters) - Special Characters by Typefacts — An Alfred App Workflow
 - [hackintosh](https://github.com/macfanatic77/hackintosh) - 
-- [mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - 🎩 Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users.
+- [mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - 🎩  Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users.
 - [open-in-buttons-for-finder-toolbar](https://github.com/cnstntn-kndrtv/open-in-buttons-for-finder-toolbar) - Open in TextMate, open in VS Code buttons for Finder toolbar and MB pro Touch Bar
 - [kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
