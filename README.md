@@ -675,6 +675,7 @@
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 - [MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
 - [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
@@ -1398,7 +1399,6 @@
 - [Lazy-Hackintosh-Image-Generator](https://github.com/arslan2012/Lazy-Hackintosh-Image-Generator) - This automatical app makes Hackintosh installer from original Macintosh Installer app/disk image.
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 👨‍💻Watch the latest and greatest conference videos on your Mac
 - [DarkBoot](https://github.com/w0lfschild/DarkBoot) - :computer: Customize the boot, login and lock screens on macOS
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [pixel-picker](https://github.com/acheronfail/pixel-picker) - A tiny menu bar application that helps you pick colours from your screen! 🔍✨
 - [Mos](https://github.com/Caldis/Mos) - 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS
 - [Polyglot](https://github.com/uetchy/Polyglot) - 🌏 The missing Safari extension that translates selected text into your native language.
