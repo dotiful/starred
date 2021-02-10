@@ -400,7 +400,7 @@
 
 ## JavaScript 
 
-- [goofy](https://github.com/Chimildic/goofy) - Библиотека для создания плейлистов Spotify по расписанию через Google Apps Script
+- [goofy](https://github.com/Chimildic/goofy) - Библиотека для генерации плейлистов Spotify по расписанию через Google Apps Script
 - [register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [vscode-recipes](https://github.com/brucebentley/vscode-recipes) - A collection of recipes for using Visual Studio Code with particular technologies.
 - [kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
