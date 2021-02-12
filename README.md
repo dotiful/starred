@@ -608,7 +608,7 @@
 - [vscode-nginx-conf-hint](https://github.com/hangxingliu/vscode-nginx-conf-hint) - :pencil: VS Code extension: Nginx config file hint(auto-completion)
 - [vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [gnome-shell-remove-dropdown-arrows](https://github.com/mpdeimos/gnome-shell-remove-dropdown-arrows) - Removes the dropdown arrows from the AppMenu and SystemMenu (AggregateMenu) which were introduced in Gnome 3.10.
-- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 125+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
+- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 130+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
 - [notion-app](https://github.com/sysdrum/notion-app) - Notion.so desktop application for Linux
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
