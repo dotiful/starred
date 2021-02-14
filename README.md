@@ -683,6 +683,7 @@
 
 ## Others 
 
+- [Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
 - [OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
 - [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
@@ -1126,7 +1127,7 @@
 ## Rust 
 
 - [atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
-- [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
+- [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: A fast, configurable, shell plugin manager
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
