@@ -226,7 +226,7 @@
 - [qlplayground](https://github.com/norio-nomura/qlplayground) - `qlplayground` is a QuickLook plugin for Swift files.
 - [Telegram-Vanilla-Dark-Web](https://github.com/VChet/Telegram-Vanilla-Dark-Web) - Dark Theme for web.telegram.org
 - [slack-dark-mojave-theme](https://github.com/elv1n/slack-dark-mojave-theme) - Beautiful dark theme for slack 3, 4+. Apply theme by running one command 🌸
-- [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum
+- [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Project on hold / Custom CSS tweaks for Firefox Quantum
 - [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
