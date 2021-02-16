@@ -933,7 +933,7 @@
 - [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a  Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
-- [gitdir](https://github.com/sdushantha/gitdir) - 📁 Download a single directory/folder from a GitHub repo
+- [gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
@@ -1222,7 +1222,7 @@
 - [vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [kunst](https://github.com/sdushantha/kunst) - 🖼️ Download and display album art or display embedded album art
+- [kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [fzf-plugins](https://github.com/4z3/fzf-plugins) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
@@ -1433,7 +1433,7 @@
 - [codeui](https://github.com/ryanraposo/codeui) - Customize your color theme for VS Code.
 - [vscode-iterm2-theme-sync](https://github.com/tusaeff/vscode-iterm2-theme-sync) - Synchronizes an iTerm2 color profile with selected VSCode theme 🎨
 - [stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
-- [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github
+- [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github, nearly 1000 file/folder icons
 - [Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [kmdr-cli](https://github.com/kommandr/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
