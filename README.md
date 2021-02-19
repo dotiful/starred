@@ -284,7 +284,7 @@
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
-- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
+- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -360,6 +360,7 @@
 - [services](https://github.com/selfrefactor/services) - Holder of multiple npm packages
 - [privacy-settings](https://github.com/schomery/privacy-settings) - Alter Firefox's built-in privacy settings easily with a toolbar panel
 - [js-library-boilerplate-basic](https://github.com/hodgef/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
@@ -521,7 +522,6 @@
 - [SO-mod-userscripts](https://github.com/samliew/SO-mod-userscripts) - Stack Overflow Moderation Userscripts
 - [stackoverflow-tampermonkey-greasemonkey](https://github.com/stackuserflow/stackoverflow-tampermonkey-greasemonkey) - Série de scripts prontos para usar nos sites da rede Stack Exchange quanto para facilitar os desenvolvimento
 - [ini-for-vscode](https://github.com/DavidWang88/ini-for-vscode) - Provide outline view and section folding for INI file.
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [default-bookmark-folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - WebExtension allowing you to choose the default bookmark location folder and quickly bookmark pages via a dedicated icon.
