@@ -1402,7 +1402,7 @@
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 👨‍💻Watch the latest and greatest conference videos on your Mac
 - [DarkBoot](https://github.com/w0lfschild/DarkBoot) - :computer: Customize the boot, login and lock screens on macOS
 - [pixel-picker](https://github.com/acheronfail/pixel-picker) - A tiny menu bar application that helps you pick colours from your screen! 🔍✨
-- [Mos](https://github.com/Caldis/Mos) - 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS
+- [Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [Polyglot](https://github.com/uetchy/Polyglot) - 🌏 The missing Safari extension that translates selected text into your native language.
 - [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [Menu-Bar-Search](https://github.com/BenziAhamed/Menu-Bar-Search) - Quickly search through menu options of the front-most application - Alfred Workflow
