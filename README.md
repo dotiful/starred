@@ -31,6 +31,7 @@
   - [M4](#m4)
   - [Makefile](#makefile)
   - [Nix](#nix)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -351,7 +352,6 @@
 - [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
 - [AutoHotkey_LPortable](https://github.com/2wayne/AutoHotkey_LPortable) - AutoHotkey in the PortableApps.com Format
 - [code](https://github.com/joeytwiddle/code) - All my old code in various languages.  Some of it is better than the rest.
-- [podcast](https://github.com/web-standards-ru/podcast) - Выпуски подкаста «Веб-стандарты»
 - [PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
 - [colors](https://github.com/jonasjacek/colors) - List of 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number, HEX, RGB and HSL code.
 - [pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
@@ -627,6 +627,7 @@
 
 ## Lua 
 
+- [default-http-login-hunter](https://github.com/InfosecMatter/default-http-login-hunter) - Login hunter of default credentials for administrative web interfaces leveraging NNdefaccts dataset.
 - [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [alfred-pcalc](https://github.com/themadsens/alfred-pcalc) - A programmers calculator for alfred 3
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
@@ -646,6 +647,10 @@
 ## Nix 
 
 - [dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
+
+## Nunjucks 
+
+- [podcast](https://github.com/web-standards-ru/podcast) - Выпуски подкаста «Веб-стандарты»
 
 ## OCaml 
 
