@@ -951,7 +951,7 @@
 - [rext](https://github.com/j91321/rext) - Router EXploitation Toolkit - small toolkit for easy creation and usage of various python scripts that work with embedded devices.
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
-- [peru](https://github.com/buildinspace/peru) - a package manager for including other people's code in your projects
+- [peru](https://github.com/buildinspace/peru) - a generic package manager, for including other people's code in your projects
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [alfred-emoji-workflow.py](https://github.com/louiszuckerman/alfred-emoji-workflow.py) - Alfred workflow for searching emoji codes based on alfred-emoji-workflow
 - [alfred-gitmoji](https://github.com/leolabs/alfred-gitmoji) - Search for gitmoji using Alfred and copy them to the clipboard easily
