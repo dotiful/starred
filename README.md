@@ -694,7 +694,7 @@
 - [InfinityBomber](https://github.com/SergoProxy/InfinityBomber) - 
 - [Install-dual-boot-Manjaro-in-Asus-GL552VW](https://github.com/gmm96/Install-dual-boot-Manjaro-in-Asus-GL552VW) - Step by step to install dual boot Manjaro in Asus GL552VW using UEFI on SSD alongside Windows 10
 - [awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
-- [uso-archive](https://github.com/33kk/uso-archive) - UserStyles.org Archive
+- [uso-archive](https://github.com/33kk/uso-archive) - Preserving styles from the slow and unmaintained UserStyles.org
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [60p-keyboard-layout](https://github.com/astronautr/60p-keyboard-layout) - Comfy 60% keyboard layout
 - [sysctl](https://github.com/k4yt3x/sysctl) - K4YT3X's Hardened sysctl Configuration
