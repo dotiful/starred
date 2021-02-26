@@ -676,7 +676,7 @@
 - [AdvanceKextUpdater](https://github.com/MuntashirAkon/AdvanceKextUpdater) - Keep your kexts up-to-date all the time starting from macOS 10.7
 - [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [NativeDisplayBrightness](https://github.com/Bensge/NativeDisplayBrightness) - macOS display brightness utility for external monitors with a native UI.
-- [Sloth](https://github.com/sveinbjornt/Sloth) - Native Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 - [MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
 - [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
@@ -1445,7 +1445,7 @@
 - [codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [vscode-init-script](https://github.com/bodil/vscode-init-script) - Programmatic configuration for VS Code
-- [gistpad](https://github.com/codespaces-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
+- [gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
 - [vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
 - [vscode-run-commands-view](https://github.com/usernamehw/vscode-run-commands-view) - Run commands from its own view
