@@ -105,7 +105,6 @@
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-- [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
 - [gfxutil](https://github.com/acidanthera/gfxutil) - Device Properties conversion tool
 - [OS-X-Intel-Network](https://github.com/RehabMan/OS-X-Intel-Network) - OS X driver for Intel onboard LAN
@@ -1307,6 +1306,7 @@
 - [alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur) - Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
 - [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
+- [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
 - [spoofer](https://github.com/rmc-team/spoofer) - Command line tool to spoof your MAC address and scan your network
 - [macos-downloader](https://github.com/rmc-team/macos-downloader) - Command line tool for downloading macOS installers and beta updates
