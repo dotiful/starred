@@ -485,7 +485,7 @@
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Userscripts](https://github.com/darkred/Userscripts) - My userscripts
-- [svgo](https://github.com/svg/svgo) - :gear: Node.js tool for optimizing SVG files
+- [svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
 - [addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
 - [Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
