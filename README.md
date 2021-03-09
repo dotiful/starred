@@ -553,7 +553,7 @@
 - [github-downloads](https://github.com/samuelmeuli/github-downloads) - ⬇️ See the number of downloads next to releases on GitHub
 - [firefox-tab-suspender](https://github.com/Hau-Hau/firefox-tab-suspender) - A Firefox extension that automatic suspend tabs and saves memory
 - [alfred-anki](https://github.com/bikenik/alfred-anki) - Create New Cards into any decks with any "Note Type".
-- [magnet-link](https://github.com/ungoldman/magnet-link) - :link: Get a magnet link from a torrent file.
+- [magnet-link](https://github.com/ungoldman/magnet-link) - DEPRECATED: Get a magnet link from a torrent file.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [alfred-show-network-info](https://github.com/jeppestaerk/alfred-show-network-info) - Alfred 4 Workflow - See network info and discover local devices
 - [alfred-mac-torrents](https://github.com/gemoroy/alfred-mac-torrents) - workflow for Alfred3 to crawl mac-torrents.com and return .torrent
