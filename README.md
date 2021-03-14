@@ -788,6 +788,7 @@
 - [AptioFixPkg](https://github.com/acidanthera/AptioFixPkg) - AptioFixPkg drivers to workaround macOS compatibility with APTIO UEFI FW
 - [ArrandaleGraphicsHackintosh](https://github.com/Goldfish64/ArrandaleGraphicsHackintosh) - Information regarding first generation Intel HD Graphics and macOS.
 - [clover-builder](https://github.com/Dids/clover-builder) - Automated Clover builds.
+- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alfred-make-appicon](https://github.com/vookimedlo/alfred-make-appicon) - Alfred 3 workflow for making an app icon [icns] based upon the selected file.
 - [alfred3-newFiles](https://github.com/cpimhoff/alfred3-newFiles) - An Alfred 3 workflow which allows for the fast creation of new documents and folders
@@ -1322,7 +1323,6 @@
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [zsh-completions](https://github.com/zchee/zsh-completions) - Yet another zsh completion sources library. Fork, fix and written by me.
 - [AlfredGithubFolderDownloader](https://github.com/logic1988/AlfredGithubFolderDownloader) - Alfred Workflow for download a specific folder in GitHub.
-- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [AlfredGist](https://github.com/phallstrom/AlfredGist) - An workflow for Alfred to create Gists from your clipboard contents or selected file(s).
