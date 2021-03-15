@@ -627,6 +627,7 @@
 ## Lua 
 
 - [default-http-login-hunter](https://github.com/InfosecMatter/default-http-login-hunter) - Login hunter of default credentials for administrative web interfaces leveraging NNdefaccts dataset.
+- [nvcode](https://github.com/ChristianChiarulli/nvcode) - Truly the Ultimate Neovim Config NVCode
 - [z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [alfred-pcalc](https://github.com/themadsens/alfred-pcalc) - A programmers calculator for alfred 3
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
@@ -1507,7 +1508,6 @@
 
 ## Vim script 
 
-- [nvim](https://github.com/ChristianChiarulli/nvim) - Truly the Ultimate Neovim Config NVCode
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [dotfiles](https://github.com/amarshall/dotfiles) - Carefully curated configuration for (almost) everything.
