@@ -915,7 +915,7 @@
 - [persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
 - [qBt_SE](https://github.com/imDMG/qBt_SE) - qBittorrent search engine plugins
-- [qBittorrent-RuTracker-plugin](https://github.com/Skymirrh/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
+- [qBittorrent-RuTracker-plugin](https://github.com/nbusseneau/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [plasma-hud](https://github.com/Zren/plasma-hud) - Provides a way to run menubar commands through rofi, much like the Unity 7 Heads-Up Display (HUD), in KDE Plasma.
 - [sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
