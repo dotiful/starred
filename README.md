@@ -893,7 +893,7 @@
 - [Gameye98/Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
 - [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [BrodieRobertson/kdenchapters](https://github.com/BrodieRobertson/kdenchapters) - Extract YouTube chapter timestamps from a kdenlive project file
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [LukeLambert/fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) - Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
 - [bitbrute/evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
 - [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
@@ -912,13 +912,13 @@
 - [hyiltiz/vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize (n)vim startup time
 - [desbma/sacad](https://github.com/desbma/sacad) - Smart Automatic Cover Art Downloader
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
-- [ProtonVPN/linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
+- [ProtonVPN/linux-cli-community](https://github.com/ProtonVPN/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [imDMG/qBt_SE](https://github.com/imDMG/qBt_SE) - qBittorrent search engine plugins
 - [nbusseneau/qBittorrent-RuTracker-plugin](https://github.com/nbusseneau/qBittorrent-RuTracker-plugin) - qBittorrent search engine plugin for rutracker.org.
 - [Zren/plasma-hud](https://github.com/Zren/plasma-hud) - Provides a way to run menubar commands through rofi, much like the Unity 7 Heads-Up Display (HUD), in KDE Plasma.
 - [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
-- [daehruoydeef/Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
+- [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
 - [xdavidhu/lanGhost](https://github.com/xdavidhu/lanGhost) - 👻 A LAN dropbox chatbot controllable via Telegram
 - [BruceZhang1993/AIO-Boot-Helper](https://github.com/BruceZhang1993/AIO-Boot-Helper) - Helper scripts for AIO-Boot on Linux and more.
 - [papajoker/krunner-shell](https://github.com/papajoker/krunner-shell) - plasma krunner plugin run shell commands
