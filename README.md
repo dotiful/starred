@@ -208,7 +208,7 @@
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [pawelos076232/OLX-QuiteDark](https://github.com/pawelos076232/OLX-QuiteDark) - The new dark style for OLX #multilang (ad remove included)
 - [Wondermarin/VDARK](https://github.com/Wondermarin/VDARK) - Perhaps the best dark theme for VK
-- [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for Spicetify (https://github.com/khanhas/spicetify-cli)
+- [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify (https://github.com/khanhas/spicetify-cli)
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [RaitaroH/Stylus-DeepDark](https://github.com/RaitaroH/Stylus-DeepDark) - Write thy themes in the dark. May the dark be kinder on thine eyes. (Stylus dark theme)
 - [Izheil/Dark-userstyles](https://github.com/Izheil/Dark-userstyles) - Dark userCSS styles to use with Stylus addon.
