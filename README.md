@@ -678,6 +678,7 @@
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [jbtule/cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 - [acidanthera/MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
+- [w0lfschild/DarkBoot](https://github.com/w0lfschild/DarkBoot) - :computer: Customize the boot, login and lock screens on macOS
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [lanayotech/vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
 - [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
@@ -893,7 +894,7 @@
 - [Gameye98/Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
 - [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [BrodieRobertson/kdenchapters](https://github.com/BrodieRobertson/kdenchapters) - Extract YouTube chapter timestamps from a kdenlive project file
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [LukeLambert/fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) - Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
 - [bitbrute/evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
 - [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
@@ -1405,7 +1406,6 @@
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [arslan2012/Lazy-Hackintosh-Image-Generator](https://github.com/arslan2012/Lazy-Hackintosh-Image-Generator) - This automatical app makes Hackintosh installer from original Macintosh Installer app/disk image.
 - [zagahr/Conferences.digital](https://github.com/zagahr/Conferences.digital) - 👨‍💻Watch the latest and greatest conference videos on your Mac
-- [w0lfschild/DarkBoot](https://github.com/w0lfschild/DarkBoot) - :computer: Customize the boot, login and lock screens on macOS
 - [acheronfail/pixel-picker](https://github.com/acheronfail/pixel-picker) - A tiny menu bar application that helps you pick colours from your screen! 🔍✨
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [uetchy/Polyglot](https://github.com/uetchy/Polyglot) - 🌏 The missing Safari extension that translates selected text into your native language.
