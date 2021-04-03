@@ -692,6 +692,7 @@
 
 ## Others 
 
+- [OtakuLinux/device_xiaomi_dandelion](https://github.com/OtakuLinux/device_xiaomi_dandelion) - 
 - [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
