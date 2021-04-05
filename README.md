@@ -492,7 +492,7 @@
 - [Mottie/Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
 - [fiatjaf/module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub ⛺
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -617,6 +617,7 @@
 
 ## Kotlin 
 
+- [michaldrabik/showly-2.0](https://github.com/michaldrabik/showly-2.0) - Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [Spikeysanju/Expenso](https://github.com/Spikeysanju/Expenso) - 📊 A Minimal Expense Tracker App built to demonstrate the use of modern android architecture component with MVVM Architecture
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
@@ -1430,6 +1431,7 @@
 
 ## TypeScript 
 
+- [Edgar-P-yan/google-it-telegram-bot](https://github.com/Edgar-P-yan/google-it-telegram-bot) - 🤖 @Google_itBot 🔎 Search and share LINKS/IMAGES/VIDEOS in inline mode
 - [microsoft/vscode-js-profile-visualizer](https://github.com/microsoft/vscode-js-profile-visualizer) - A custom editor for viewing `.cpuprofile` files in VS Code
 - [ctlajoie/vscode-modelines](https://github.com/ctlajoie/vscode-modelines) - Set editor options for individual files. Supports Vim and Emacs modelines plus a Code-specific modeline syntax.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
