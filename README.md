@@ -1148,7 +1148,7 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
-- [ogham/dog](https://github.com/ogham/dog) - Command-line DNS client
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
