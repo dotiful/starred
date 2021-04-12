@@ -172,7 +172,7 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [julian-fairfax/macos-patcher](https://github.com/julian-fairfax/macos-patcher) - End of development: https://julian-fairfax.github.io/blog/020321/end-of-development - Command line tool for running macOS on unsupported Macs
+- [julian-fairfax/macos-patcher](https://github.com/julian-fairfax/macos-patcher) - Command line tool for running macOS on unsupported Macs - End of support/development
 - [acidanthera/VoodooPS2](https://github.com/acidanthera/VoodooPS2) - 
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -1318,7 +1318,7 @@
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
 - [julian-fairfax/spoofer](https://github.com/julian-fairfax/spoofer) - Command line tool to spoof your MAC address and scan your network
-- [julian-fairfax/macos-downloader](https://github.com/julian-fairfax/macos-downloader) - End of development: https://julian-fairfax.github.io/blog/020321/end-of-development - Command line tool for downloading macOS installers and beta updates
+- [julian-fairfax/macos-downloader](https://github.com/julian-fairfax/macos-downloader) - Command line tool for downloading macOS installers and beta updates - End of support/development
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [black-dragon74/OSX-Debug](https://github.com/black-dragon74/OSX-Debug) - A script to generate debugging files for macOS.
