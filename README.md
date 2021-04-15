@@ -405,6 +405,7 @@
 
 ## JavaScript 
 
+- [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [Chimildic/goofy](https://github.com/Chimildic/goofy) - Библиотека для генерации плейлистов Spotify по расписанию через Google Apps Script
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [brucebentley/vscode-recipes](https://github.com/brucebentley/vscode-recipes) - A collection of recipes for using Visual Studio Code with particular technologies.
@@ -634,7 +635,7 @@
 ## Lua 
 
 - [InfosecMatter/default-http-login-hunter](https://github.com/InfosecMatter/default-http-login-hunter) - Login hunter of default credentials for administrative web interfaces leveraging NNdefaccts dataset.
-- [ChristianChiarulli/nvcode](https://github.com/ChristianChiarulli/nvcode) - Truly the Ultimate Neovim Config NVCode
+- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - A Neovim config made with sane defaults
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [themadsens/alfred-pcalc](https://github.com/themadsens/alfred-pcalc) - A programmers calculator for alfred 3
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
@@ -1152,7 +1153,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
