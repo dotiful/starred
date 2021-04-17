@@ -145,6 +145,7 @@
 
 ## C++ 
 
+- [friciwolf/Rocket](https://github.com/friciwolf/Rocket) - Application launcher for KDE Plasma.
 - [emilengler/sysget](https://github.com/emilengler/sysget) - One package manager to rule them all
 - [tobimensch/aqemu](https://github.com/tobimensch/aqemu) - Official AQEMU repository - a GUI for virtual machines using QEMU as the backend
 - [wsdfhjxc/plasma-desktop-run-command](https://github.com/wsdfhjxc/plasma-desktop-run-command) - KDE Plasma desktop mouse action for running a custom command
@@ -360,6 +361,7 @@
 - [2wayne/AutoHotkey_LPortable](https://github.com/2wayne/AutoHotkey_LPortable) - AutoHotkey in the PortableApps.com Format
 - [joeytwiddle/code](https://github.com/joeytwiddle/code) - All my old code in various languages.  Some of it is better than the rest.
 - [684102/PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
+- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [jonasjacek/colors](https://github.com/jonasjacek/colors) - List of 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number, HEX, RGB and HSL code.
 - [bansal-io/pattern.css](https://github.com/bansal-io/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [minSW/fzf-color-picker](https://github.com/minSW/fzf-color-picker) - Web Color Picker for fzf custom color scheme
@@ -446,7 +448,6 @@
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [kufii/My-UserScripts](https://github.com/kufii/My-UserScripts) - A collection of user scripts that I made to make my experience on the web a little nicer
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [KSmanis/kwin-move-window-to-center](https://github.com/KSmanis/kwin-move-window-to-center) - A simple KWin script that introduces a KDE Global Shortcut for centering the active window in the current screen.
 - [bahamondev/hide-titles](https://github.com/bahamondev/hide-titles) - A Kwin script which hides window title when is maximized
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
@@ -464,7 +465,6 @@
 - [Jack89ita/vscode-open-file-from-path](https://github.com/Jack89ita/vscode-open-file-from-path) - Simple plugin for VS Code that allows you to quickly open file starting from path string.
 - [idank/showthedocs](https://github.com/idank/showthedocs) - 
 - [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts) - A collection of user scripts for StackExchange sites
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images) - Direct Google Images
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [The-OP/Fox](https://github.com/The-OP/Fox) - 
@@ -701,6 +701,7 @@
 
 ## Others 
 
+- [yengoteam/awesome-gha-snippets](https://github.com/yengoteam/awesome-gha-snippets) - 🤯 A list of useful snippets and tips for GitHub Actions (GHA).
 - [OtakuLinux/device_xiaomi_dandelion](https://github.com/OtakuLinux/device_xiaomi_dandelion) - 
 - [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
@@ -977,7 +978,7 @@
 - [darsh12/alfred-firefox-switcher](https://github.com/darsh12/alfred-firefox-switcher) - Alfred workflow to launch different firefox profiles
 - [sseemayer/TermPalette](https://github.com/sseemayer/TermPalette) - Terminal ANSI color palette previewer
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
-- [wx-Yao/alfred-cheat](https://github.com/wx-Yao/alfred-cheat) - Manage your self-defined cheat sheets & knowledge base in Alfred
+- [wayneyaoo/alfred-cheat](https://github.com/wayneyaoo/alfred-cheat) - Manage your self-defined cheat sheets & knowledge base in Alfred
 - [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [realsirjoe/instagram-scraper](https://github.com/realsirjoe/instagram-scraper) - scrapes medias, likes, followers, tags and all metadata. Inspired by instagram-php-scraper,bot
@@ -1205,6 +1206,7 @@
 
 ## Shell 
 
+- [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [unixhostpro/load-info-telegram](https://github.com/unixhostpro/load-info-telegram) - Скрипт уведомлений о нагрузки на сервер. При определенном пороге нагрузки вы будет получать уведомления с полной информацией о всех процессах.
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - The amazing Quickemu; as seen on YouTube
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
@@ -1217,7 +1219,7 @@
 - [laraib07/TermuxBackupTools](https://github.com/laraib07/TermuxBackupTools) - Simple bash script to backup and restore termux(an android terminal emulator).
 - [davla/dotfiles](https://github.com/davla/dotfiles) - My dotfiles repository. Really, just configuration files
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
-- [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you.
+- [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - Onex is a package manager for hacker's. Onex manage more than 370+ hacking tools that can be installed on single click.
 - [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services) - This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.
 - [GuidoFe/bash-cat-with-cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [ketancmaheshwari/pd](https://github.com/ketancmaheshwari/pd) - Linux pipeline debug
@@ -1279,6 +1281,7 @@
 - [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS
 - [davla/custom-commands](https://github.com/davla/custom-commands) - Scripts meant to be used as custom CLI commands
 - [davla/zygal](https://github.com/davla/zygal) - Background-based prompt theme
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [PapirusDevelopmentTeam/adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization
