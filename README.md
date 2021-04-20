@@ -98,6 +98,7 @@
 - [baskerville/xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
 - [kyoto/sendkeys](https://github.com/kyoto/sendkeys) - Send key presses to open applications in X Windows (GNOME, KDE, Unity, etc.)
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -1269,7 +1270,6 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [agura-lex/find-the-command](https://github.com/agura-lex/find-the-command) - Interactive command-not-found hook for bash and zsh, that uses pacman as a backend (BTW, this shit should be completely re-written as it's very ugly)
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
-- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [xPMo/zsh-prompt-dir-glob](https://github.com/xPMo/zsh-prompt-dir-glob) - 
 - [ctlos/ctlosiso](https://github.com/ctlos/ctlosiso) - Ctlos Linux source. Arch based distro x86-64(64-bit).
