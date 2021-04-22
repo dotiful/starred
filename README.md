@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros
 - [friciwolf/Rocket](https://github.com/friciwolf/Rocket) - Application launcher for KDE Plasma.
 - [emilengler/sysget](https://github.com/emilengler/sysget) - One package manager to rule them all
 - [tobimensch/aqemu](https://github.com/tobimensch/aqemu) - Official AQEMU repository - a GUI for virtual machines using QEMU as the backend
