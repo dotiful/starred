@@ -903,6 +903,7 @@
 
 ## Python 
 
+- [naglfar/krunner-keepassxc](https://github.com/naglfar/krunner-keepassxc) - 
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [plamere/SmarterPlaylists](https://github.com/plamere/SmarterPlaylists) - web app for creating sophisticated playlists
 - [mschwager/fierce](https://github.com/mschwager/fierce) - A DNS reconnaissance tool for locating non-contiguous IP space.
