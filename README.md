@@ -356,7 +356,7 @@
 
 ## HTML 
 
-- [robole/vscode-snippets-ranger](https://github.com/robole/vscode-snippets-ranger) - View all of your snippets in one purty place!
+- [robole/vscode-snippets-ranger](https://github.com/robole/vscode-snippets-ranger) - View and edit all of your snippets in one purty place! Yee-haw!!
 - [reblim/fast](https://github.com/reblim/fast) - Develop, build, deploy, redeploy, and teardown frontend projects fast.
 - [Zren/zren.github.io](https://github.com/Zren/zren.github.io) - 
 - [secuvera/SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
@@ -703,7 +703,6 @@
 
 ## Others 
 
-- [dotiful/starred](https://github.com/dotiful/starred) - :star: A curated list of my GitHub starred repos, daily updates
 - [yengoteam/awesome-gha-snippets](https://github.com/yengoteam/awesome-gha-snippets) - 🤯 A list of useful snippets and tips for GitHub Actions (GHA).
 - [OtakuLinux/device_xiaomi_dandelion](https://github.com/OtakuLinux/device_xiaomi_dandelion) - 
 - [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
