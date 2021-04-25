@@ -178,7 +178,7 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [julian-fairfax/macos-patcher](https://github.com/julian-fairfax/macos-patcher) - Command line tool for running macOS on unsupported Macs - End of support/development
+- [julianfairfax/macos-patcher](https://github.com/julianfairfax/macos-patcher) - Command line tool for running macOS on unsupported Macs - End of support/development
 - [acidanthera/VoodooPS2](https://github.com/acidanthera/VoodooPS2) - 
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -503,7 +503,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2021)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [psaegert/startpage](https://github.com/psaegert/startpage) - Startpage
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -1208,6 +1208,8 @@
 
 ## Shell 
 
+- [b0o/zfzf](https://github.com/b0o/zfzf) - zfzf is a fzf-based file picker for zsh which allows you to quickly navigate the directory hierarchy
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [unixhostpro/load-info-telegram](https://github.com/unixhostpro/load-info-telegram) - Скрипт уведомлений о нагрузки на сервер. При определенном пороге нагрузки вы будет получать уведомления с полной информацией о всех процессах.
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - The amazing Quickemu; as seen on YouTube
@@ -1333,8 +1335,8 @@
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
-- [julian-fairfax/spoofer](https://github.com/julian-fairfax/spoofer) - Command line tool to spoof your MAC address and scan your network
-- [julian-fairfax/macos-downloader](https://github.com/julian-fairfax/macos-downloader) - Command line tool for downloading macOS installers and beta updates - End of support/development
+- [julianfairfax/spoofer](https://github.com/julianfairfax/spoofer) - Command line tool to spoof your MAC address and scan your network
+- [julianfairfax/macos-downloader](https://github.com/julianfairfax/macos-downloader) - Command line tool for downloading macOS installers and beta updates - End of support/development
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [black-dragon74/OSX-Debug](https://github.com/black-dragon74/OSX-Debug) - A script to generate debugging files for macOS.
