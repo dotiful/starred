@@ -398,6 +398,7 @@
 
 ## Java 
 
+- [AERegeneratel38/RicerKit](https://github.com/AERegeneratel38/RicerKit) - An android app to browse KDE Store and other Linux Desktop Environment stores of Pling
 - [SmartPack/SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Source code of SmartPack-Kernel Manager, the Ultimate Tool to Manage your Kernel
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
