@@ -1282,7 +1282,7 @@
 - [denisidoro/dotfiles](https://github.com/denisidoro/dotfiles) - Awesome personal dotfiles
 - [simnalamburt/zsh-expand-all](https://github.com/simnalamburt/zsh-expand-all) - :shell: Automatically expands all glob expressions, subcommands, and aliases
 - [mkropat/jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
-- [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS
+- [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS and Manjaro
 - [davla/custom-commands](https://github.com/davla/custom-commands) - Scripts meant to be used as custom CLI commands
 - [davla/zygal](https://github.com/davla/zygal) - Background-based prompt theme
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
