@@ -113,6 +113,7 @@
 - [moretension/duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
 - [acidanthera/gfxutil](https://github.com/acidanthera/gfxutil) - Device Properties conversion tool
 - [RehabMan/OS-X-Intel-Network](https://github.com/RehabMan/OS-X-Intel-Network) - OS X driver for Intel onboard LAN
+- [acidanthera/Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS
 - [osxfuse/sshfs](https://github.com/osxfuse/sshfs) - File system based on the SSH File Transfer Protocol
 - [rpeshkov/IntelWifi](https://github.com/rpeshkov/IntelWifi) - MacOS port of Intel Wireless Linux (IWL) Driver
 - [flashrom/flashrom](https://github.com/flashrom/flashrom) - Patches welcome, see https://www.flashrom.org/Development_Guidelines#Patch_submission
@@ -147,6 +148,7 @@
 
 ## C++ 
 
+- [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros
@@ -197,7 +199,6 @@
 - [RehabMan/OS-X-Voodoo-PS2-Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller) - Contains updated Voodoo PS/2 Controller, improved Keyboard & Synaptics TouchPad
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC) - SMC emulator layer
-- [acidanthera/Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS
 - [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
@@ -208,6 +209,8 @@
 
 ## CSS 
 
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 
+- [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [almaceleste/userstyles](https://github.com/almaceleste/userstyles) - my userstyles repo
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
@@ -415,6 +418,7 @@
 
 ## JavaScript 
 
+- [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so) - 
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [Chimildic/goofy](https://github.com/Chimildic/goofy) - Библиотека для генерации плейлистов Spotify по расписанию через Google Apps Script
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
