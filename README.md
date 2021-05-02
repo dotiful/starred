@@ -148,6 +148,7 @@
 
 ## C++ 
 
+- [paulmcauley/classikstyles](https://github.com/paulmcauley/classikstyles) - ClassikStyles is a highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop. It provides the Classik, Kite, Oxygen/Breeze, and Redmond icon styles.
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -418,6 +419,7 @@
 
 ## JavaScript 
 
+- [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so) - 
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [Chimildic/goofy](https://github.com/Chimildic/goofy) - Библиотека для генерации плейлистов Spotify по расписанию через Google Apps Script
@@ -916,6 +918,7 @@
 
 ## Python 
 
+- [karlch/vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
 - [egara/buttermanager](https://github.com/egara/buttermanager) - ButterManager is a BTRFS tool for managing snapshots, balancing filesystems and upgrading the system safetly.
 - [naglfar/krunner-keepassxc](https://github.com/naglfar/krunner-keepassxc) - 
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -1165,6 +1168,7 @@
 
 ## Rust 
 
+- [Canop/glassbench](https://github.com/Canop/glassbench) - A micro-benchmark framework to use with cargo bench
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [philmmanjaro/alma](https://github.com/philmmanjaro/alma) - Create Arch Linux based bootable USB drives
 - [adam-mcdaniel/atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
