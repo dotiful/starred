@@ -29,6 +29,7 @@
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [Lua](#lua)
   - [M4](#m4)
   - [Makefile](#makefile)
@@ -210,7 +211,8 @@
 
 ## CSS 
 
-- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 
+- [Haron-Prime/ArchLinuxRuDark](https://github.com/Haron-Prime/ArchLinuxRuDark) - A small correction of the dark style of the https://archlinux.org.ru
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - I respect proton UI and aim to fix it.
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [almaceleste/userstyles](https://github.com/almaceleste/userstyles) - my userstyles repo
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -650,8 +652,13 @@
 - [2Ra66it/updater-for-spotify](https://github.com/2Ra66it/updater-for-spotify) - Updater For Spotify allows you to download the latest version of Spotify
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
+## Less 
+
+- [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean HTML5 theme for OpenWrt LuCI. Users may setup their own favorite logins, including beautiful pics and customized mp4 videos.
+
 ## Lua 
 
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [InfosecMatter/default-http-login-hunter](https://github.com/InfosecMatter/default-http-login-hunter) - Login hunter of default credentials for administrative web interfaces leveraging NNdefaccts dataset.
 - [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - A Neovim config made with sane defaults
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
@@ -1214,6 +1221,7 @@
 
 ## SCSS 
 
+- [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
