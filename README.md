@@ -421,6 +421,8 @@
 
 ## JavaScript 
 
+- [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
+- [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so) - 
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
@@ -1235,6 +1237,8 @@
 
 ## Shell 
 
+- [zhangsean/OpenWrt-Actions](https://github.com/zhangsean/OpenWrt-Actions) - 
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [stuarthayhurst/argon-grub-theme](https://github.com/stuarthayhurst/argon-grub-theme) - Configurable, modern theme for the grub bootloader, containing backgrounds, icons, fonts and styling
 - [b0o/zfzf](https://github.com/b0o/zfzf) - zfzf is a fzf-based file picker for zsh which allows you to quickly navigate the directory hierarchy
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
