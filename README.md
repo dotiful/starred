@@ -241,7 +241,7 @@
 - [norio-nomura/qlplayground](https://github.com/norio-nomura/qlplayground) - `qlplayground` is a QuickLook plugin for Swift files.
 - [VChet/Telegram-Vanilla-Dark-Web](https://github.com/VChet/Telegram-Vanilla-Dark-Web) - Dark Theme for web.telegram.org
 - [elv1n/slack-dark-mojave-theme](https://github.com/elv1n/slack-dark-mojave-theme) - Beautiful dark theme for slack 3, 4+. Apply theme by running one command 🌸
-- [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Project on hold / Custom CSS tweaks for Firefox Quantum
+- [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -262,6 +262,7 @@
 
 ## Dart 
 
+- [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [bernaferrari/color-studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help.
 
 ## Dockerfile 
@@ -1053,6 +1054,7 @@
 - [deanishe/alfred-reddit](https://github.com/deanishe/alfred-reddit) - Browse Reddit from Alfred
 - [Acidham/alfred-markdown-notes](https://github.com/Acidham/alfred-markdown-notes) - Alfred Markdown Notes management
 - [wangshub/Alfred-Github-Trending](https://github.com/wangshub/Alfred-Github-Trending) - Alfred github trending workflow in Python.
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [deanishe/alfred-packal-search](https://github.com/deanishe/alfred-packal-search) - Search Packal.org's collection of Alfred workflows from Alfred
 - [podgorniy/alfred-translate](https://github.com/podgorniy/alfred-translate) - Smooth ru-en en-ru translation workflow
 - [jeeftor/AlfredWorkflowDirectory](https://github.com/jeeftor/AlfredWorkflowDirectory) - Alfred Workflow for opening Workflow Directories
@@ -1179,6 +1181,8 @@
 
 ## Rust 
 
+- [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
+- [westandskif/rate-arch-mirrors](https://github.com/westandskif/rate-arch-mirrors) - Everyday-use client-side map-aware Arch Linux mirror ranking tool
 - [Canop/glassbench](https://github.com/Canop/glassbench) - A micro-benchmark framework to use with cargo bench
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [philmmanjaro/alma](https://github.com/philmmanjaro/alma) - Create Arch Linux based bootable USB drives
@@ -1368,7 +1372,6 @@
 - [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur) - Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
 - [julianfairfax/spoofer](https://github.com/julianfairfax/spoofer) - Command line tool to spoof your MAC address and scan your network
 - [julianfairfax/macos-downloader](https://github.com/julianfairfax/macos-downloader) - Command line tool for downloading macOS installers and beta updates - End of support/development
