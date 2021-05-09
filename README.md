@@ -521,7 +521,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [psaegert/startpage](https://github.com/psaegert/startpage) - Startpage
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -1242,6 +1242,7 @@
 
 ## Shell 
 
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell.
 - [zhangsean/OpenWrt-Actions](https://github.com/zhangsean/OpenWrt-Actions) - 
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [stuarthayhurst/argon-grub-theme](https://github.com/stuarthayhurst/argon-grub-theme) - Configurable, modern theme for the grub bootloader, containing backgrounds, icons, fonts and styling
