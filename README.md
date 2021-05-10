@@ -211,6 +211,7 @@
 
 ## CSS 
 
+- [pyxelr/dark-google-calendar](https://github.com/pyxelr/dark-google-calendar) - Dark theme for Google Calendar.
 - [Haron-Prime/ArchLinuxRuDark](https://github.com/Haron-Prime/ArchLinuxRuDark) - A small correction of the dark style of the https://archlinux.org.ru
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - I respect proton UI and aim to fix it.
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
@@ -424,6 +425,7 @@
 
 ## JavaScript 
 
+- [jmlntw/google-search-region](https://github.com/jmlntw/google-search-region) - A user script that lets you quickly switch Google search to different region.
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
@@ -1242,6 +1244,7 @@
 
 ## Shell 
 
+- [alexwbaule/telegramopenwrt](https://github.com/alexwbaule/telegramopenwrt) - Telegram Scripts for OpenWrt/Lede Project
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell.
 - [zhangsean/OpenWrt-Actions](https://github.com/zhangsean/OpenWrt-Actions) - 
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -1270,7 +1273,7 @@
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [juanmafont/ufwIconbar](https://github.com/juanmafont/ufwIconbar) - Set and ufw icon bar when login on status bar.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ Self-hosted Wireguard Manager
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to build your own vpn under a minute.
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [alnj/ncmpcpp-ueberzug](https://github.com/alnj/ncmpcpp-ueberzug) - An ncmpcpp wrapper that enables cover art via ueberzug.
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
@@ -1297,7 +1300,7 @@
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [thameera/vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [baduhai/SysTrayModder](https://github.com/baduhai/SysTrayModder) - Script to make the Plasma system tray behave like a sidebar.
-- [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck and shfmt
+- [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms.
 - [3v1n0/zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
