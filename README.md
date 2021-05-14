@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [paulmcauley/classikstyles](https://github.com/paulmcauley/classikstyles) - ClassikStyles is a highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop. It provides the Classik, Kite, Oxygen/Breeze, and Redmond icon styles.
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
@@ -280,6 +281,7 @@
 
 ## Go 
 
+- [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
@@ -1195,7 +1197,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command for your terminal
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
@@ -1246,6 +1248,7 @@
 
 ## Shell 
 
+- [Teraskull/bigsur-grub2-theme](https://github.com/Teraskull/bigsur-grub2-theme) - A Grub2 Bootloader Theme, compatible with Ventoy.
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
 - [alexwbaule/telegramopenwrt](https://github.com/alexwbaule/telegramopenwrt) - Telegram Scripts for OpenWrt/Lede Project
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell.
