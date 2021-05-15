@@ -89,6 +89,8 @@
 
 ## C 
 
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
+- [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [stoeckmann/xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
@@ -130,6 +132,7 @@
 
 ## C# # 
 
+- [realmrvodka/n2d](https://github.com/realmrvodka/n2d) - An easy to use ESP8266 flash GUI powered by the official esptool.py software. Designed for SpaceHuhn's "Deauther" software.
 - [GhostPack/KeeThief](https://github.com/GhostPack/KeeThief) - Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.
 - [MattMcManis/Glow](https://github.com/MattMcManis/Glow) - mpv Config File Generator for Windows
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
@@ -214,7 +217,7 @@
 
 - [pyxelr/dark-google-calendar](https://github.com/pyxelr/dark-google-calendar) - Dark theme for Google Calendar.
 - [Haron-Prime/ArchLinuxRuDark](https://github.com/Haron-Prime/ArchLinuxRuDark) - A small correction of the dark style of the https://archlinux.org.ru
-- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - I respect proton UI and aim to fix it.
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to fix it.
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [almaceleste/userstyles](https://github.com/almaceleste/userstyles) - my userstyles repo
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -936,6 +939,7 @@
 
 ## Python 
 
+- [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [karlch/vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
 - [egara/buttermanager](https://github.com/egara/buttermanager) - ButterManager is a BTRFS tool for managing snapshots, balancing filesystems and upgrading the system safetly.
