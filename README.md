@@ -89,6 +89,7 @@
 
 ## C 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
@@ -189,7 +190,6 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [julianfairfax/macos-patcher](https://github.com/julianfairfax/macos-patcher) - Command line tool for running macOS on unsupported Macs - End of support/development
 - [acidanthera/VoodooPS2](https://github.com/acidanthera/VoodooPS2) - 
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -430,6 +430,7 @@
 
 ## JavaScript 
 
+- [benzino77/tasmocompiler](https://github.com/benzino77/tasmocompiler) - Web GUI for custom Tasmota compilation
 - [jmlntw/google-search-region](https://github.com/jmlntw/google-search-region) - A user script that lets you quickly switch Google search to different region.
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
@@ -939,6 +940,7 @@
 
 ## Python 
 
+- [mirko/SonOTA](https://github.com/mirko/SonOTA) - Flashing Itead Sonoff devices with custom firmware via original OTA mechanism
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [karlch/vimiv-qt](https://github.com/karlch/vimiv-qt) - An image viewer with vim-like keybindings
@@ -1386,8 +1388,6 @@
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
-- [julianfairfax/spoofer](https://github.com/julianfairfax/spoofer) - Command line tool to spoof your MAC address and scan your network
-- [julianfairfax/macos-downloader](https://github.com/julianfairfax/macos-downloader) - Command line tool for downloading macOS installers and beta updates - End of support/development
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [black-dragon74/OSX-Debug](https://github.com/black-dragon74/OSX-Debug) - A script to generate debugging files for macOS.
@@ -1501,6 +1501,7 @@
 
 ## TypeScript 
 
+- [VChet/Telegram-Vanilla-Dark-Desktop](https://github.com/VChet/Telegram-Vanilla-Dark-Desktop) - Dark Theme for Telegram Desktop
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [oe/download-git-userscript](https://github.com/oe/download-git-userscript) - download github repo or directory via one-click
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
