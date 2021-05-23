@@ -235,7 +235,7 @@
 - [Izheil/Dark-userstyles](https://github.com/Izheil/Dark-userstyles) - Dark userCSS styles to use with Stylus addon.
 - [paullinuxthemer/Mc-OS-themes](https://github.com/paullinuxthemer/Mc-OS-themes) - Mac OS-themes for the Linux-Gnome desktop
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
-- [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Quantum
+- [stonecrusher/simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) - Hide contextmenu items in Firefox Photon
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [htdvisser/hugo-base16-theme](https://github.com/htdvisser/hugo-base16-theme) - Hugo theme with base16 eighties colorscheme
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
