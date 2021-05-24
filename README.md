@@ -655,7 +655,7 @@
 
 ## Jupyter Notebook 
 
-- [wowchemy/starter-academic](https://github.com/wowchemy/starter-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 
 ## Kotlin 
 
