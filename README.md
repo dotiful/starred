@@ -1459,6 +1459,7 @@
 - [fsquillace/buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
 - [tubbo/homer](https://github.com/tubbo/homer) - The home directory management tool.
 - [vinkla/dotfiles](https://github.com/vinkla/dotfiles) - .files – sensible hacker defaults for macOS
+- [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [MaxMEllon/.dotfiles](https://github.com/MaxMEllon/.dotfiles) - :wrench: my configuration files ( .zshrc , .tmux.conf , etc... )
 
 ## Smarty 
@@ -1600,7 +1601,6 @@
 - [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - Carefully curated configuration for (almost) everything.
 - [motemen/dotfiles](https://github.com/motemen/dotfiles) - My dotfiles
 - [tylucaskelley/dotfiles](https://github.com/tylucaskelley/dotfiles) - My dotfiles, meant for use on macOS computers
-- [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [trapd00r/configs](https://github.com/trapd00r/configs) - My ~/etc - configs, dotfiles
 - [alexfedoseev/dotfiles](https://github.com/alexfedoseev/dotfiles) - My dotfiles
 - [dylanaraps/dotfiles](https://github.com/dylanaraps/dotfiles) - 🍙 dotfiles
