@@ -431,6 +431,7 @@
 
 ## JavaScript 
 
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - A modern web interface for OpenWrt implemented in vue.js and Lua.
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir) - A Simple and Definitive Open-Source Icons Library
 - [vegetableman/vandal](https://github.com/vegetableman/vandal) - Navigator for Web Archive
@@ -450,7 +451,7 @@
 - [frontender-training/keksobooking-baseJS](https://github.com/frontender-training/keksobooking-baseJS) - Личный проект «Кексобукинг» с интенсива «Базовый JavaScript» от HTMLAcademy
 - [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [morris/vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
-- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take up to 100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
 - [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [chocolateboy/gm-storage](https://github.com/chocolateboy/gm-storage) - An ES6 Map wrapper for the synchronous userscript storage API
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
@@ -742,6 +743,7 @@
 
 ## Others 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [Prayag2/tuxi](https://github.com/Prayag2/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
@@ -1260,6 +1262,8 @@
 
 ## Shell 
 
+- [tete1030/openwrt-fastbuild-actions](https://github.com/tete1030/openwrt-fastbuild-actions) - FAST building OpenWrt with Github Actions and Docker!
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [setaur/kdec-share.sh](https://github.com/setaur/kdec-share.sh) - Script intended to run on linux HTPC alongside KDE Connect. It will show any media shared on mobile with KDE Connect App on PC fullscreen.
 - [Teraskull/bigsur-grub2-theme](https://github.com/Teraskull/bigsur-grub2-theme) - A Grub2 Bootloader Theme, compatible with Ventoy.
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
