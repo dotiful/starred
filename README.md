@@ -946,6 +946,7 @@
 
 ## Python 
 
+- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [mirko/SonOTA](https://github.com/mirko/SonOTA) - Flashing Itead Sonoff devices with custom firmware via original OTA mechanism
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
