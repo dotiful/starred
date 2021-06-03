@@ -1200,6 +1200,7 @@
 
 ## Rust 
 
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [westandskif/rate-arch-mirrors](https://github.com/westandskif/rate-arch-mirrors) - Everyday-use client-side map-aware Arch Linux mirror ranking tool
 - [Canop/glassbench](https://github.com/Canop/glassbench) - A micro-benchmark framework to use with cargo bench
@@ -1379,7 +1380,7 @@
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
-- [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [tj/n](https://github.com/tj/n) - Node version management
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
