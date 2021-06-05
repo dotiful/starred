@@ -432,6 +432,8 @@
 
 ## JavaScript 
 
+- [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
+- [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - A modern web interface for OpenWrt implemented in vue.js and Lua.
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [vegetableman/vandal](https://github.com/vegetableman/vandal) - Navigator for Web Archive
@@ -661,6 +663,7 @@
 
 ## Kotlin 
 
+- [dogbin/dogbin](https://github.com/dogbin/dogbin) - The sexiest pastebin and url shortener ever
 - [michaldrabik/showly-2.0](https://github.com/michaldrabik/showly-2.0) - Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [Spikeysanju/Expenso](https://github.com/Spikeysanju/Expenso) - 📊 A Minimal Expense Tracker App built to demonstrate the use of modern android architecture component with MVVM Architecture
@@ -1176,6 +1179,7 @@
 
 ## Ruby 
 
+- [JasonBarnabe/greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
 - [iberianpig/fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
 - [jeff-hykin/better-shell-syntax](https://github.com/jeff-hykin/better-shell-syntax) - An improvement to the shell syntax for VS Code
 - [bitboxer/manpages](https://github.com/bitboxer/manpages) - Gem to add man pages support to ruby gems
@@ -1266,6 +1270,7 @@
 
 ## Shell 
 
+- [abourdon/shprofile](https://github.com/abourdon/shprofile) - Manage several shell profiles and switch between them, but not only.
 - [tete1030/openwrt-fastbuild-actions](https://github.com/tete1030/openwrt-fastbuild-actions) - FAST building OpenWrt with Github Actions and Docker!
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [setaur/kdec-share.sh](https://github.com/setaur/kdec-share.sh) - Script intended to run on linux HTPC alongside KDE Connect. It will show any media shared on mobile with KDE Connect App on PC fullscreen.
