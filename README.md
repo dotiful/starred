@@ -1085,7 +1085,6 @@
 - [deanishe/alfred-reddit](https://github.com/deanishe/alfred-reddit) - Browse Reddit from Alfred
 - [Acidham/alfred-markdown-notes](https://github.com/Acidham/alfred-markdown-notes) - Alfred Markdown Notes management
 - [wangshub/Alfred-Github-Trending](https://github.com/wangshub/Alfred-Github-Trending) - Alfred github trending workflow in Python.
-- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [deanishe/alfred-packal-search](https://github.com/deanishe/alfred-packal-search) - Search Packal.org's collection of Alfred workflows from Alfred
 - [podgorniy/alfred-translate](https://github.com/podgorniy/alfred-translate) - Smooth ru-en en-ru translation workflow
 - [jeeftor/AlfredWorkflowDirectory](https://github.com/jeeftor/AlfredWorkflowDirectory) - Alfred Workflow for opening Workflow Directories
@@ -1417,6 +1416,7 @@
 - [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur) - Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
+- [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
