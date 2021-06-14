@@ -1537,6 +1537,7 @@
 
 ## TypeScript 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [ptkdev-boilerplate/node-telegram-bot-boilerplate](https://github.com/ptkdev-boilerplate/node-telegram-bot-boilerplate) - 🤖 Create telegram bot with this friendly nodejs boilerplate
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
