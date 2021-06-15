@@ -436,6 +436,7 @@
 
 ## JavaScript 
 
+- [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [egomobile/vscode-powertools](https://github.com/egomobile/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
 - [soufianesakhi/firefox-search-engines-helper](https://github.com/soufianesakhi/firefox-search-engines-helper) - Export, import and add custom firefox search engines
 - [robole/vscode-marky-markdown](https://github.com/robole/vscode-marky-markdown) - Markdown editing. Redefined.
