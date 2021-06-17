@@ -1053,7 +1053,7 @@
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [nevesnunes/sh-manpage-completions](https://github.com/nevesnunes/sh-manpage-completions) - Generate bash/zsh completions from man pages
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures) - Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
 - [kevin-funderburg/alfred-script-debugger-clippings](https://github.com/kevin-funderburg/alfred-script-debugger-clippings) - Use alfred to search and insert system and user defined Script Debugger clippings
 - [nicoulaj/rainbow](https://github.com/nicoulaj/rainbow) - :rainbow: Colorize commands output or STDIN using patterns.
