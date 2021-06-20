@@ -223,7 +223,7 @@
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [almaceleste/userstyles](https://github.com/almaceleste/userstyles) - my userstyles repo
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
-- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim
+- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/Discourse-Dark](https://github.com/StylishThemes/Discourse-Dark) - 🏛️ Darken Discourse forums
 - [DM164/Dark-by-DM](https://github.com/DM164/Dark-by-DM) - Dark by DM, a family of dark themes for different websites on the internet.
