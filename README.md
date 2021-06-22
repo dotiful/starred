@@ -89,6 +89,7 @@
 
 ## C 
 
+- [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [ZaWertun/gtk3-nocsd](https://github.com/ZaWertun/gtk3-nocsd) - A hack to disable gtk+ 3 client side decoration
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
@@ -155,6 +156,7 @@
 
 ## C++ 
 
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [paulmcauley/classikstyles](https://github.com/paulmcauley/classikstyles) - ClassikStyles is a highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop. It provides the Classik, Kite, Oxygen/Breeze, and Redmond icon styles.
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
@@ -217,6 +219,7 @@
 
 ## CSS 
 
+- [PapirusDevelopmentTeam/firefox-papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/firefox-papirus-icon-theme) - Papirus icons for Firefox
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Collective repository for the nwg-shell project: a GTK3-based shell for sway Wayland compositor
 - [pyxelr/dark-google-calendar](https://github.com/pyxelr/dark-google-calendar) - Dark theme for Google Calendar.
 - [Haron-Prime/ArchLinuxRuDark](https://github.com/Haron-Prime/ArchLinuxRuDark) - A small correction of the dark style of the https://archlinux.org.ru
@@ -755,6 +758,7 @@
 
 ## Others 
 
+- [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
 - [grem11n/awesome-it-communities-ua](https://github.com/grem11n/awesome-it-communities-ua) - Awesome Ukrainian IT Communities
@@ -1284,11 +1288,12 @@
 
 ## Shell 
 
+- [ckp95/fzed](https://github.com/ckp95/fzed) - Interactively create sed/awk/grep/jq/etc commands with immediate feedback
 - [variia/openwrt-config](https://github.com/variia/openwrt-config) - OpenWrt config based on uci commands, security, multiple Wi-Fi APs, parental control and much more...
 - [shellkr/pachist](https://github.com/shellkr/pachist) - A small bash program to show the installed package history in Arch Linux.
 - [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
-- [abourdon/shprofile](https://github.com/abourdon/shprofile) - Manage several shell profiles and switch between them, but not only.
+- [abourdon/shprofile](https://github.com/abourdon/shprofile) - Manage several shell profiles and switch between them.
 - [tete1030/openwrt-fastbuild-actions](https://github.com/tete1030/openwrt-fastbuild-actions) - FAST building OpenWrt with Github Actions and Docker!
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [setaur/kdec-share.sh](https://github.com/setaur/kdec-share.sh) - Script intended to run on linux HTPC alongside KDE Connect. It will show any media shared on mobile with KDE Connect App on PC fullscreen.
