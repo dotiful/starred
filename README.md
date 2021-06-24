@@ -389,6 +389,7 @@
 
 ## HTML 
 
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [robole/vscode-snippets-ranger](https://github.com/robole/vscode-snippets-ranger) - View and edit all of your snippets in one purty place! Yee-haw!!
 - [reblim/fast](https://github.com/reblim/fast) - Develop, build, deploy, redeploy, and teardown frontend projects fast.
 - [Zren/zren.github.io](https://github.com/Zren/zren.github.io) - 
@@ -764,6 +765,7 @@
 
 ## Others 
 
+- [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
@@ -1234,7 +1236,7 @@
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
-- [westandskif/rate-arch-mirrors](https://github.com/westandskif/rate-arch-mirrors) - Everyday-use client-side map-aware Arch Linux mirror ranking tool
+- [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) - Everyday-use client-side map-aware Arch Linux mirror ranking tool
 - [Canop/glassbench](https://github.com/Canop/glassbench) - A micro-benchmark framework to use with cargo bench
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [philmmanjaro/alma](https://github.com/philmmanjaro/alma) - Create Arch Linux based bootable USB drives
@@ -1295,6 +1297,7 @@
 
 ## Shell 
 
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [ckp95/fzed](https://github.com/ckp95/fzed) - Interactively create sed/awk/grep/jq/etc commands with immediate feedback
 - [variia/openwrt-config](https://github.com/variia/openwrt-config) - OpenWrt config based on uci commands, security, multiple Wi-Fi APs, parental control and much more...
 - [shellkr/pachist](https://github.com/shellkr/pachist) - A small bash program to show the installed package history in Arch Linux.
