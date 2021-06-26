@@ -583,7 +583,7 @@
 - [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
 - [samliew/SO-mod-userscripts](https://github.com/samliew/SO-mod-userscripts) - Stack Overflow Moderation Userscripts
 - [stackuserflow/stackoverflow-tampermonkey-greasemonkey](https://github.com/stackuserflow/stackoverflow-tampermonkey-greasemonkey) - Série de scripts prontos para usar nos sites da rede Stack Exchange quanto para facilitar os desenvolvimento
-- [DavidWang88/ini-for-vscode](https://github.com/DavidWang88/ini-for-vscode) - Provide outline view and section folding for INI file.
+- [daviduuang/ini-for-vscode](https://github.com/daviduuang/ini-for-vscode) - Provide outline view and section folding for INI file.
 - [bit2pixel/chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [teddy-gustiaux/default-bookmark-folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - WebExtension allowing you to choose the default bookmark location folder and quickly bookmark pages via a dedicated icon.
