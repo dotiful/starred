@@ -465,7 +465,7 @@
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - 
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
-- [Chimildic/goofy](https://github.com/Chimildic/goofy) - Библиотека для генерации плейлистов Spotify по расписанию через Google Apps Script
+- [Chimildic/goofy](https://github.com/Chimildic/goofy) - Конструктор плейлистов Spotify по расписанию через Google Apps Script
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [brucebentley/vscode-recipes](https://github.com/brucebentley/vscode-recipes) - A collection of recipes for using Visual Studio Code with particular technologies.
 - [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
