@@ -702,7 +702,7 @@
 
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [InfosecMatter/default-http-login-hunter](https://github.com/InfosecMatter/default-http-login-hunter) - Login hunter of default credentials for administrative web interfaces leveraging NNdefaccts dataset.
-- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults.
+- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [themadsens/alfred-pcalc](https://github.com/themadsens/alfred-pcalc) - A programmers calculator for alfred 3
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
