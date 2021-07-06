@@ -445,6 +445,7 @@
 
 ## JavaScript 
 
+- [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - Github action to generate your own awesome list from project you've starred ordered by languages!
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [robole/vscode-javascript-extensions](https://github.com/robole/vscode-javascript-extensions) - VS Code extension examples written in in JavaScript
@@ -1235,6 +1236,7 @@
 
 ## Rust 
 
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
@@ -1300,6 +1302,8 @@
 
 ## Shell 
 
+- [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Plugin that lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
+- [mkorthof/freenom-script](https://github.com/mkorthof/freenom-script) - Freenom.com Domain Renewal and Dynamic DNS script
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [ckp95/fzed](https://github.com/ckp95/fzed) - Interactively create sed/awk/grep/jq/etc commands with immediate feedback
 - [variia/openwrt-config](https://github.com/variia/openwrt-config) - OpenWrt config based on uci commands, security, multiple Wi-Fi APs, parental control and much more...
@@ -1322,7 +1326,7 @@
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [unixhostpro/load-info-telegram](https://github.com/unixhostpro/load-info-telegram) - Скрипт уведомлений о нагрузки на сервер. При определенном пороге нагрузки вы будет получать уведомления с полной информацией о всех процессах.
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - The amazing Quickemu; as seen on YouTube
-- [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
+- [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like 56KB shell wrapper for many package managers.
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [devxops/gce-disks-export](https://github.com/devxops/gce-disks-export) - Export Google Cloud instances disks to Cloud Storage
 - [GoogleCloudPlatform/compute-archlinux-image-builder](https://github.com/GoogleCloudPlatform/compute-archlinux-image-builder) - A tool to build a Arch Linux Image for GCE
