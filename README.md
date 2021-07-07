@@ -1302,6 +1302,7 @@
 
 ## Shell 
 
+- [gmm96/KDE-5-Template-Manager](https://github.com/gmm96/KDE-5-Template-Manager) - KDE 5 Dolphin Service Menu for creating a template from an existing file or directory.
 - [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Plugin that lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
 - [mkorthof/freenom-script](https://github.com/mkorthof/freenom-script) - Freenom.com Domain Renewal and Dynamic DNS script
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
