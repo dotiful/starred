@@ -768,6 +768,7 @@
 
 ## Others 
 
+- [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action) - Install prerequisites for building Manjaro on ubuntu
 - [dadosch/barrier-android](https://github.com/dadosch/barrier-android) - 
 - [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
@@ -1327,7 +1328,7 @@
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [unixhostpro/load-info-telegram](https://github.com/unixhostpro/load-info-telegram) - Скрипт уведомлений о нагрузки на сервер. При определенном пороге нагрузки вы будет получать уведомления с полной информацией о всех процессах.
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - The amazing Quickemu; as seen on YouTube
-- [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like 56KB shell wrapper for many package managers.
+- [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [devxops/gce-disks-export](https://github.com/devxops/gce-disks-export) - Export Google Cloud instances disks to Cloud Storage
 - [GoogleCloudPlatform/compute-archlinux-image-builder](https://github.com/GoogleCloudPlatform/compute-archlinux-image-builder) - A tool to build a Arch Linux Image for GCE
@@ -1565,6 +1566,7 @@
 
 ## TypeScript 
 
+- [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
