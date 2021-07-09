@@ -157,6 +157,7 @@
 
 ## C++ 
 
+- [skickar/ESP8266_Router_Honeypot](https://github.com/skickar/ESP8266_Router_Honeypot) - A NAT router with an FTP honeypot using a canarytoken
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [paulmcauley/classikstyles](https://github.com/paulmcauley/classikstyles) - ClassikStyles is a highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop. It provides the Classik, Kite, Oxygen/Breeze, and Redmond icon styles.
@@ -1303,6 +1304,7 @@
 
 ## Shell 
 
+- [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
 - [gmm96/KDE-5-Template-Manager](https://github.com/gmm96/KDE-5-Template-Manager) - KDE 5 Dolphin Service Menu for creating a template from an existing file or directory.
 - [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Plugin that lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
 - [mkorthof/freenom-script](https://github.com/mkorthof/freenom-script) - Freenom.com Domain Renewal and Dynamic DNS script
@@ -1602,7 +1604,6 @@
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
 - [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
-- [usernamehw/vscode-run-commands-view](https://github.com/usernamehw/vscode-run-commands-view) - Run commands from its own view
 - [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings.
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [svipas/vscode-control-snippets](https://github.com/svipas/vscode-control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
