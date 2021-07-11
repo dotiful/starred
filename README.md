@@ -542,7 +542,7 @@
 - [hankchanocd/npm-fzf](https://github.com/hankchanocd/npm-fzf) - Fuzzy search npm modules with fzf
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
 - [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
-- [travi/project-scaffolder](https://github.com/travi/project-scaffolder) - opinionated scaffolder for new projects
+- [form8ion/project](https://github.com/form8ion/project) - opinionated scaffolder for new projects
 - [mklabs/tabtab](https://github.com/mklabs/tabtab) - tab completion helpers, for node cli programs & others. Inspired by npm completion
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
