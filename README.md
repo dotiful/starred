@@ -445,6 +445,8 @@
 
 ## JavaScript 
 
+- [filips123/FirefoxPWA](https://github.com/filips123/FirefoxPWA) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - Github action to generate your own awesome list from project you've starred ordered by languages!
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
@@ -765,6 +767,7 @@
 
 ## Others 
 
+- [appath/SublimeTextPortable](https://github.com/appath/SublimeTextPortable) - 
 - [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action) - Install prerequisites for building Manjaro on ubuntu
 - [dadosch/barrier-android](https://github.com/dadosch/barrier-android) - 
 - [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
