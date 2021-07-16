@@ -767,6 +767,7 @@
 
 ## Others 
 
+- [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) - A pack of GRUB2 themes for each Linux distribution
 - [appath/SublimeTextPortable](https://github.com/appath/SublimeTextPortable) - 
 - [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action) - Install prerequisites for building Manjaro on ubuntu
 - [dadosch/barrier-android](https://github.com/dadosch/barrier-android) - 
@@ -1237,6 +1238,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
@@ -1248,7 +1250,7 @@
 - [philmmanjaro/alma](https://github.com/philmmanjaro/alma) - Create Arch Linux based bootable USB drives
 - [adam-mcdaniel/atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-- [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: A fast, configurable, shell plugin manager
+- [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
