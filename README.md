@@ -581,6 +581,7 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified) - Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
 - [keyz/alfred-prettier](https://github.com/keyz/alfred-prettier) - Run Prettier in Alfred
+- [pouyakary/comment-vscode](https://github.com/pouyakary/comment-vscode) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
 - [kevinoid/userscript-template](https://github.com/kevinoid/userscript-template) - A userscript (viz. Greasemonkey/Tampermonkey/Violentmonkey script) project template with codecov, coveralls, ESLint, github_changelog_generator, istanbul, JSDoc, and mocha.
 - [tziporaziegler/GitHubTopBar](https://github.com/tziporaziegler/GitHubTopBar) - A userscript for styling the GitHub top-bar
 - [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
@@ -838,7 +839,6 @@
 - [manumorante/alfredworkflow.placeholderimages](https://github.com/manumorante/alfredworkflow.placeholderimages) - :tophat: Placeholder Images for every case from lorempixel.com and unsplash.com
 - [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [jtvhk/alfred-screen-sharing](https://github.com/jtvhk/alfred-screen-sharing) - Easily start a screen sharing session directly from Alfred.
-- [pouyakary/comment-vscode](https://github.com/pouyakary/comment-vscode) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [yadox666/The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
