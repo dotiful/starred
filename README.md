@@ -768,6 +768,7 @@
 
 ## Others 
 
+- [AkmarNafi/comment-headers](https://github.com/AkmarNafi/comment-headers) - Comment headers for VS Code
 - [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) - A pack of GRUB2 themes for each Linux distribution
 - [appath/SublimeTextPortable](https://github.com/appath/SublimeTextPortable) - The sophisticated text editor for code, markup and prose.
 - [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action) - Install prerequisites for building Manjaro on ubuntu
@@ -1238,6 +1239,7 @@
 
 ## Rust 
 
+- [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - Play videos and songs on the website via mpv-handler, without any background service.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
