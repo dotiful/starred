@@ -1308,6 +1308,7 @@
 
 ## Shell 
 
+- [Felixoid/zsh-hoco](https://github.com/Felixoid/zsh-hoco) - ZSH _hosts autocompletion extension
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
 - [gmm96/KDE-5-Template-Manager](https://github.com/gmm96/KDE-5-Template-Manager) - KDE 5 Dolphin Service Menu for creating a template from an existing file or directory.
 - [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend) - Plugin that lets you suspend local tmux session, so that you can work with nested remote tmux session painlessly.
