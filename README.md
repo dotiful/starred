@@ -771,6 +771,7 @@
 
 ## Others 
 
+- [nico-castell/desktop-file-support](https://github.com/nico-castell/desktop-file-support) - Add support for .desktop files in VS Code.
 - [AkmarNafi/comment-headers](https://github.com/AkmarNafi/comment-headers) - Comment headers for VS Code
 - [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) - A pack of GRUB2 themes for each Linux distribution
 - [appath/SublimeTextPortable](https://github.com/appath/SublimeTextPortable) - The sophisticated text editor for code, markup and prose.
@@ -1310,6 +1311,7 @@
 
 ## Shell 
 
+- [shibumi/hikari](https://github.com/shibumi/hikari) - ZSH config with unique key shortcuts and some eye candy
 - [Felixoid/zsh-hoco](https://github.com/Felixoid/zsh-hoco) - ZSH _hosts autocompletion extension
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
 - [gmm96/KDE-5-Template-Manager](https://github.com/gmm96/KDE-5-Template-Manager) - KDE 5 Dolphin Service Menu for creating a template from an existing file or directory.
