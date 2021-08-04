@@ -966,7 +966,7 @@
 
 ## Perl 
 
-- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
