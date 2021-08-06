@@ -989,7 +989,6 @@
 - [lahwaacz/arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
 - [th3unkn0n/TeleGram-Scraper](https://github.com/th3unkn0n/TeleGram-Scraper) - telegram group scraper tool. fetch all information about group members
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🔍 Telegram Bot to search and explore torrents
-- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [mirko/SonOTA](https://github.com/mirko/SonOTA) - Flashing Itead Sonoff devices with custom firmware via original OTA mechanism
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
@@ -1587,6 +1586,7 @@
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [ptkdev-boilerplate/node-telegram-bot-boilerplate](https://github.com/ptkdev-boilerplate/node-telegram-bot-boilerplate) - 🤖 Create telegram bot with this friendly nodejs boilerplate
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
+- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir) - A Simple and Definitive Open-Source Icons Library
 - [VChet/Telegram-Vanilla-Dark-Desktop](https://github.com/VChet/Telegram-Vanilla-Dark-Desktop) - Dark Theme for Telegram Desktop
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
