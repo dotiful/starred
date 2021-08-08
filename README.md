@@ -1312,7 +1312,7 @@
 ## Shell 
 
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo your last (most recent) git command. Your damage control git buddy. Powered by FZF
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
 - [shibumi/hikari](https://github.com/shibumi/hikari) - ZSH config with unique key shortcuts and some eye candy
 - [Felixoid/zsh-hoco](https://github.com/Felixoid/zsh-hoco) - ZSH _hosts autocompletion extension
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
