@@ -565,7 +565,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [psaegert/startpage](https://github.com/psaegert/startpage) - Startpage
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
