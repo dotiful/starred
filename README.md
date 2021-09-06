@@ -57,7 +57,6 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
@@ -717,6 +716,7 @@
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
+- [japorized/dotfiles](https://github.com/japorized/dotfiles) - 🔰 Opinionated configurations for this relatively new and under-educated power user
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 
 ## M4 
@@ -988,6 +988,7 @@
 
 ## Python 
 
+- [deadc0de6/catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data
 - [lahwaacz/arch-wiki-docs](https://github.com/lahwaacz/arch-wiki-docs) - A script to download pages from Arch Wiki for offline browsing
 - [th3unkn0n/TeleGram-Scraper](https://github.com/th3unkn0n/TeleGram-Scraper) - telegram group scraper tool. fetch all information about group members
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🔍 Telegram Bot to search and explore torrents
@@ -1312,6 +1313,7 @@
 
 ## Shell 
 
+- [deadc0de6/gitell](https://github.com/deadc0de6/gitell) - Quickly get the status of all your local git repositories
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups. Powered by FZF
 - [shibumi/hikari](https://github.com/shibumi/hikari) - ZSH config with unique key shortcuts and some eye candy
@@ -1353,7 +1355,7 @@
 - [laraib07/TermuxBackupTools](https://github.com/laraib07/TermuxBackupTools) - Simple bash script to backup and restore termux(an android terminal emulator) even across devices.
 - [davla/dotfiles](https://github.com/davla/dotfiles) - My dotfiles repository. Really, just configuration files
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
-- [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - Onex is a package manager for hacker's. Onex manage more than 370+ hacking tools that can be installed on single click.
+- [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - Onex is a package manager for hacker's. Onex manage more than 400+ hacking tools that can be installed on single click.
 - [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services) - This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.
 - [GuidoFe/bash-cat-with-cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [ketancmaheshwari/pd](https://github.com/ketancmaheshwari/pd) - Linux pipeline debug
@@ -1667,10 +1669,6 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
-
-## Vim Snippet 
-
-- [japorized/dotfiles](https://github.com/japorized/dotfiles) - 🔰 Opinionated configurations for this relatively new and under-educated power user
 
 ## Vim script 
 
