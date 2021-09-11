@@ -252,7 +252,7 @@
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [janmoesen/bookmarklets](https://github.com/janmoesen/bookmarklets) - Time-saving and life-enhancing (ahem) bookmarklets
 - [norio-nomura/qlplayground](https://github.com/norio-nomura/qlplayground) - `qlplayground` is a QuickLook plugin for Swift files.
-- [VChet/Telegram-Vanilla-Dark-Web](https://github.com/VChet/Telegram-Vanilla-Dark-Web) - Dark Theme for web.telegram.org
+- [VChet/Telegram-Vanilla-Dark-Web-Legacy](https://github.com/VChet/Telegram-Vanilla-Dark-Web-Legacy) - Dark Theme for web.telegram.org
 - [elv1n/slack-dark-mojave-theme](https://github.com/elv1n/slack-dark-mojave-theme) - Beautiful dark theme for slack 3, 4+. Apply theme by running one command 🌸
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
