@@ -773,6 +773,7 @@
 
 ## Others 
 
+- [kix/reverse-interview](https://github.com/kix/reverse-interview) - Questions to ask the company during your interview
 - [nico-castell/desktop-file-support](https://github.com/nico-castell/desktop-file-support) - Add support for .desktop files in VS Code.
 - [AkmarNafi/comment-headers](https://github.com/AkmarNafi/comment-headers) - Comment headers for VS Code
 - [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) - A pack of GRUB2 themes for each Linux distribution
