@@ -787,7 +787,6 @@
 - [grem11n/awesome-it-communities-ua](https://github.com/grem11n/awesome-it-communities-ua) - Awesome Ukrainian IT Communities
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
-- [Prayag2/tuxi](https://github.com/Prayag2/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [yengoteam/awesome-gha-snippets](https://github.com/yengoteam/awesome-gha-snippets) - 🤯 A list of useful snippets and tips for GitHub Actions (GHA).
 - [OtakuLinux/device_xiaomi_dandelion](https://github.com/OtakuLinux/device_xiaomi_dandelion) - 
 - [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
@@ -1428,7 +1427,7 @@
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) - maybe the best AdGuardHome luci for openwrt
 - [microsoft/vscode-figma-toolkit](https://github.com/microsoft/vscode-figma-toolkit) - A Figma design toolkit for Visual Studio Code
-- [Andrej-Antipov/MountEFI](https://github.com/Andrej-Antipov/MountEFI) - Some shell scripts  for quickly searching and mounting EFI / ESP partitions on Mac OS 10.9 - 11.5
+- [Andrej-Antipov/MountEFI](https://github.com/Andrej-Antipov/MountEFI) - Some shell scripts  for quickly searching and mounting EFI / ESP partitions on Mac OS 10.9 - 11.6 (12.0)
 - [Andrej-Antipov/SpiraMira-HybridMode-Patcher](https://github.com/Andrej-Antipov/SpiraMira-HybridMode-Patcher) - The script program to easy apply SpiraMira Hybrid Mode fo Mojave Interface
 - [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
