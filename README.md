@@ -1245,6 +1245,7 @@
 
 ## Rust 
 
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - Play videos and songs on the website via mpv-handler, without any background service.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
