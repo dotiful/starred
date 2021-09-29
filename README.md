@@ -624,7 +624,6 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [drudge/tower-alfred-workflow](https://github.com/drudge/tower-alfred-workflow) - Quickly access your Tower 2 git repositories from Alfred 2
 - [samuelmeuli/github-downloads](https://github.com/samuelmeuli/github-downloads) - ⬇️ See the number of downloads next to releases on GitHub
-- [Hau-Hau/firefox-tab-suspender](https://github.com/Hau-Hau/firefox-tab-suspender) - A Firefox extension that automatic suspend tabs and saves memory
 - [bikenik/alfred-anki](https://github.com/bikenik/alfred-anki) - Create New Cards into any decks with any "Note Type".
 - [ungoldman/magnet-link](https://github.com/ungoldman/magnet-link) - DEPRECATED: Get a magnet link from a torrent file.
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
