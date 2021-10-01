@@ -474,7 +474,7 @@
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - 
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
-- [Chimildic/goofy](https://github.com/Chimildic/goofy) - Spotify Playlist Builder through Google Apps Script
+- [Chimildic/goofy](https://github.com/Chimildic/goofy) - Конструктор плейлистов Spotify
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [brucebentley/vscode-recipes](https://github.com/brucebentley/vscode-recipes) - A collection of recipes for using Visual Studio Code with particular technologies.
 - [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
@@ -891,7 +891,6 @@
 - [Goldfish64/ArrandaleGraphicsHackintosh](https://github.com/Goldfish64/ArrandaleGraphicsHackintosh) - Information regarding first generation Intel HD Graphics and macOS.
 - [Dids/clover-builder](https://github.com/Dids/clover-builder) - Automated Clover builds.
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [vookimedlo/alfred-make-appicon](https://github.com/vookimedlo/alfred-make-appicon) - Alfred 3 workflow for making an app icon [icns] based upon the selected file.
 - [cpimhoff/alfred3-newFiles](https://github.com/cpimhoff/alfred3-newFiles) - An Alfred 3 workflow which allows for the fast creation of new documents and folders
 - [stuartcryan/defaultbrowser-alfred-workflow](https://github.com/stuartcryan/defaultbrowser-alfred-workflow) - Default Browser workflow for Alfred using Kerma's DefaultBrowser Binary
@@ -1481,6 +1480,7 @@
 - [zchee/zsh-completions](https://github.com/zchee/zsh-completions) - Yet another zsh completion sources library. Fork, fix and written by me.
 - [logic1988/AlfredGithubFolderDownloader](https://github.com/logic1988/AlfredGithubFolderDownloader) - Alfred Workflow for download a specific folder in GitHub.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [phallstrom/AlfredGist](https://github.com/phallstrom/AlfredGist) - An workflow for Alfred to create Gists from your clipboard contents or selected file(s).
 - [fsquillace/kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
