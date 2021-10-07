@@ -1342,7 +1342,7 @@
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [unixhostpro/load-info-telegram](https://github.com/unixhostpro/load-info-telegram) - Скрипт уведомлений о нагрузки на сервер. При определенном пороге нагрузки вы будет получать уведомления с полной информацией о всех процессах.
-- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - The amazing Quickemu; as seen on YouTube
+- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [mohkale/dotfiles](https://github.com/mohkale/dotfiles) - :house: is where the :heart: is :tada:
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
