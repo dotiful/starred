@@ -1671,7 +1671,7 @@
 
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [casprwang/dotfiles](https://github.com/casprwang/dotfiles) - Linux and macOS environment setup
+- [casprwang/dotfiles](https://github.com/casprwang/dotfiles) - 
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - Carefully curated configuration for (almost) everything.
 - [motemen/dotfiles](https://github.com/motemen/dotfiles) - My dotfiles
