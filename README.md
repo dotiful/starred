@@ -179,7 +179,7 @@
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [Zren/material-decoration](https://github.com/Zren/material-decoration) - Material-ish window decoration theme for KWin, with LIM, based on zzag's original design.
 - [Exhar/linssid](https://github.com/Exhar/linssid) - LinSSID repository
-- [tildearrow/kwin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - stutter and latency reductions to KWin
+- [tildearrow/kwin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - X11 full-screen unredirection for KWin... mostly.
 - [maz-1/grub2-editor](https://github.com/maz-1/grub2-editor) - A KDE Control Module for configuring the GRUB2 bootloader. Unofficial KF5 port.
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [psifidotos/applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
