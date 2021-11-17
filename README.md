@@ -547,7 +547,7 @@
 - [jukben/alfred-emoji](https://github.com/jukben/alfred-emoji) - ✌Alfred 3 workflow to find relevant emoji based on text
 - [hankchanocd/npm-fzf](https://github.com/hankchanocd/npm-fzf) - Fuzzy search npm modules with fzf
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
-- [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
+- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [form8ion/project](https://github.com/form8ion/project) - opinionated scaffolder for new projects
 - [mklabs/tabtab](https://github.com/mklabs/tabtab) - tab completion helpers, for node cli programs & others. Inspired by npm completion
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
@@ -1555,7 +1555,7 @@
 - [macmade/Console](https://github.com/macmade/Console) - OS X console application.
 - [macmade/Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
 - [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [arslan2012/Lazy-Hackintosh-Image-Generator](https://github.com/arslan2012/Lazy-Hackintosh-Image-Generator) - This automatical app makes Hackintosh installer from original Macintosh Installer app/disk image.
 - [zagahr/Conferences.digital](https://github.com/zagahr/Conferences.digital) - 👨‍💻Watch the latest and greatest conference videos on your Mac
