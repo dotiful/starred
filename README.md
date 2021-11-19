@@ -565,7 +565,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [psaegert/startpage](https://github.com/psaegert/startpage) - Startpage
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -674,7 +674,6 @@
 - [lukeed/preact-starter](https://github.com/lukeed/preact-starter) - Webpack3 boilerplate for building SPA / PWA / offline front-end apps with Preact
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
-- [hangxingliu/vscode-nginx-conf-hint](https://github.com/hangxingliu/vscode-nginx-conf-hint) - :pencil: VS Code extension: Nginx config file hint(auto-completion)
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [mpdeimos/gnome-shell-remove-dropdown-arrows](https://github.com/mpdeimos/gnome-shell-remove-dropdown-arrows) - Removes the dropdown arrows from the AppMenu and SystemMenu (AggregateMenu) which were introduced in Gnome 3.10.
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 130+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
@@ -1341,7 +1340,7 @@
 - [b0o/zfzf](https://github.com/b0o/zfzf) - zfzf is a fzf-based file picker for zsh which allows you to quickly navigate the directory hierarchy
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [unixhostpro/load-info-telegram](https://github.com/unixhostpro/load-info-telegram) - Скрипт уведомлений о нагрузки на сервер. При определенном пороге нагрузки вы будет получать уведомления с полной информацией о всех процессах.
-- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [mohkale/dotfiles](https://github.com/mohkale/dotfiles) - :house: is where the :heart: is :tada:
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
@@ -1662,6 +1661,7 @@
 - [mrmlnc/vscode-duplicate](https://github.com/mrmlnc/vscode-duplicate) - :electric_plug: Ability to duplicate files in VS Code.
 - [mkloubert/vs-deploy](https://github.com/mkloubert/vs-deploy) - Visual Studio Code extension that provides commands to deploy files of a workspace to a destination.
 - [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
+- [hangxingliu/vscode-nginx-conf-hint](https://github.com/hangxingliu/vscode-nginx-conf-hint) - :pencil: VS Code extension: Nginx config file hint(auto-completion)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
