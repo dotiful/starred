@@ -630,7 +630,7 @@
 - [jeppestaerk/alfred-show-network-info](https://github.com/jeppestaerk/alfred-show-network-info) - Alfred 4 Workflow - See network info and discover local devices
 - [gemoroy/alfred-mac-torrents](https://github.com/gemoroy/alfred-mac-torrents) - workflow for Alfred3 to crawl mac-torrents.com and return .torrent
 - [Rawnly/alfred-iconfinder-search](https://github.com/Rawnly/alfred-iconfinder-search) - Alfred 3 workflow for Iconfinder instant search
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [bikenik/alfred-youtube-bookmarks](https://github.com/bikenik/alfred-youtube-bookmarks) - quick search youtube playlist, creating video-bookmarks with tags
