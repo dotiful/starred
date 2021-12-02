@@ -82,7 +82,6 @@
 
 ## Batchfile 
 
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [DeadManWalkingTO/Windows10MiningTweaksDmW](https://github.com/DeadManWalkingTO/Windows10MiningTweaksDmW) - Windows 10 Mining Tweaks by DeadManWalking (DeadManWalkingTO-GitHub)
 - [nguyentumine/AIO-Boot](https://github.com/nguyentumine/AIO-Boot) - AIO Boot is an All-in-One bootable software for USB and HDD. Is one of the best Multiboot USB Creator for Windows.
 
@@ -1145,6 +1144,7 @@
 - [e7h4n/alfred-workflow-moment](https://github.com/e7h4n/alfred-workflow-moment) - 
 - [b3-v3r/Hunner](https://github.com/b3-v3r/Hunner) - Hacking framework
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [tonyxu-io/Alfred-Workflow-Upload-S3](https://github.com/tonyxu-io/Alfred-Workflow-Upload-S3) - This is an Alfred workflow that helps you upload image in clipboard or local to AWS S3
 - [bfleming-ciena/aws-alfred](https://github.com/bfleming-ciena/aws-alfred) - AWS Workflow for Alfred2
 - [lukewaite/alfred-gitlab](https://github.com/lukewaite/alfred-gitlab) - A GitLab workflow for Alfred 3
