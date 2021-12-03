@@ -545,7 +545,7 @@
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [jukben/alfred-emoji](https://github.com/jukben/alfred-emoji) - ✌Alfred 3 workflow to find relevant emoji based on text
 - [hankchanocd/npm-fzf](https://github.com/hankchanocd/npm-fzf) - Fuzzy search npm modules with fzf
-- [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
+- [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [form8ion/project](https://github.com/form8ion/project) - opinionated scaffolder for new projects
 - [mklabs/tabtab](https://github.com/mklabs/tabtab) - tab completion helpers, for node cli programs & others. Inspired by npm completion
