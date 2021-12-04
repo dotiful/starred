@@ -756,7 +756,6 @@
 - [macmade/GitHubUpdates](https://github.com/macmade/GitHubUpdates) - Cocoa framework to install application updates from GitHub releases.
 - [MuntashirAkon/DPCIManager](https://github.com/MuntashirAkon/DPCIManager) - Simple OS X app for viewing PCI hardware info
 - [MuntashirAkon/AdvanceKextUpdater](https://github.com/MuntashirAkon/AdvanceKextUpdater) - Keep your kexts up-to-date all the time starting from macOS 10.7
-- [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [Bensge/NativeDisplayBrightness](https://github.com/Bensge/NativeDisplayBrightness) - macOS display brightness utility for external monitors with a native UI.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [jbtule/cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
@@ -1552,6 +1551,7 @@
 - [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
 - [ninxsoft/MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) - A Mac utility that assists in automating the creation of macOS User Accounts.
 - [macmade/Console](https://github.com/macmade/Console) - OS X console application.
+- [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [macmade/Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
 - [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
