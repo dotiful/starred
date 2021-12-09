@@ -1631,7 +1631,7 @@
 - [stackbreak/comment-divider](https://github.com/stackbreak/comment-divider) - Divide your code by sections with styled separators
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
-- [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [1000ch/vscode-svgo](https://github.com/1000ch/vscode-svgo) - Fully featured SVGO extension for Visual Studio Code 🐯
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [georgewfraser/vscode-tree-sitter](https://github.com/georgewfraser/vscode-tree-sitter) - Accurate syntax coloring for VSCode using tree-sitter
