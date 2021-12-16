@@ -323,7 +323,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [msoap/shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line
 - [cassava/repoctl](https://github.com/cassava/repoctl) - Make it easy to manage your local Arch Linux repository.
-- [cdr/sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
+- [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [mattn/memo](https://github.com/mattn/memo) - 📓 Memo Life For You
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
@@ -1539,7 +1539,7 @@
 
 ## Swift 
 
-- [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript editor for Safari
+- [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [zero-sh/zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
@@ -1641,7 +1641,7 @@
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended) - Extended syntaxes to built-in markdown & What you see is what you get exporter.
 - [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history) - local-history for vscode
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
@@ -1660,7 +1660,7 @@
 - [rafaelmaiolla/remote-vscode](https://github.com/rafaelmaiolla/remote-vscode) - A package that implements the Textmate's 'rmate' feature for Visual Studio Code.
 - [mrmlnc/vscode-duplicate](https://github.com/mrmlnc/vscode-duplicate) - :electric_plug: Ability to duplicate files in VS Code.
 - [mkloubert/vs-deploy](https://github.com/mkloubert/vs-deploy) - Visual Studio Code extension that provides commands to deploy files of a workspace to a destination.
-- [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker extension for Visual Studio Code
+- [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker Extension for Visual Studio Code
 - [hangxingliu/vscode-nginx-conf-hint](https://github.com/hangxingliu/vscode-nginx-conf-hint) - :pencil: VS Code extension: Nginx config file hint(auto-completion)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
