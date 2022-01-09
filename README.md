@@ -393,7 +393,6 @@
 
 ## HTML 
 
-- [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [robole/vscode-snippets-ranger](https://github.com/robole/vscode-snippets-ranger) - View and edit all of your snippets in one purty place! Yee-haw!!
 - [reblim/fast](https://github.com/reblim/fast) - Develop, build, deploy, redeploy, and teardown frontend projects fast.
@@ -1542,6 +1541,7 @@
 
 ## Swift 
 
+- [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [zero-sh/zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
