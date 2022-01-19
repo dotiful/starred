@@ -453,7 +453,7 @@
 - [odditive/heroku-node-telegram-bot](https://github.com/odditive/heroku-node-telegram-bot) - Starter pack for running telegram bot on the Heroku using Node.js
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
-- [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - Github action to generate your own awesome list from project you've starred ordered by languages!
+- [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
 - [robole/vscode-javascript-extensions](https://github.com/robole/vscode-javascript-extensions) - VS Code extension examples written in in JavaScript
@@ -771,6 +771,7 @@
 
 ## Others 
 
+- [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [kix/reverse-interview](https://github.com/kix/reverse-interview) - Questions to ask the company during your interview
 - [nico-castell/desktop-file-support](https://github.com/nico-castell/desktop-file-support) - Add support for .desktop files in VS Code.
 - [AkmarNafi/comment-headers](https://github.com/AkmarNafi/comment-headers) - Comment headers for VS Code
