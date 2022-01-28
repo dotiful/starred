@@ -134,7 +134,7 @@
 
 ## C# # 
 
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) - A pack of GRUB2 themes for each Linux distribution
 - [a4004/n2d](https://github.com/a4004/n2d) - An easy to use ESP8266 flash tool with built-in support for the Deauther Project.
 - [GhostPack/KeeThief](https://github.com/GhostPack/KeeThief) - Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.
@@ -537,7 +537,7 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ColinEspinas/darken](https://github.com/ColinEspinas/darken) - 🌑 Dark mode made easy
 - [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
-- [lhbizarro/bruno-arizio](https://github.com/lhbizarro/bruno-arizio) - :art: Bruno Arizio portfolio.
+- [bizarro/bruno-arizio](https://github.com/bizarro/bruno-arizio) - :art: Bruno Arizio portfolio.
 - [joshuatvernon/cbf](https://github.com/joshuatvernon/cbf) - CBF  🦥is a simple CLI tool for developers who can't be f#@!'d learning or remembering all the commands they have to run day to day or just in a specific repo
 - [sizzlemctwizzle/GM_config](https://github.com/sizzlemctwizzle/GM_config) - A lightweight, reusable, cross-browser graphical settings framework for inclusion in user scripts.
 - [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
@@ -1528,7 +1528,6 @@
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
 - [fsquillace/buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
 - [tubbo/homer](https://github.com/tubbo/homer) - The home directory management tool.
-- [vinkla/dotfiles](https://github.com/vinkla/dotfiles) - A dotfiles repository for setting up new macOS environments
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [MaxMEllon/.dotfiles](https://github.com/MaxMEllon/.dotfiles) - :wrench: my configuration files ( .zshrc , .tmux.conf , etc... )
 
