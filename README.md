@@ -35,6 +35,7 @@
   - [M4](#m4)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
+  - [Nix](#nix)
   - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -731,6 +732,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## Nix 
+
+- [alexfedoseev/dotfiles](https://github.com/alexfedoseev/dotfiles) - My dotfiles
 
 ## Nunjucks 
 
@@ -1529,7 +1534,6 @@
 - [tubbo/homer](https://github.com/tubbo/homer) - The home directory management tool.
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [MaxMEllon/.dotfiles](https://github.com/MaxMEllon/.dotfiles) - :wrench: my configuration files ( .zshrc , .tmux.conf , etc... )
-- [alexfedoseev/dotfiles](https://github.com/alexfedoseev/dotfiles) - My dotfiles
 
 ## Smarty 
 
