@@ -1522,7 +1522,6 @@
 - [0ki/mikrotik-tools](https://github.com/0ki/mikrotik-tools) - Tools for Mikrotik devices
 - [cbrnix/Newaita](https://github.com/cbrnix/Newaita) - Linux icon theme
 - [mwarning/zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt) - A OpenWrt package for ZeroTier One - Pull requests are welcome!
-- [vitorgalvao/dotfiles](https://github.com/vitorgalvao/dotfiles) - My personal dotfiles and install scripts. These are meant to reflect my needs/preferences, rather than being a “fits all” solution. If they can be of use to anybody else, so much the better.
 - [xwmx/bindle](https://github.com/xwmx/bindle) - A configuration and dotfile management tool for your personal unix-like computer.
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) - Bash function to run tasks in parallel and display pretty output as they complete.
 - [mattly/bork](https://github.com/mattly/bork) - the Bash-Operated Reconciling Kludge
