@@ -525,7 +525,7 @@
 - [michaelmob/kwin-quick-tile-enhancements](https://github.com/michaelmob/kwin-quick-tile-enhancements) - Enhancements for the KWin Quick Tile feature.
 - [maple3142/browser-extensions](https://github.com/maple3142/browser-extensions) - 我的一些 userjs & usercss
 - [shellscape/prettier-plugin-package](https://github.com/shellscape/prettier-plugin-package) - An opinionated package.json formatter plugin for Prettier
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [Jack89ita/vscode-open-file-from-path](https://github.com/Jack89ita/vscode-open-file-from-path) - Simple plugin for VS Code that allows you to quickly open file starting from path string.
 - [idank/showthedocs](https://github.com/idank/showthedocs) - 
