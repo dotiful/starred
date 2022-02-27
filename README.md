@@ -724,7 +724,6 @@
 
 ## Makefile 
 
-- [editorconfig-checker/editorconfig-checker.javascript](https://github.com/editorconfig-checker/editorconfig-checker.javascript) - A tool to verify that your files are in harmony with your .editorconfig
 - [mklement0/strlen.awf](https://github.com/mklement0/strlen.awf) - An Alfred workflow that counts the number of characters and bytes in a string.
 - [oxyc/mac-playbook](https://github.com/oxyc/mac-playbook) - Mac setup and configuration via Ansible.
 
@@ -1609,6 +1608,7 @@
 - [ryanraposo/codeui](https://github.com/ryanraposo/codeui) - Customize your color theme for VS Code.
 - [tusaeff/vscode-iterm2-theme-sync](https://github.com/tusaeff/vscode-iterm2-theme-sync) - Synchronizes an iTerm2 color profile with selected VSCode theme 🎨
 - [xt0rted/stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
+- [editorconfig-checker/editorconfig-checker.javascript](https://github.com/editorconfig-checker/editorconfig-checker.javascript) - A tool to verify that your files are in harmony with your .editorconfig
 - [dderevjanik/github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - 📦 vscode-icons for github, nearly 1000 file/folder icons
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [ExplainDev/kmdr-cli](https://github.com/ExplainDev/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
