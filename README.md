@@ -866,10 +866,8 @@
 - [woj-ciech/kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
-- [vookimedlo/alfred-github-gists](https://github.com/vookimedlo/alfred-github-gists) - Alfred 4 workflow for opening your GitHub Gists in your default browser.
 - [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
-- [vookimedlo/alfred-github-repositories](https://github.com/vookimedlo/alfred-github-repositories) - Alfred 4 workflow for opening your GitHub Repositories in your default browser.
 - [vookimedlo/alfred-file](https://github.com/vookimedlo/alfred-file) - Alfred 3 workflow for analyzing given files.
 - [joonaspaakko/System-Commands.alfredworkflow](https://github.com/joonaspaakko/System-Commands.alfredworkflow) - Alfred's system commands, like "Restart" doesn’t honor the "Reopen windows when logging back in" option. This workflow gets around it.
 - [PMheart/LiluFriend](https://github.com/PMheart/LiluFriend) - A helper of Lilu that ensures everything loaded properly
@@ -1115,6 +1113,7 @@
 - [danielecook/alfred-image-utilities](https://github.com/danielecook/alfred-image-utilities) - Make quick edits to images
 - [kaito-kidd/markdown-image-alfred](https://github.com/kaito-kidd/markdown-image-alfred) - 复制本地图片或截图，快速上传图片到七牛云空间，并获取Markdown格式的图片地址。
 - [danielecook/markdown-table-alfred](https://github.com/danielecook/markdown-table-alfred) - Generate a markdown table from your clibboard
+- [vookimedlo/alfred-github-gists](https://github.com/vookimedlo/alfred-github-gists) - Alfred 4 workflow for opening your GitHub Gists in your default browser.
 - [deanishe/alfred-reddit](https://github.com/deanishe/alfred-reddit) - Browse Reddit from Alfred
 - [Acidham/alfred-markdown-notes](https://github.com/Acidham/alfred-markdown-notes) - Alfred Markdown Notes management
 - [wangshub/Alfred-Github-Trending](https://github.com/wangshub/Alfred-Github-Trending) - Alfred github trending workflow in Python.
@@ -1122,6 +1121,7 @@
 - [podgorniy/alfred-translate](https://github.com/podgorniy/alfred-translate) - Smooth ru-en en-ru translation workflow
 - [jeeftor/AlfredWorkflowDirectory](https://github.com/jeeftor/AlfredWorkflowDirectory) - Alfred Workflow for opening Workflow Directories
 - [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
+- [vookimedlo/alfred-github-repositories](https://github.com/vookimedlo/alfred-github-repositories) - Alfred 4 workflow for opening your GitHub Repositories in your default browser.
 - [Acidham/alfred-default-app](https://github.com/Acidham/alfred-default-app) - Change default app for an extension
 - [octplane/firefox-bookmark-to-disk](https://github.com/octplane/firefox-bookmark-to-disk) - Alfred Workflow + FF Webextension + FF Native App Manifest + Python App to save your bookmarks as they are updated
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
