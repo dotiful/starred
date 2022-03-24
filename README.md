@@ -310,7 +310,7 @@
 - [omakoto/compromise](https://github.com/omakoto/compromise) - Go Framework for Writing Shell Completion for Bash / Zsh (with Go/ADB completion)
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
-- [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
