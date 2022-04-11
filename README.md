@@ -361,7 +361,6 @@
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
 - [deanishe/alfred-gcal](https://github.com/deanishe/alfred-gcal) - View Google Calendar events in Alfred
 - [deanishe/alfred-sublime-text](https://github.com/deanishe/alfred-sublime-text) - Filter and open your Sublime Text (2 and 3) project files from Alfred.
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [mxssl/dns](https://github.com/mxssl/dns) - dns is a simple CLI tool for DNS-LG API
 - [ShogunPanda/alfred-chrome](https://github.com/ShogunPanda/alfred-chrome) - Alfred Chrome workflow
 - [deanishe/alfred-ssh](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections from Alfred 3+
@@ -641,6 +640,7 @@
 - [dearrrfish/browser-sugar-alfredworkflow](https://github.com/dearrrfish/browser-sugar-alfredworkflow) - Alfred workflow to switch current active tab between Safari and Chrome.
 - [LisaDziuba/Women-Made-It](https://github.com/LisaDziuba/Women-Made-It) - Awesome design & development tools, books, podcasts, and blogs made by women.
 - [pichfl/NoMoreiTunes](https://github.com/pichfl/NoMoreiTunes) - An Safari Extension preventing iTunes Preview and App Store pages in Safari from launching iTunes since 2010.
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [alexlafroscia/tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) - Alfred workflow for TLDR
 - [flippidippi/sVim](https://github.com/flippidippi/sVim) - Safari extension with shortcuts similar to Vim
 - [isometry/alfred-tty](https://github.com/isometry/alfred-tty) - Alfred Workflow to quickly switch between or close iTerm windows, tabs and panes based on title and tty
