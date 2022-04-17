@@ -372,6 +372,7 @@
 - [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [AnalogJ/capsulecd](https://github.com/AnalogJ/capsulecd) - Continuous Delivery for automating package releases (npm, cookbooks, gems, pip, jars, etc)
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
@@ -653,7 +654,6 @@
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [danielpigott/cloudflare-cli](https://github.com/danielpigott/cloudflare-cli) - CLI for interacting with Cloudflare
 - [scality/cloudserver](https://github.com/scality/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -1249,6 +1249,7 @@
 
 ## Rust 
 
+- [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - Play videos and songs on the website via mpv-handler, without any background service.
