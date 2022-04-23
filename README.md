@@ -546,6 +546,7 @@
 - [Theemim/GeckoPrefsExporter](https://github.com/Theemim/GeckoPrefsExporter) - A Scratchpad snippet that exports prefs from Firefox and other Gecko-based apps
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [jukben/alfred-emoji](https://github.com/jukben/alfred-emoji) - ✌Alfred 3 workflow to find relevant emoji based on text
+- [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby) - Prettier Ruby Plugin
 - [hankchanocd/npm-fzf](https://github.com/hankchanocd/npm-fzf) - Fuzzy search npm modules with fzf
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
@@ -1633,7 +1634,6 @@
 - [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings.
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [svipas/vscode-control-snippets](https://github.com/svipas/vscode-control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
-- [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby) - Prettier Ruby Plugin
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [davidnussio/vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) - Visual Code Studio jq playground
 - [mkloubert/vscode-helpers](https://github.com/mkloubert/vscode-helpers) - Helper functions and classes for Visual Studio Code extensions.
