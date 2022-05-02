@@ -770,6 +770,7 @@
 
 ## Others 
 
+- [NebuTech/NBMiner](https://github.com/NebuTech/NBMiner) - GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [kix/reverse-interview](https://github.com/kix/reverse-interview) - Questions to ask the company during your interview
 - [nico-castell/desktop-file-support](https://github.com/nico-castell/desktop-file-support) - Add support for .desktop files in VS Code.
@@ -800,7 +801,7 @@
 - [k4yt3x/sysctl](https://github.com/k4yt3x/sysctl) - K4YT3X's Hardened sysctl Configuration
 - [learnbyexample/vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
 - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
-- [learnbyexample/Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - :computer: Introduction to Linux commands and Shell scripting
+- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :computer: Linux command line and Scripting guide for beginner to intermediate users
 - [Psiphon-Inc/psiphon](https://github.com/Psiphon-Inc/psiphon) - Meta-repo with info about and links to Psiphon resources
 - [jolkdarr/language-dircolors](https://github.com/jolkdarr/language-dircolors) - Atom package for .dircolors files.
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
@@ -1323,7 +1324,7 @@
 - [hyperion-project/HyperBian](https://github.com/hyperion-project/HyperBian) - Hyperion pre installed on Raspberry Pi OS Lite
 - [deadc0de6/gitell](https://github.com/deadc0de6/gitell) - Quickly get the status of all your local git repositories
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 17+ git scenarios.
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.
 - [shibumi/hikari](https://github.com/shibumi/hikari) - ZSH config with unique key shortcuts and some eye candy
 - [Felixoid/zsh-hoco](https://github.com/Felixoid/zsh-hoco) - ZSH _hosts autocompletion extension
 - [Manas140/FP](https://github.com/Manas140/FP) - Simple FontPreview Shell Script
