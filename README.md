@@ -801,7 +801,7 @@
 - [k4yt3x/sysctl](https://github.com/k4yt3x/sysctl) - K4YT3X's Hardened sysctl Configuration
 - [learnbyexample/vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
 - [aloisdg/awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software
-- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :computer: Linux command line and Scripting guide for beginner to intermediate users
+- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :penguin: Linux command line and Scripting guide for beginner to intermediate users
 - [Psiphon-Inc/psiphon](https://github.com/Psiphon-Inc/psiphon) - Meta-repo with info about and links to Psiphon resources
 - [jolkdarr/language-dircolors](https://github.com/jolkdarr/language-dircolors) - Atom package for .dircolors files.
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
