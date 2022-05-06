@@ -64,7 +64,7 @@
 
 - [vookimedlo/alfred-vpn-tunnelblick](https://github.com/vookimedlo/alfred-vpn-tunnelblick) - Alfred 3 workflow for controlling Tunnelblick VPN connections.
 - [kevin-funderburg/alfred-jump-to-handler-script-debugger](https://github.com/kevin-funderburg/alfred-jump-to-handler-script-debugger) - Alfred workflow that allows you to search through the handlers of the front script of Script Debugger and select them within the script.
-- [sancarn/Element-Scripter](https://github.com/sancarn/Element-Scripter) - A useful Mac utility which scans GUIs for scriptable elements and returns the scripting path of the element and descriptive information regarding the element. This allows for a developer to quickly gather information regarding which scriptable elements are available to accomplish the task they want to achieve.
+- [sancarn/Element-Scripter](https://github.com/sancarn/Element-Scripter) - A useful Mac utility which scans GUIs for scriptable elements and returns the scripting path of the element and descriptive information regarding the element. This allows for a developer to quickly ga
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 
 ## AutoHotkey 
@@ -91,12 +91,12 @@
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [ZaWertun/gtk3-nocsd](https://github.com/ZaWertun/gtk3-nocsd) - A hack to disable gtk+ 3 client side decoration
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
-- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [stoeckmann/xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
 - [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
@@ -128,7 +128,7 @@
 - [pepe2k/u-boot_mod](https://github.com/pepe2k/u-boot_mod) - U-Boot 1.1.4 modification for routers
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
-- [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) - Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = convert and calculate candidates, x = different hashtypes
+- [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) - Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to J
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [linuxmint/nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -146,8 +146,7 @@
 - [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
-- [Nummer/Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) - Destroy Windows Spying tool
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [lanayotech/vagrant-manager-windows](https://github.com/lanayotech/vagrant-manager-windows) - Manage your vagrant machines in one place with Vagrant Manager for Windows
 - [madskristensen/OpenInVsCode](https://github.com/madskristensen/OpenInVsCode) - A Visual Studio extension
 - [NuGetPackageExplorer/NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI
@@ -160,7 +159,7 @@
 - [skickar/ESP8266_Router_Honeypot](https://github.com/skickar/ESP8266_Router_Honeypot) - A NAT router with an FTP honeypot using a canarytoken
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
-- [paulmcauley/classik](https://github.com/paulmcauley/classik) - ClassiK is a highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop. It provides the Classik, Kite, Oxygen/Breeze, and Redmond icon styles.
+- [paulmcauley/classik](https://github.com/paulmcauley/classik) - ClassiK is a highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop. It provides the Classik, Kite, Oxygen/Breeze, and Redmond icon sty
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros
@@ -197,7 +196,7 @@
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [acidanthera/VoodooPS2](https://github.com/acidanthera/VoodooPS2) - 
-- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
 - [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
@@ -258,7 +257,7 @@
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [lukecav/awesome-divi](https://github.com/lukecav/awesome-divi) - Resources for theme and page builder Divi.
-- [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
+- [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud sto
 - [erikdubois/AntergosI3](https://github.com/erikdubois/AntergosI3) - How to install i3 on Antergos
 - [adapta-project/adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines
 - [IvanMalison/dotfiles](https://github.com/IvanMalison/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
@@ -388,7 +387,6 @@
 
 ## HCL 
 
-- [almerico/bombardier](https://github.com/almerico/bombardier) - bombardier
 - [cablespaghetti/kubeadm-aws](https://github.com/cablespaghetti/kubeadm-aws) - Really cheap Kubernetes cluster on AWS with kubeadm
 
 ## HTML 
@@ -400,7 +398,6 @@
 - [secuvera/SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
 - [2wayne/AutoHotkey_LPortable](https://github.com/2wayne/AutoHotkey_LPortable) - AutoHotkey in the PortableApps.com Format
 - [joeytwiddle/code](https://github.com/joeytwiddle/code) - All my old code in various languages.  Some of it is better than the rest.
-- [684102/PornDownloader](https://github.com/684102/PornDownloader) - PornDownloader.user.js
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [jonasjacek/colors](https://github.com/jonasjacek/colors) - List of 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number, HEX, RGB and HSL code.
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
@@ -484,7 +481,7 @@
 - [frontender-training/keksobooking-baseJS](https://github.com/frontender-training/keksobooking-baseJS) - Личный проект «Кексобукинг» с интенсива «Базовый JavaScript» от HTMLAcademy
 - [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [morris/vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
-- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If
 - [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
 - [chocolateboy/gm-storage](https://github.com/chocolateboy/gm-storage) - An ES6 Map wrapper for the synchronous userscript storage API
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
@@ -645,7 +642,7 @@
 - [alexlafroscia/tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) - Alfred workflow for TLDR
 - [flippidippi/sVim](https://github.com/flippidippi/sVim) - Safari extension with shortcuts similar to Vim
 - [isometry/alfred-tty](https://github.com/isometry/alfred-tty) - Alfred Workflow to quickly switch between or close iTerm windows, tabs and panes based on title and tty
-- [nikersify/alfred-polyglot](https://github.com/nikersify/alfred-polyglot) - 🈚️ Translate text using Google Translate in Alfred
+- [rsify/alfred-polyglot](https://github.com/rsify/alfred-polyglot) - 🈚️ Translate text using Google Translate in Alfred
 - [mrmartineau/alfred-npm-versions](https://github.com/mrmartineau/alfred-npm-versions) - Lookup the latest 15 versions for an npm package
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [anshumanv/alfred-github-notifications](https://github.com/anshumanv/alfred-github-notifications) - Alfred workflow to take control of your github notifications
@@ -658,7 +655,7 @@
 - [scality/cloudserver](https://github.com/scality/cloudserver) - Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [PaeP3nguin/LinkBot](https://github.com/PaeP3nguin/LinkBot) - Chrome extension that converts URLs and emails in text to clickable links
-- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
+- [Gisto/Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use al
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [raingart/AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - Store link:
@@ -721,6 +718,7 @@
 
 ## Makefile 
 
+- [OtakuLinux/device_xiaomi_dandelion](https://github.com/OtakuLinux/device_xiaomi_dandelion) - 
 - [mklement0/strlen.awf](https://github.com/mklement0/strlen.awf) - An Alfred workflow that counts the number of characters and bytes in a string.
 - [oxyc/mac-playbook](https://github.com/oxyc/mac-playbook) - Mac setup and configuration via Ansible.
 
@@ -788,7 +786,6 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [yengoteam/awesome-gha-snippets](https://github.com/yengoteam/awesome-gha-snippets) - 🤯 A list of useful snippets and tips for GitHub Actions (GHA).
-- [OtakuLinux/device_xiaomi_dandelion](https://github.com/OtakuLinux/device_xiaomi_dandelion) - 
 - [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
@@ -839,7 +836,6 @@
 - [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [hackerkid/bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
-- [g0x7f/devOps-patch](https://github.com/g0x7f/devOps-patch) - A Patch for Dev-Ops community  https://t.me/devOpsPatch
 - [ldez/vscode-language-ignore](https://github.com/ldez/vscode-language-ignore) - Syntax highlighting for 'ignore' files : gitignore, npmignore, dockerignore, prettierignore, ...
 - [elbanic/alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges
@@ -853,7 +849,7 @@
 - [ameshkov/VscodeAdblockSyntax](https://github.com/ameshkov/VscodeAdblockSyntax) - TM language plugin with ad blocking rules syntax
 - [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
-- [hl2guide/All-in-One-Customized-Adblock-List](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube clutter, Twitter guff and social network hassles.
+- [hl2guide/All-in-One-Customized-Adblock-List](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube
 - [eutialia/open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from Alfred or Raycast
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
@@ -879,7 +875,6 @@
 - [ImmersiveX/clover-theme-minimal-dark](https://github.com/ImmersiveX/clover-theme-minimal-dark) - dark version of minimal clover theme with a few tweaks
 - [corpnewt/Hackintosh-Tips-And-Tricks](https://github.com/corpnewt/Hackintosh-Tips-And-Tricks) - A collection of things I've learned about Hackintosh - Hopefully it helps others!
 - [notpeter/apple-installer-checksums](https://github.com/notpeter/apple-installer-checksums) - Checksums of Mac OSX installer DMGs
-- [CHEF-KOCH/Spotify-Ad-free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - A filter list to block all Spotify ads!
 - [marta-file-manager/marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
 - [acidanthera/IOJones](https://github.com/acidanthera/IOJones) - Realtime I/O Registry viewer
 - [xzhih/hackintosh-list](https://github.com/xzhih/hackintosh-list) - Hackintosh EFI and Kext, Clover theme, macOS installer image, mac Free App ...
@@ -943,7 +938,7 @@
 - [godbout/alfred-kat](https://github.com/godbout/alfred-kat) - KAT workflow for Alfred, search and open magnet links directly from Alfred.
 - [yannickglt/alfred-devdocs](https://github.com/yannickglt/alfred-devdocs) - Alfred workflow for devdocs.io
 - [m9dfukc/deepl-alfred-workflow](https://github.com/m9dfukc/deepl-alfred-workflow) - DeepL translations for Alfred
-- [willfarrell/alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a sting into multiple variations.
+- [willfarrell/alfred-encode-decode-workflow](https://github.com/willfarrell/alfred-encode-decode-workflow) - Encoding and decoding a string into multiple variations.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
@@ -966,7 +961,7 @@
 ## Perl 
 
 - [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
-- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of differen
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
@@ -1023,7 +1018,7 @@
 - [dome272/Instagram-DeepFake-Bot](https://github.com/dome272/Instagram-DeepFake-Bot) - An Instagram Bot serving as an account, people can use to create DeepFakes on Instagram.
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/Troubleshooting/119e30f331799b30fb9594db29740685cb09425b
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [hyiltiz/vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize (n)vim startup time
 - [desbma/sacad](https://github.com/desbma/sacad) - Smart Automatic Cover Art Downloader
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
@@ -1194,7 +1189,7 @@
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [openwrt/asu](https://github.com/openwrt/asu) - An image on demand server for OpenWrt based distributions
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-- [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
+- [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 
 ## QML 
 
@@ -1378,7 +1373,6 @@
 - [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [fnune/base16-fzf](https://github.com/fnune/base16-fzf) - base16 colorschemes for fzf
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
-- [fastai/fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [learnbyexample/learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
 - [xPMo/zsh-toggle-command-prefix](https://github.com/xPMo/zsh-toggle-command-prefix) - Zsh widget to toggle a prefix on a command
 - [leonjza/history-here](https://github.com/leonjza/history-here) - A zsh plugin to quickly isolate shell history recording.
@@ -1644,7 +1638,7 @@
 - [stackbreak/comment-divider](https://github.com/stackbreak/comment-divider) - Divide your code by sections with styled separators
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
-- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git
 - [1000ch/vscode-svgo](https://github.com/1000ch/vscode-svgo) - Fully featured SVGO extension for Visual Studio Code 🐯
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [georgewfraser/vscode-tree-sitter](https://github.com/georgewfraser/vscode-tree-sitter) - Accurate syntax coloring for VSCode using tree-sitter
@@ -1677,7 +1671,7 @@
 - [hangxingliu/vscode-nginx-conf-hint](https://github.com/hangxingliu/vscode-nginx-conf-hint) - :pencil: VS Code extension: Nginx config file hint(auto-completion)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
+- [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
 
 ## Vim script 
