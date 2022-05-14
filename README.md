@@ -469,7 +469,6 @@
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [Chimildic/goofy](https://github.com/Chimildic/goofy) - Конструктор плейлистов Spotify
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
@@ -1248,7 +1247,7 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - Play videos and songs on the website via mpv-handler, without any background service.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone!
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
@@ -1594,6 +1593,7 @@
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir) - A Simple and Definitive Open-Source Icons Library
 - [VChet/Telegram-Vanilla-Dark-Desktop](https://github.com/VChet/Telegram-Vanilla-Dark-Desktop) - Dark Theme for Telegram Desktop
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [oe/download-git-userscript](https://github.com/oe/download-git-userscript) - download github repo or directory via one-click
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Edgar-P-yan/google-it-telegram-bot](https://github.com/Edgar-P-yan/google-it-telegram-bot) - 🤖 @Google_itBot 🔎 Search and share LINKS/IMAGES/VIDEOS in inline mode
