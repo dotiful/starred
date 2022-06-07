@@ -1357,7 +1357,6 @@
 - [laraib07/TermuxBackupTools](https://github.com/laraib07/TermuxBackupTools) - Simple bash script to backup and restore termux(an android terminal emulator) even across devices.
 - [davla/dotfiles](https://github.com/davla/dotfiles) - My dotfiles repository. Really, just configuration files
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
-- [rajkumardusad/onex](https://github.com/rajkumardusad/onex) - Onex is a package manager for hacker's. Onex manage more than 400+ hacking tools that can be installed on single click.
 - [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services) - This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.
 - [GuidoFe/bash-cat-with-cat](https://github.com/GuidoFe/bash-cat-with-cat) - The classic cat command but with a cat
 - [ketancmaheshwari/pd](https://github.com/ketancmaheshwari/pd) - Linux pipeline debug
