@@ -445,6 +445,7 @@
 
 ## JavaScript 
 
+- [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio for Google Apps Script
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [odditive/heroku-node-telegram-bot](https://github.com/odditive/heroku-node-telegram-bot) - Starter pack for running telegram bot on the Heroku using Node.js
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
@@ -969,7 +970,7 @@
 
 - [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
-- [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Add coloring to the output of Get-ChildItem Cmdlet of PowerShell.
+- [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Provides colorized version of Get-ChildItem Cmdlet of PowerShell.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
 - [lukesampson/concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings
