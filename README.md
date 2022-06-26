@@ -446,6 +446,7 @@
 
 ## JavaScript 
 
+- [sacredneobi/DurgerKingBot](https://github.com/sacredneobi/DurgerKingBot) - Проект интернет магазина по аналогии @durgerkingbot telegram бота
 - [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio for Google Apps Script
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [odditive/heroku-node-telegram-bot](https://github.com/odditive/heroku-node-telegram-bot) - Starter pack for running telegram bot on the Heroku using Node.js
@@ -1677,7 +1678,6 @@
 
 ## Vim script 
 
-- [sacredneobi/DurgerKingBot](https://github.com/sacredneobi/DurgerKingBot) - Проект интернет магазина по аналогии @durgerkingbot telegram бота
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [casprwang/dotfiles](https://github.com/casprwang/dotfiles) - 
