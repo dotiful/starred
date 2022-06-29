@@ -625,6 +625,7 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [drudge/tower-alfred-workflow](https://github.com/drudge/tower-alfred-workflow) - Quickly access your Tower 2 git repositories from Alfred 2
 - [samuelmeuli/github-downloads](https://github.com/samuelmeuli/github-downloads) - ⬇️ See the number of downloads next to releases on GitHub
+- [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [bikenik/alfred-anki](https://github.com/bikenik/alfred-anki) - Create New Cards into any decks with any "Note Type".
 - [ungoldman/magnet-link](https://github.com/ungoldman/magnet-link) - DEPRECATED: Get a magnet link from a torrent file.
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
@@ -1196,6 +1197,7 @@
 
 ## QML 
 
+- [rliwoch/plasmoid-wunderground-extended](https://github.com/rliwoch/plasmoid-wunderground-extended) - KDE5 Plasma Weather Widget (Wunderground Extended)
 - [lipido/kargos](https://github.com/lipido/kargos) - KDE Plasma port of GNOME Argos and OSX BitBar
 - [MakG10/plasma-applet-display-profile-switcher](https://github.com/MakG10/plasma-applet-display-profile-switcher) - Applet for KDE Plasma 5 to switch between display configurations.
 - [psifidotos/applet-latte-sidebar-button](https://github.com/psifidotos/applet-latte-sidebar-button) - Plasma applet to show and hide Latte Sidebars
@@ -1651,7 +1653,6 @@
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
-- [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended) - Extended syntaxes to built-in markdown & What you see is what you get exporter.
 - [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history) - local-history for vscode
