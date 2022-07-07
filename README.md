@@ -287,6 +287,7 @@
 
 ## Go 
 
+- [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
 - [aquasecurity/cloudsec-icons](https://github.com/aquasecurity/cloudsec-icons) - A collection of cloud security icons :cloud::lock:
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
