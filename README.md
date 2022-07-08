@@ -1255,7 +1255,6 @@
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - Play videos and songs on the website via mpv-handler, without any background service.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
