@@ -1074,6 +1074,7 @@
 - [leolabs/alfred-gitmoji](https://github.com/leolabs/alfred-gitmoji) - Search for gitmoji using Alfred and copy them to the clipboard easily
 - [wookayin/alfred-open-color-workflow](https://github.com/wookayin/alfred-open-color-workflow) - 🔎 An Alfred 2/3 workflow to quickly lookup and insert open color codes
 - [darsh12/alfred-firefox-switcher](https://github.com/darsh12/alfred-firefox-switcher) - Alfred workflow to launch different firefox profiles
+- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [sseemayer/TermPalette](https://github.com/sseemayer/TermPalette) - Terminal ANSI color palette previewer
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
 - [wayneyaoo/alfred-cheat](https://github.com/wayneyaoo/alfred-cheat) - Manage your self-defined cheat sheets & knowledge base in Alfred
@@ -1441,7 +1442,6 @@
 - [odb/shml](https://github.com/odb/shml) - SHell Markup Language | Style Framework for The Terminal
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [pawelduda/fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
-- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [dsifford/yarn-completion](https://github.com/dsifford/yarn-completion) - Bash completion for Yarn
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
