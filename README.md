@@ -1268,7 +1268,7 @@
 - [adam-mcdaniel/atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
-- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
