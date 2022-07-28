@@ -580,7 +580,7 @@
 - [saadtazi/firefox-profile-js](https://github.com/saadtazi/firefox-profile-js) - Firefox Profile creation using nodejs and CLI
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [sven-piller/eslint-formatter-markdown](https://github.com/sven-piller/eslint-formatter-markdown) - Markdown reporter for eslint
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [thedevs-network/alfred-kutt](https://github.com/thedevs-network/alfred-kutt) - Alfred workflow for Kutt.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
