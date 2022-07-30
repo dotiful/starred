@@ -34,6 +34,7 @@
 - [M4](#m4)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -730,6 +731,10 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Mathematica 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
 ## Nix 
 
 - [alexfedoseev/dotfiles](https://github.com/alexfedoseev/dotfiles) - My dotfiles
@@ -1171,7 +1176,6 @@
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [savio-code/fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker) - Automatically exported from code.google.com/p/fern-wifi-cracker
 - [zjn0505/adb-alfred](https://github.com/zjn0505/adb-alfred) - adb alfred - all in one
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
