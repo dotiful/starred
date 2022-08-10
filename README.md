@@ -1091,7 +1091,6 @@
 - [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
 - [mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents) - Quickly open recent documents and apps / 快捷打开最近访问的文档或应用
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
-- [btyh17mxy/alfred-file-uploader](https://github.com/btyh17mxy/alfred-file-uploader) - Upload image from clipboard to imgur
 - [settipalli/medium-alfred-workflow](https://github.com/settipalli/medium-alfred-workflow) - Displays link to a list of articles that are part of a predefined set of stories on medium.com.
 - [r030515495/AlfredTitler](https://github.com/r030515495/AlfredTitler) - Url to Markdown style
 - [djw4/alfred-to-md](https://github.com/djw4/alfred-to-md) - A Python3 script to convert Alfred snippets to markdown format
