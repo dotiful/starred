@@ -406,7 +406,7 @@
 - [selfrefactor/services](https://github.com/selfrefactor/services) - Holder of multiple npm packages
 - [schomery/privacy-settings](https://github.com/schomery/privacy-settings) - Alter Firefox's built-in privacy settings easily with a toolbar panel
 - [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
-- [hodgef/js-library-boilerplate-basic](https://github.com/hodgef/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
+- [DevUnltd/js-library-boilerplate-basic](https://github.com/DevUnltd/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [javascript-tutorial/ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [ttscoff/KeyBindings](https://github.com/ttscoff/KeyBindings) - DefaultKeybindings.dict for Mac OS X
@@ -575,7 +575,7 @@
 - [vigetlabs/blendid](https://github.com/vigetlabs/blendid) - A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
 - [devSchacht/translations](https://github.com/devSchacht/translations) - Переводы от devSchacht
 - [idleberg/atom-build-homebrew](https://github.com/idleberg/atom-build-homebrew) - Atom Build provider for Homebrew formulas
-- [hodgef/js-library-boilerplate](https://github.com/hodgef/js-library-boilerplate) - Javascript Starter Boilerplate - Webpack 4, Babel 7, UMD, Hot Reloading, and more
+- [DevUnltd/js-library-boilerplate](https://github.com/DevUnltd/js-library-boilerplate) - Javascript Starter Boilerplate - Webpack 4, Babel 7, UMD, Hot Reloading, and more
 - [antonmedv/eat](https://github.com/antonmedv/eat) - Eats anything, spits out JSON 🧀
 - [saadtazi/firefox-profile-js](https://github.com/saadtazi/firefox-profile-js) - Firefox Profile creation using nodejs and CLI
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
@@ -951,7 +951,7 @@
 - [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search
 - [citelao/Spotify-for-Alfred](https://github.com/citelao/Spotify-for-Alfred) - aka Spotifious — a natural Spotify controller for Alfred
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
-- [skyverge/wc-plugins-snippets](https://github.com/skyverge/wc-plugins-snippets) - Custom code snippets and examples for SkyVerge-built WooCommerce extensions
+- [godaddy-wordpress/wc-plugins-snippets](https://github.com/godaddy-wordpress/wc-plugins-snippets) - Custom code snippets and examples for SkyVerge-built WooCommerce extensions
 - [udx/wp-stateless](https://github.com/udx/wp-stateless) - WP-Stateless is a WordPress plugin that uploads and serves your WordPress media from Google Cloud Storage.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [W3EDGE/w3-total-cache](https://github.com/W3EDGE/w3-total-cache) - 
