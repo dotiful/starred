@@ -160,7 +160,7 @@
 - [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - A (file-) journal for your shell
 - [skickar/ESP8266_Router_Honeypot](https://github.com/skickar/ESP8266_Router_Honeypot) - A NAT router with an FTP honeypot using a canarytoken
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
+- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy is a highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop. It provides the Klassy, Kite, Oxygen/Breeze, and Redmond icon style
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -1312,7 +1312,7 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
