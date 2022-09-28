@@ -434,6 +434,7 @@
 
 ## Java 
 
+- [stryker-project/app](https://github.com/stryker-project/app) - Magic tool for pentest from your android device!
 - [AERegeneratel38/RicerKit](https://github.com/AERegeneratel38/RicerKit) - An android app to browse KDE Store and other Linux Desktop Environment stores of Pling
 - [SmartPack/SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Source code of SmartPack-Kernel Manager, the Ultimate Tool to Manage your Kernel
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -984,6 +985,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [Thenujan-0/grub-editor](https://github.com/Thenujan-0/grub-editor) - gui to manage grub configuration
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
