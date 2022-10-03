@@ -28,6 +28,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
@@ -690,6 +691,10 @@
 
 - [pigmonkey/spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 
+## Jupyter Notebook 
+
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
+
 ## Kotlin 
 
 - [dogbin/dogbin](https://github.com/dogbin/dogbin) - The sexiest pastebin and url shortener ever
@@ -730,6 +735,7 @@
 
 ## Markdown 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Nix 
@@ -801,7 +807,6 @@
 - [gmm96/Install-dual-boot-Manjaro-in-Asus-GL552VW](https://github.com/gmm96/Install-dual-boot-Manjaro-in-Asus-GL552VW) - Step by step to install dual boot Manjaro in Asus GL552VW using UEFI on SSD alongside Windows 10
 - [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [astronautr/60p-keyboard-layout](https://github.com/astronautr/60p-keyboard-layout) - Comfy 60% keyboard layout
 - [k4yt3x/sysctl](https://github.com/k4yt3x/sysctl) - K4YT3X's Hardened sysctl Configuration
 - [learnbyexample/vim_reference](https://github.com/learnbyexample/vim_reference) - :q   Vim reference guide for beginner to intermediate users
@@ -1584,7 +1589,6 @@
 
 ## TeX 
 
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## TypeScript 
