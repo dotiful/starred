@@ -589,7 +589,6 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified) - Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
 - [keyz/alfred-prettier](https://github.com/keyz/alfred-prettier) - Run Prettier in Alfred
-- [pouyakary/comment-vscode](https://github.com/pouyakary/comment-vscode) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
 - [kevinoid/userscript-template](https://github.com/kevinoid/userscript-template) - A userscript (viz. Greasemonkey/Tampermonkey/Violentmonkey script) project template with codecov, coveralls, ESLint, github_changelog_generator, istanbul, JSDoc, and mocha.
 - [tziporaziegler/GitHubTopBar](https://github.com/tziporaziegler/GitHubTopBar) - A userscript for styling the GitHub top-bar
 - [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
@@ -991,6 +990,7 @@
 
 ## Python 
 
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [Thenujan-0/grub-editor](https://github.com/Thenujan-0/grub-editor) - gui to manage grub configuration
@@ -1648,6 +1648,7 @@
 - [Cloudstek/alfred-atom](https://github.com/Cloudstek/alfred-atom) - Alfred workflow to browse and open Atom projects
 - [fabiospampinato/bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
 - [pranaygp/vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
+- [pouyakary/comment-vscode](https://github.com/pouyakary/comment-vscode) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
 - [zfzackfrost/vscode-commentbars](https://github.com/zfzackfrost/vscode-commentbars) - Easily create comments that separate your code into sections (Visual Studio Code Extension).
 - [stackbreak/comment-divider](https://github.com/stackbreak/comment-divider) - Divide your code by sections with styled separators
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
