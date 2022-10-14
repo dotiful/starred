@@ -158,7 +158,7 @@
 
 ## C++ 
 
-- [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - A (file-) journal for your shell
+- [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Record shell-commands and used files. Easily tell which command created a file.
 - [skickar/ESP8266_Router_Honeypot](https://github.com/skickar/ESP8266_Router_Honeypot) - A NAT router with an FTP honeypot using a canarytoken
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
@@ -681,7 +681,7 @@
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [mpdeimos/gnome-shell-remove-dropdown-arrows](https://github.com/mpdeimos/gnome-shell-remove-dropdown-arrows) - Removes the dropdown arrows from the AppMenu and SystemMenu (AggregateMenu) which were introduced in Gnome 3.10.
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 130+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [sysdrum/notion-app](https://github.com/sysdrum/notion-app) - Notion.so desktop application for Linux
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [khanhas/Spicetify](https://github.com/khanhas/Spicetify) - Spice up your Spotify client
