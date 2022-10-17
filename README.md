@@ -1648,7 +1648,7 @@
 - [Cloudstek/alfred-atom](https://github.com/Cloudstek/alfred-atom) - Alfred workflow to browse and open Atom projects
 - [fabiospampinato/bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
 - [pranaygp/vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
-- [pouyakary/comment-vscode](https://github.com/pouyakary/comment-vscode) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
+- [pouyakary/comment](https://github.com/pouyakary/comment) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
 - [zfzackfrost/vscode-commentbars](https://github.com/zfzackfrost/vscode-commentbars) - Easily create comments that separate your code into sections (Visual Studio Code Extension).
 - [stackbreak/comment-divider](https://github.com/stackbreak/comment-divider) - Divide your code by sections with styled separators
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
