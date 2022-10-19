@@ -533,7 +533,7 @@
 - [idank/showthedocs](https://github.com/idank/showthedocs) - 
 - [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts) - A collection of user scripts for StackExchange sites
 - [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images) - Direct Google Images
-- [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+- [santinic/how2](https://github.com/santinic/how2) - AI for the Command-Line
 - [The-OP/Fox](https://github.com/The-OP/Fox) - 
 - [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
