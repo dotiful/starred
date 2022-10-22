@@ -406,7 +406,7 @@
 - [minSW/fzf-color-picker](https://github.com/minSW/fzf-color-picker) - Web Color Picker for fzf custom color scheme
 - [selfrefactor/services](https://github.com/selfrefactor/services) - Holder of multiple npm packages
 - [schomery/privacy-settings](https://github.com/schomery/privacy-settings) - Alter Firefox's built-in privacy settings easily with a toolbar panel
-- [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - Tool to create firefox profiles with good defaults.
+- [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - A tool to create firefox profiles with personalized defaults.
 - [DevUnltd/js-library-boilerplate-basic](https://github.com/DevUnltd/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [javascript-tutorial/ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
