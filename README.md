@@ -934,7 +934,6 @@
 - [dorianpro/kali-linux-wallpapers](https://github.com/dorianpro/kali-linux-wallpapers) - A set of dedicated Kali Linux* wallpapers which I'm going to update regularly. They all done using GIMP and other GNU/Linux/FOSS.
 - [jasonshanks/alfred-darkmode](https://github.com/jasonshanks/alfred-darkmode) - An Alfred workflow to toggle Yosemite's dark and light modes.
 - [openwisp/vagrant-openwisp2](https://github.com/openwisp/vagrant-openwisp2) - Ansible Vagrant profile to install an OpenWISP 2 server
-- [brianclemens/dotfiles](https://github.com/brianclemens/dotfiles) - 
 
 ## PHP 
 
