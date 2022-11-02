@@ -298,7 +298,7 @@
 - [xyproto/gendesk](https://github.com/xyproto/gendesk) - :herb: Generate .desktop files and download .png icons by specifying a minimum of information
 - [uetchy/gst](https://github.com/uetchy/gst) - 👻 Supercharge your ghq workflow.
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
-- [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo® API (IP geolocation and other types of IP data)
+- [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
