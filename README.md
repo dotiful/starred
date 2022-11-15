@@ -1367,7 +1367,7 @@
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [mohkale/dotfiles](https://github.com/mohkale/dotfiles) - :house: is where the :heart: is :tada:
 - [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
-- [devxops/gce-disks-export](https://github.com/devxops/gce-disks-export) - Export Google Cloud instances disks to Cloud Storage
+- [biofer76/gce-disks-export](https://github.com/biofer76/gce-disks-export) - Export Google Cloud instances disks to Cloud Storage
 - [GoogleCloudPlatform/compute-archlinux-image-builder](https://github.com/GoogleCloudPlatform/compute-archlinux-image-builder) - A tool to build a Arch Linux Image for GCE
 - [philFernandez/printc](https://github.com/philFernandez/printc) - zsh plugin for wrapping ANSI color codes
 - [trystan2k/zsh-tab-title](https://github.com/trystan2k/zsh-tab-title) - A ZSH plugin to set the terminal tab title according to current directory or running process. It's based (forked) from Oh-My-ZSH one.
