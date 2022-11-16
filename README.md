@@ -287,6 +287,7 @@
 
 ## Go 
 
+- [silenceshell/hcache](https://github.com/silenceshell/hcache) - showing top X biggest cache files global
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
 - [aquasecurity/cloudsec-icons](https://github.com/aquasecurity/cloudsec-icons) - A collection of cloud security icons :cloud::lock:
@@ -736,7 +737,7 @@
 
 ## Nix 
 
-- [alexfedoseev/dotfiles](https://github.com/alexfedoseev/dotfiles) - My dotfiles
+- [afxpsd/dotfiles](https://github.com/afxpsd/dotfiles) - My dotfiles
 
 ## Nunjucks 
 
