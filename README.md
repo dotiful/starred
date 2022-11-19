@@ -51,6 +51,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [Sass](#sass)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -842,7 +843,6 @@
 - [SalAldana/alfred-blink](https://github.com/SalAldana/alfred-blink) - Alfred workflow for Showing/Hiding files on macOS.
 - [sivan/javascript-style-guide](https://github.com/sivan/javascript-style-guide) - Airbnb JavaScript Style Guide 中文版
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
-- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [hackerkid/bots](https://github.com/hackerkid/bots) - :zap: Tools for building bots
@@ -1327,6 +1327,10 @@
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [liorgrossman/darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites
+
+## SVG 
+
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 
 ## Sass 
 
