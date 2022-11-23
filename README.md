@@ -750,7 +750,7 @@
 
 ## Objective-C 
 
-- [headkaze/Hackintool](https://github.com/headkaze/Hackintool) - The Swiss army knife of vanilla Hackintoshing
+- [benbaker76/Hackintool](https://github.com/benbaker76/Hackintool) - The Swiss army knife of vanilla Hackintoshing
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
 - [anthonygelibert/QLColorCode](https://github.com/anthonygelibert/QLColorCode) - QuickLook plugin for source code with syntax highlighting.
 - [semaja2/InsomniaX](https://github.com/semaja2/InsomniaX) - InsomniaX - Keep your Mac awake the easy way
