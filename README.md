@@ -1091,7 +1091,6 @@
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
 - [wayneyaoo/alfred-cheat](https://github.com/wayneyaoo/alfred-cheat) - Manage your self-defined cheat sheets & knowledge base in Alfred
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
-- [realsirjoe/instagram-scraper](https://github.com/realsirjoe/instagram-scraper) - scrapes medias, likes, followers, tags and all metadata. Inspired by instagram-php-scraper,bot
 - [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
