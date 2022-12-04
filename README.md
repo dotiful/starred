@@ -76,7 +76,6 @@
 - [mihaifm/screenkey.ahk](https://github.com/mihaifm/screenkey.ahk) - A tool that displays the keys that you type on the screen
 - [denolfe/AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
 - [JuanmaMenendez/AutoHotkey-script-Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - AutoHotkey script to open, restore or minimize, Window's and Chrome's Apps using hotkeys
-- [Joonikko/Panel](https://github.com/Joonikko/Panel) - The missing GUI for Microsoft Windows
 
 ## AutoIt 
 
