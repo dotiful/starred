@@ -361,7 +361,6 @@
 - [deanishe/alfred-gcal](https://github.com/deanishe/alfred-gcal) - View Google Calendar events in Alfred
 - [deanishe/alfred-sublime-text](https://github.com/deanishe/alfred-sublime-text) - Filter and open your Sublime Text (2 and 3) project files from Alfred.
 - [mxssl/dns](https://github.com/mxssl/dns) - dns is a simple CLI tool for DNS-LG API
-- [ShogunPanda/alfred-chrome](https://github.com/ShogunPanda/alfred-chrome) - Alfred Chrome workflow
 - [deanishe/alfred-ssh](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections from Alfred 3+
 - [deanishe/alfred-safari-assistant](https://github.com/deanishe/alfred-safari-assistant) - Alfred 3+ workflow to search and use Safari bookmarks, history, reading list and tabs.
 - [lox/alfred-github-jump](https://github.com/lox/alfred-github-jump) - An alfred plugin to quickly jump to a github repository page
@@ -737,7 +736,7 @@
 
 ## Nix 
 
-- [afxpsd/dotfiles](https://github.com/afxpsd/dotfiles) - My dotfiles
+- [alex35mil/dotfiles](https://github.com/alex35mil/dotfiles) - My dotfiles
 
 ## Nunjucks 
 
@@ -1310,6 +1309,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [ShogunPanda/alfred-chrome](https://github.com/ShogunPanda/alfred-chrome) - Alfred Chrome workflow
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [flxo/rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
@@ -1437,7 +1437,6 @@
 - [eliasnorrby/dotfiles](https://github.com/eliasnorrby/dotfiles) - :computer: Dotfiles for development on MacOS and Manjaro
 - [davla/custom-commands](https://github.com/davla/custom-commands) - Scripts meant to be used as custom CLI commands
 - [davla/zygal](https://github.com/davla/zygal) - Background-based prompt theme
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [PapirusDevelopmentTeam/adapta-kde](https://github.com/PapirusDevelopmentTeam/adapta-kde) - Adapta KDE customization
@@ -1641,6 +1640,7 @@
 - [bodil/vscode-init-script](https://github.com/bodil/vscode-init-script) - Programmatic configuration for VS Code
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
 - [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings.
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
