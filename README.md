@@ -1233,7 +1233,6 @@
 - [rubychan/coderay](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages, written in Ruby.
 - [JasonBarnabe/greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
 - [iberianpig/fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
-- [jeff-hykin/better-shell-syntax](https://github.com/jeff-hykin/better-shell-syntax) - 💾 An improvement to the shell syntax for VS Code
 - [bitboxer/manpages](https://github.com/bitboxer/manpages) - Gem to add man pages support to ruby gems
 - [SidOfc/cani](https://github.com/SidOfc/cani) - A TUI wrapper around caniuse data using FZF and curses
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
@@ -1423,6 +1422,7 @@
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [katacoda/scenario-examples](https://github.com/katacoda/scenario-examples) - Collection of example Katacoda scenarios
 - [ronjouch/marathon](https://github.com/ronjouch/marathon) - minimal run-or-focus launcher for Linux/X
+- [jeff-hykin/better-shell-syntax](https://github.com/jeff-hykin/better-shell-syntax) - 💾 An improvement to the shell syntax for VS Code
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [agura-lex/find-the-command](https://github.com/agura-lex/find-the-command) - Interactive command-not-found hook for bash and zsh, that uses pacman as a backend (BTW, this shit should be completely re-written as it's very ugly)
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
