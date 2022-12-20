@@ -713,7 +713,7 @@
 - [InfosecMatter/default-http-login-hunter](https://github.com/InfosecMatter/default-http-login-hunter) - Login hunter of default credentials for administrative web interfaces leveraging NNdefaccts dataset.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
-- [themadsens/alfred-pcalc](https://github.com/themadsens/alfred-pcalc) - A programmers calculator for alfred 3
+- [themadsens/alfred-basecalc](https://github.com/themadsens/alfred-basecalc) - A programmers calculator for alfred 3
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
@@ -1048,7 +1048,6 @@
 - [BruceZhang1993/AIO-Boot-Helper](https://github.com/BruceZhang1993/AIO-Boot-Helper) - Helper scripts for AIO-Boot on Linux and more.
 - [papajoker/krunner-shell](https://github.com/papajoker/krunner-shell) - plasma krunner plugin run shell commands
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- [HamidrezaMoradi/APK-Downloader](https://github.com/HamidrezaMoradi/APK-Downloader) - Download latest version of android apps and games from Google Play.
 - [ianzhao05/textshot](https://github.com/ianzhao05/textshot) - Python tool for grabbing text via screenshot
 - [ArturGaspar/krunner-appmenu](https://github.com/ArturGaspar/krunner-appmenu) - KRunner appmenu plugin
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
