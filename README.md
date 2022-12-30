@@ -1055,7 +1055,7 @@
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [Symbo1/wsltools](https://github.com/Symbo1/wsltools) - Web Scan Lazy Tools - Python Package
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [brpaz/ulauncher-github](https://github.com/brpaz/ulauncher-github) - Ulauncher Extension that provides quick access to common GitHub functionality like your repositories or gists.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [lord63/choosealicense-cli](https://github.com/lord63/choosealicense-cli) - Bring http://choosealicense.com to your terminal
