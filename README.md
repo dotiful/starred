@@ -447,6 +447,7 @@
 
 ## JavaScript 
 
+- [d86leader/dynamic_workspaces](https://github.com/d86leader/dynamic_workspaces) - A kwin script that creates and deletes desktops as you move windows on the last one
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [sacredneobi/DurgerKingBot](https://github.com/sacredneobi/DurgerKingBot) - Проект интернет магазина по аналогии @durgerkingbot telegram бота
 - [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio for Google Apps Script
