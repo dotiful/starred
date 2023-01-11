@@ -1490,7 +1490,6 @@
 - [AlexanderWillner/deepl-alfred-workflow2](https://github.com/AlexanderWillner/deepl-alfred-workflow2) - DeepL Alfred Workflow
 - [wombat94/EFIClone](https://github.com/wombat94/EFIClone) - macOS Shell Scripts to clone the EFI partition automatically from either Carbon Copy Cloner or SuperDuper! when run on a Hackintosh
 - [Piker-Alpha/HandyScripts](https://github.com/Piker-Alpha/HandyScripts) - Handy script that may become a life saver...
-- [vitorgalvao/tiny-alfred-scripts](https://github.com/vitorgalvao/tiny-alfred-scripts) - Collection of small scripts to manage my Alfred Workflows
 - [RehabMan/HP-ProBook-4x30s-DSDT-Patch](https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch) - This repository contains the ACPI patches (using Clover hotpatch) for a wide range of HP ProBook/EliteBook/ZBook laptops
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [zchee/zsh-completions](https://github.com/zchee/zsh-completions) - Yet another zsh completion sources library. Fork, fix and written by me.
