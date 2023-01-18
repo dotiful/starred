@@ -35,7 +35,6 @@
 - [M4](#m4)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -717,6 +716,7 @@
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
+- [alex35mil/dotfiles](https://github.com/alex35mil/dotfiles) - My dotfiles
 
 ## M4 
 
@@ -732,10 +732,6 @@
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Nix 
-
-- [alex35mil/dotfiles](https://github.com/alex35mil/dotfiles) - My dotfiles
 
 ## Nunjucks 
 
