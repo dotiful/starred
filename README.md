@@ -982,6 +982,8 @@
 
 ## Python 
 
+- [sriharshamvs/TelegramUserScraper](https://github.com/sriharshamvs/TelegramUserScraper) - Scrape Telegram User details from the Group(s)
+- [gurjeet29/telegram_members_scrapper](https://github.com/gurjeet29/telegram_members_scrapper) - Python Script to scrape members from a selected Telegram group.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
