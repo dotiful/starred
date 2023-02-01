@@ -661,7 +661,6 @@
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [raingart/AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - Store link:
 - [zhovner/zaborona_help](https://github.com/zhovner/zaborona_help) - Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [VitalyKondratiev/vscode-sshextension](https://github.com/VitalyKondratiev/vscode-sshextension) - Extension for SSH connections using the ftp-simple settings
 - [pengwynn/grc](https://github.com/pengwynn/grc) - Mirror of Radovan Garabík's - Generic Colourizer for terminal apps
 - [evgeni/qifi](https://github.com/evgeni/qifi) - pure JS WiFi QR Code Generator
@@ -727,6 +726,7 @@
 
 - [OtakuLinux/device_xiaomi_dandelion](https://github.com/OtakuLinux/device_xiaomi_dandelion) - 
 - [mklement0/strlen.awf](https://github.com/mklement0/strlen.awf) - An Alfred workflow that counts the number of characters and bytes in a string.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [oxyc/mac-playbook](https://github.com/oxyc/mac-playbook) - Mac setup and configuration via Ansible.
 
 ## Markdown 
@@ -953,7 +953,7 @@
 - [godaddy-wordpress/wc-plugins-snippets](https://github.com/godaddy-wordpress/wc-plugins-snippets) - Custom code snippets and examples for SkyVerge-built WooCommerce extensions
 - [udx/wp-stateless](https://github.com/udx/wp-stateless) - WP-Stateless is a WordPress plugin that uploads and serves your WordPress media from Google Cloud Storage.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [W3EDGE/w3-total-cache](https://github.com/W3EDGE/w3-total-cache) - 
+- [BoldGrid/w3-total-cache](https://github.com/BoldGrid/w3-total-cache) - 
 - [sergeynezbritskiy/woo-shipping-with-nova-poshta](https://github.com/sergeynezbritskiy/woo-shipping-with-nova-poshta) - 
 
 ## Pascal 
