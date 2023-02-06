@@ -1397,7 +1397,7 @@
 - [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configuration files
 - [zoqaeski/systemd-user-units](https://github.com/zoqaeski/systemd-user-units) - Systemd user units for my own session.
 - [capocasa/systemd-user-pam-ssh](https://github.com/capocasa/systemd-user-pam-ssh) - Script used to decrypt a SSH key into a systemd --user managed ssh agnet
-- [bahamas10/vsv](https://github.com/bahamas10/vsv) - Manage and view runit services
+- [bahamas10/bash-vsv](https://github.com/bahamas10/bash-vsv) - Manage and view runit services
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
