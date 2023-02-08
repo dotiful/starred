@@ -532,6 +532,7 @@
 - [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images) - Direct Google Images
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [The-OP/Fox](https://github.com/The-OP/Fox) - 
+- [yedhrab/DarkCode-Theme](https://github.com/yedhrab/DarkCode-Theme) - ༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
 - [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ColinEspinas/darken](https://github.com/ColinEspinas/darken) - 🌑 Dark mode made easy
@@ -822,7 +823,6 @@
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [zayronxio/Mojave-CT](https://github.com/zayronxio/Mojave-CT) - icons inspired an apple os x
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
-- [yedhrab/DarkCode-Theme](https://github.com/yedhrab/DarkCode-Theme) - ༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
