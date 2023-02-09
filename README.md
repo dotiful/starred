@@ -489,7 +489,6 @@
 - [all-contributors/cli](https://github.com/all-contributors/cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
 - [learnbyexample/learn_js_regexp](https://github.com/learnbyexample/learn_js_regexp) - Example based guide to mastering JavaScript regexp
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
-- [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 - [y252328/Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button) - Add download button to download media in the post and the story in Instagram
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1615,6 +1614,7 @@
 - [brpaz/vscode-contextual-snips](https://github.com/brpaz/vscode-contextual-snips) - VSCode Extension with advanced snippet matching rules
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [antfu/iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI
+- [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
