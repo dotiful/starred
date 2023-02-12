@@ -790,7 +790,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [yengoteam/awesome-gha-snippets](https://github.com/yengoteam/awesome-gha-snippets) - 🤯 A list of useful snippets and tips for GitHub Actions (GHA).
-- [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - 
+- [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - This cheatsheet was created to assist Red Teamers and Penetration Testers in hunting down vulnerabilities using "Nmap."
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) - Paper list for equivariant neural network
 - [icons8/line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
