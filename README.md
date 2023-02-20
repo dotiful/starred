@@ -221,7 +221,6 @@
 - [PapirusDevelopmentTeam/firefox-papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/firefox-papirus-icon-theme) - Papirus icons for Firefox
 - [pyxelr/dark-google-calendar](https://github.com/pyxelr/dark-google-calendar) - Dark theme for Google Calendar.
 - [Haron-Prime/ArchLinuxRuDark](https://github.com/Haron-Prime/ArchLinuxRuDark) - A small correction of the dark style of the https://archlinux.org.ru
-- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [manilarome/blurredfox](https://github.com/manilarome/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [almaceleste/userstyles](https://github.com/almaceleste/userstyles) - my userstyles repo
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -1310,6 +1309,7 @@
 ## SCSS 
 
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
