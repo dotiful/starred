@@ -1523,7 +1523,7 @@
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix
+- [nikitavoloboev/dotfiles](https://github.com/nikitavoloboev/dotfiles) - Fish, Karabiner, VSCode, Sublime, Neovim, Nix
 - [rogalmic/vscode-zsh-debug](https://github.com/rogalmic/vscode-zsh-debug) - Z shell debugger extension for VSCode (based on vscode-bash-debug + zshdb)
 - [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [yousefvand/shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
