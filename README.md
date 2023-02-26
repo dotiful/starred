@@ -554,7 +554,6 @@
 - [egodigital/vscode-powertools-samples](https://github.com/egodigital/vscode-powertools-samples) - A repostory of samples, which demonstrates, how to use the 'Power Tools' extension for Visual Studio Code.
 - [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [darkred/Userscripts](https://github.com/darkred/Userscripts) - My userscripts
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [github/eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
@@ -715,7 +714,6 @@
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
-- [alex35mil/dotfiles](https://github.com/alex35mil/dotfiles) - My dotfiles
 
 ## M4 
 
@@ -1306,6 +1304,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [flxo/rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
+- [alex35mil/dotfiles](https://github.com/alex35mil/dotfiles) - My dotfiles
 
 ## SCSS 
 
@@ -1642,6 +1641,7 @@
 - [svipas/vscode-control-snippets](https://github.com/svipas/vscode-control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [davidnussio/vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) - Visual Code Studio jq playground
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [mkloubert/vscode-helpers](https://github.com/mkloubert/vscode-helpers) - Helper functions and classes for Visual Studio Code extensions.
 - [SimonAlling/userscripter](https://github.com/SimonAlling/userscripter) - Create userscripts in a breeze!
 - [Cloudstek/alfred-hugo](https://github.com/Cloudstek/alfred-hugo) - Alfred workflow bindings for NodeJS
