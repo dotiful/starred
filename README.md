@@ -284,6 +284,7 @@
 
 ## Go 
 
+- [Arsen6331/lure](https://github.com/Arsen6331/lure) - Linux User REpository
 - [cabemo/godaddy-cli](https://github.com/cabemo/godaddy-cli) - A simple godaddy CLI to manage domains
 - [silenceshell/hcache](https://github.com/silenceshell/hcache) - showing top X biggest cache files global
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
@@ -444,6 +445,8 @@
 
 ## JavaScript 
 
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [d86leader/dynamic_workspaces](https://github.com/d86leader/dynamic_workspaces) - A kwin script that creates and deletes desktops as you move windows on the last one
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [sacredneobi/DurgerKingBot](https://github.com/sacredneobi/DurgerKingBot) - Проект интернет магазина по аналогии @durgerkingbot telegram бота
