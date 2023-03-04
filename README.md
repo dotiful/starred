@@ -976,6 +976,7 @@
 - [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Provides colorized version of Get-ChildItem Cmdlet of PowerShell.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [lukesampson/concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
@@ -1157,7 +1158,6 @@
 - [e7h4n/alfred-workflow-moment](https://github.com/e7h4n/alfred-workflow-moment) - 
 - [b3-v3r/Hunner](https://github.com/b3-v3r/Hunner) - Hacking framework
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [tonyxu-io/Alfred-Workflow-Upload-S3](https://github.com/tonyxu-io/Alfred-Workflow-Upload-S3) - This is an Alfred workflow that helps you upload image in clipboard or local to AWS S3
 - [bfleming-ciena/aws-alfred](https://github.com/bfleming-ciena/aws-alfred) - AWS Workflow for Alfred2
 - [lukewaite/alfred-gitlab](https://github.com/lukewaite/alfred-gitlab) - A GitLab workflow for Alfred 3
@@ -1639,7 +1639,7 @@
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
-- [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - Visual Studio Code extension that enhances display of errors and warnings.
+- [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - VSCode extension that enhances display of errors and warnings.
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [svipas/vscode-control-snippets](https://github.com/svipas/vscode-control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
