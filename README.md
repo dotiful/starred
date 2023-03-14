@@ -984,6 +984,8 @@
 
 ## Python 
 
+- [AlexxIT/VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants and Home Assistant
+- [PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - This custom integration provides a way to present a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.
 - [sriharshamvs/TelegramUserScraper](https://github.com/sriharshamvs/TelegramUserScraper) - Scrape Telegram User details from the Group(s)
 - [gurjeet29/telegram_members_scrapper](https://github.com/gurjeet29/telegram_members_scrapper) - Python Script to scrape members from a selected Telegram group.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
