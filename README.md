@@ -747,7 +747,7 @@
 - [anthonygelibert/QLColorCode](https://github.com/anthonygelibert/QLColorCode) - QuickLook plugin for source code with syntax highlighting.
 - [semaja2/InsomniaX](https://github.com/semaja2/InsomniaX) - InsomniaX - Keep your Mac awake the easy way
 - [integralpro/nosleep](https://github.com/integralpro/nosleep) - The MacOS X kernel extension, preventing sleep when you close the lid.
-- [kerma/defaultbrowser](https://github.com/kerma/defaultbrowser) - Command line tool for getting and setting a default browser (HTTP handler) in Mac OS X
+- [kerma/defaultbrowser](https://github.com/kerma/defaultbrowser) - Command line tool for getting and setting a default browser (HTTP handler) in macOS
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [lindegroup/autopkgr](https://github.com/lindegroup/autopkgr) - AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg.
 - [kevingessner/FunctionFlip](https://github.com/kevingessner/FunctionFlip) - Learn more (and get binaries) at http://kevingessner.com/software/functionflip/
