@@ -986,6 +986,7 @@
 
 ## Python 
 
+- [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame Gen2 Lidar robot vacuums with map support
 - [smlight-dev/slzb-06-firmware](https://github.com/smlight-dev/slzb-06-firmware) - SLZB-06 firmware for the ESP32 main peripheral module
 - [AlexxIT/VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants and Home Assistant
 - [PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - This custom integration provides a way to present a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.
