@@ -987,6 +987,7 @@
 
 ## Python 
 
+- [avbor/HomeAssistantConfig](https://github.com/avbor/HomeAssistantConfig) - My Home Assistant Configuration. Feel free to :star: my repo if you found something useful here =)
 - [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame Gen2 Lidar robot vacuums with map support
 - [smlight-dev/slzb-06-firmware](https://github.com/smlight-dev/slzb-06-firmware) - SLZB-06 firmware for the ESP32 main peripheral module
 - [AlexxIT/VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants and Home Assistant
