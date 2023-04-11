@@ -718,6 +718,7 @@
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
+- [alex35mil/dotfiles](https://github.com/alex35mil/dotfiles) - My dotfiles
 
 ## M4 
 
@@ -1315,7 +1316,6 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [flxo/rogcat](https://github.com/flxo/rogcat) - A `adb logcat` wrapper
-- [alex35mil/dotfiles](https://github.com/alex35mil/dotfiles) - My dotfiles
 
 ## SCSS 
 
