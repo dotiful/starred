@@ -1614,6 +1614,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [ptkdev-boilerplate/node-telegram-bot-boilerplate](https://github.com/ptkdev-boilerplate/node-telegram-bot-boilerplate) - 🤖 Create telegram bot with this friendly nodejs boilerplate
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
@@ -1717,7 +1718,6 @@
 
 ## Vue 
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [Zerx0r/Kage](https://github.com/Zerx0r/Kage) - Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
