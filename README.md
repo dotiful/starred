@@ -1710,7 +1710,7 @@
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [casprwang/dotfiles](https://github.com/casprwang/dotfiles) - 
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
-- [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - Carefully curated configuration for (almost) everything.
+- [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - ⚠️ Deprecated! I’ve moved all my config to Nix+NixOS+Home Manager, and that repo is not currently public.
 - [motemen/dotfiles](https://github.com/motemen/dotfiles) - My dotfiles
 - [tylucaskelley/dotfiles](https://github.com/tylucaskelley/dotfiles) - My dotfiles, meant for use on macOS computers
 - [trapd00r/configs](https://github.com/trapd00r/configs) - My ~/etc - configs, dotfiles
