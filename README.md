@@ -446,6 +446,7 @@
 
 ## JavaScript 
 
+- [kvazis/training](https://github.com/kvazis/training) - 
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Open source cloud replacement for vacuum robots enabling local-only operation
 - [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - 🏡 My smart home server setup built on top of Ubuntu, Docker, Home Assistant, Servarr, etc
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
