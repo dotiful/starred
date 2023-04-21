@@ -286,7 +286,7 @@
 
 ## Go 
 
-- [Arsen6331/lure](https://github.com/Arsen6331/lure) - Linux User REpository
+- [Elara6331/lure](https://github.com/Elara6331/lure) - Linux User REpository
 - [cabemo/godaddy-cli](https://github.com/cabemo/godaddy-cli) - A simple godaddy CLI to manage domains
 - [silenceshell/hcache](https://github.com/silenceshell/hcache) - showing top X biggest cache files global
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
