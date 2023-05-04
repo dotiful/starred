@@ -1679,7 +1679,7 @@
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [georgewfraser/vscode-tree-sitter](https://github.com/georgewfraser/vscode-tree-sitter) - Accurate syntax coloring for VSCode using tree-sitter
 - [maptz/maptz.vscode.extensions.customfolding](https://github.com/maptz/maptz.vscode.extensions.customfolding) - 
-- [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more
+- [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more. Available on the VSCode Marketplace.
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
