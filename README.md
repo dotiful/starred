@@ -1180,7 +1180,6 @@
 - [ejsuncy/tesla-alfred-workflow](https://github.com/ejsuncy/tesla-alfred-workflow) - A workflow for Alfred to interact with a Tesla vehicle using the unofficial Tesla JSON API
 - [matthewmcgarvey/alfred-oh-my-zsh-workflow](https://github.com/matthewmcgarvey/alfred-oh-my-zsh-workflow) - 
 - [pawamoy/shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts!
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [nvllsvm/base16-shell-preview](https://github.com/nvllsvm/base16-shell-preview) - Preview and enable Base16 Shell themes in your terminal.
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
