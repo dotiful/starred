@@ -53,7 +53,6 @@
 - [Sass](#sass)
 - [Shell](#shell)
 - [Smarty](#smarty)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -565,6 +564,7 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [github/eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
 - [mozilla/addons-linter](https://github.com/mozilla/addons-linter) - 🔍 Firefox Add-ons linter, written in JavaScript. 👁
+- [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [Mottie/Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
 - [fiatjaf/module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -1178,6 +1178,7 @@
 - [ejsuncy/tesla-alfred-workflow](https://github.com/ejsuncy/tesla-alfred-workflow) - A workflow for Alfred to interact with a Tesla vehicle using the unofficial Tesla JSON API
 - [matthewmcgarvey/alfred-oh-my-zsh-workflow](https://github.com/matthewmcgarvey/alfred-oh-my-zsh-workflow) - 
 - [pawamoy/shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts!
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [nvllsvm/base16-shell-preview](https://github.com/nvllsvm/base16-shell-preview) - Preview and enable Base16 Shell themes in your terminal.
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
@@ -1561,10 +1562,6 @@
 ## Smarty 
 
 - [zaufi/kate-stuff](https://github.com/zaufi/kate-stuff) - My (updated/improved) kate's editor syntax files, code snippets and C++ indenter
-
-## Svelte 
-
-- [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
 ## Swift 
 
