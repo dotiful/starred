@@ -1717,7 +1717,7 @@
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - ⚠️ Deprecated! I’ve moved all my config to Nix+NixOS+Home Manager, and that repo is not currently public.
 - [motemen/dotfiles](https://github.com/motemen/dotfiles) - My dotfiles
-- [tylucaskelley/dotfiles](https://github.com/tylucaskelley/dotfiles) - My dotfiles, meant for use on macOS computers
+- [tylucaskelley/dotfiles](https://github.com/tylucaskelley/dotfiles) - My dotfiles, meant for use with a Bash shell
 - [trapd00r/configs](https://github.com/trapd00r/configs) - My ~/etc - configs, dotfiles
 - [dylanaraps/dotfiles](https://github.com/dylanaraps/dotfiles) - 🍙 dotfiles
 
