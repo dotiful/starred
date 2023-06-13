@@ -538,7 +538,7 @@
 - [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images) - Direct Google Images
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [The-OP/Fox](https://github.com/The-OP/Fox) - 
-- [yedhrab/DarkCode-Theme](https://github.com/yedhrab/DarkCode-Theme) - ༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
+- [yemreak/DarkCode-Theme](https://github.com/yemreak/DarkCode-Theme) - ༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
 - [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ColinEspinas/darken](https://github.com/ColinEspinas/darken) - 🌑 Dark mode made easy
