@@ -686,6 +686,7 @@
 
 ## Jinja 
 
+- [hassio-addons/addon-emqx](https://github.com/hassio-addons/addon-emqx) - EMQX - Home Assistant Community Add-ons
 - [pigmonkey/spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 
 ## Jupyter Notebook 
