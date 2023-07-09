@@ -77,7 +77,7 @@
 
 ## AutoIt 
 
-- [EmilyLove26/PortableApps-App-Creation-Wizard](https://github.com/EmilyLove26/PortableApps-App-Creation-Wizard) - A simple GUI-based wizard for assisting developers creating PortableApps.
+- [AetherCollective/PortableApps-App-Creation-Wizard](https://github.com/AetherCollective/PortableApps-App-Creation-Wizard) - A simple GUI-based wizard for assisting developers creating PortableApps.
 
 ## Batchfile 
 
