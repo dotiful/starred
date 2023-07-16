@@ -86,7 +86,7 @@
 
 ## C 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [ZaWertun/gtk3-nocsd](https://github.com/ZaWertun/gtk3-nocsd) - A hack to disable gtk+ 3 client side decoration
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
