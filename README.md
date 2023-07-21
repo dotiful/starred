@@ -274,7 +274,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [PagerDuty/postmortem-docs](https://github.com/PagerDuty/postmortem-docs) - PagerDuty's Public Postmortem Documentation
 
 ## Elixir 
@@ -858,7 +858,6 @@
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [danielbayley/atom-language-homebrew-formula](https://github.com/danielbayley/atom-language-homebrew-formula) - :atom: @Atom language support for @Homebrew formulae and Casks.
-- [typefacts/alfred-special-characters](https://github.com/typefacts/alfred-special-characters) - Special Characters by Typefacts — An Alfred App Workflow
 - [macfanatic77/hackintosh](https://github.com/macfanatic77/hackintosh) - 
 - [AlexMartinFR/mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - 🎩  Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users.
 - [cnstntn-kndrtv/open-in-buttons-for-finder-toolbar](https://github.com/cnstntn-kndrtv/open-in-buttons-for-finder-toolbar) - Open in TextMate, open in VS Code buttons for Finder toolbar and MB pro Touch Bar
@@ -965,7 +964,7 @@
 ## Perl 
 
 - [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
-- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of differen
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [trapd00r/ls--](https://github.com/trapd00r/ls--) - ls on steroids
 - [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
@@ -1123,6 +1122,7 @@
 - [deanishe/alfred-stackexchange](https://github.com/deanishe/alfred-stackexchange) - Search StackOverflow.com from Alfred
 - [ai0/alfred-gitmoji-workflow](https://github.com/ai0/alfred-gitmoji-workflow) - 💥 A handy Alfred workflow to use gitmojis
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
+- [typefacts/alfred-special-characters](https://github.com/typefacts/alfred-special-characters) - Special Characters by Typefacts — An Alfred App Workflow
 - [wangshub/Alfred-Gitlab-Tool](https://github.com/wangshub/Alfred-Gitlab-Tool) - 🦊 Time saving: Alfred Gitlab workflow tool.
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
 - [corpnewt/Lilu-and-Friends](https://github.com/corpnewt/Lilu-and-Friends) - A python script that can download and build a number of kexts.
@@ -1344,6 +1344,7 @@
 
 ## Shell 
 
+- [notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn) - An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA
 - [plafonlinux/fedorazero_bash](https://github.com/plafonlinux/fedorazero_bash) - 
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky) - Make your standing desk smarter
