@@ -1264,6 +1264,7 @@
 
 ## Rust 
 
+- [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
