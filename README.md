@@ -623,7 +623,7 @@
 - [frdmn/alfred-imgur](https://github.com/frdmn/alfred-imgur) - 🎩 Alfred workflow to upload image files to Imgur
 - [artemgurzhii/TravisCI-Telegam-Bot](https://github.com/artemgurzhii/TravisCI-Telegam-Bot) - Telegram bot, which will notify you each time, when your travis ci build is done.
 - [toolmantim/tap-release](https://github.com/toolmantim/tap-release) - Automatically update Homebrew taps when you publish new GitHub releases
-- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans
+- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [drudge/tower-alfred-workflow](https://github.com/drudge/tower-alfred-workflow) - Quickly access your Tower 2 git repositories from Alfred 2
 - [samuelmeuli/github-downloads](https://github.com/samuelmeuli/github-downloads) - ⬇️ See the number of downloads next to releases on GitHub
