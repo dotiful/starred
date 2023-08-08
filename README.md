@@ -1543,7 +1543,7 @@
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, VS Code
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
 - [rogalmic/vscode-zsh-debug](https://github.com/rogalmic/vscode-zsh-debug) - Z shell debugger extension for VSCode (based on vscode-bash-debug + zshdb)
 - [yousefvand/shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
