@@ -539,7 +539,6 @@
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [The-OP/Fox](https://github.com/The-OP/Fox) - 
 - [yemreak/DarkCode-Theme](https://github.com/yemreak/DarkCode-Theme) - ༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ColinEspinas/darken](https://github.com/ColinEspinas/darken) - 🌑 Dark mode made easy
 - [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
@@ -728,7 +727,6 @@
 
 - [OtakuLinux/device_xiaomi_dandelion](https://github.com/OtakuLinux/device_xiaomi_dandelion) - 
 - [mklement0/strlen.awf](https://github.com/mklement0/strlen.awf) - An Alfred workflow that counts the number of characters and bytes in a string.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [oxyc/mac-playbook](https://github.com/oxyc/mac-playbook) - Mac setup and configuration via Ansible.
 
@@ -912,6 +910,7 @@
 - [merveilles/Time-Travelers](https://github.com/merveilles/Time-Travelers) - List of artists and hackers using homegrown time-tracking tools
 - [Acidham/forklift-folder](https://github.com/Acidham/forklift-folder) - Open Folder from Alfred in Forfklift
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
@@ -991,7 +990,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [avbor/HomeAssistantConfig](https://github.com/avbor/HomeAssistantConfig) - My Home Assistant Configuration. Feel free to :star: my repo if you found something useful here =)
-- [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame Gen2 Lidar robot vacuums with map support
+- [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
 - [smlight-dev/slzb-06-firmware](https://github.com/smlight-dev/slzb-06-firmware) - SLZB-06 firmware for the ESP32 main peripheral module
 - [AlexxIT/VacuumZones](https://github.com/AlexxIT/VacuumZones) - Control zone cleaning for Xiaomi vacuum cleaners from voice assistants and Home Assistant
 - [PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - This custom integration provides a way to present a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.
