@@ -1427,14 +1427,14 @@
 - [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms.
 - [3v1n0/zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
-- [b4b4r07/emoji-cli](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line
+- [babarot/emoji-cli](https://github.com/babarot/emoji-cli) - :scream: Emoji completion on the command line
 - [b0o/updoot](https://github.com/b0o/updoot) - 🎺 Unify the update process for your entire system
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [eli-schwartz/aurpublish](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository
 - [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for videos from my youtube channel
 - [katacoda/scenario-examples](https://github.com/katacoda/scenario-examples) - Collection of example Katacoda scenarios
 - [ronjouch/marathon](https://github.com/ronjouch/marathon) - minimal run-or-focus launcher for Linux/X
-- [jeff-hykin/better-shell-syntax](https://github.com/jeff-hykin/better-shell-syntax) - 💾 An improvement to the shell syntax for VS Code
+- [jeff-hykin/better-shell-syntax](https://github.com/jeff-hykin/better-shell-syntax) - 💾 📦 ♻️ An improvement to the shell syntax for VS Code
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [agura-lex/find-the-command](https://github.com/agura-lex/find-the-command) - Interactive command-not-found hook for bash and zsh, that uses pacman as a backend (BTW, this shit should be completely re-written as it's very ugly)
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
