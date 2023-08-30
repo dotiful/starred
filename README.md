@@ -287,6 +287,7 @@
 
 ## Go 
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [Elara6331/lure](https://github.com/Elara6331/lure) - Linux User REpository
 - [cabemo/godaddy-cli](https://github.com/cabemo/godaddy-cli) - A simple godaddy CLI to manage domains
 - [silenceshell/hcache](https://github.com/silenceshell/hcache) - showing top X biggest cache files global
