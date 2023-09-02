@@ -984,6 +984,7 @@
 
 ## Python 
 
+- [SebiAi/custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) - A repo containing scripts and tools for creating custom Nothing Glyph compositions.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
 - [jordip/prompt-generator-api](https://github.com/jordip/prompt-generator-api) - A simple prompt generator API for Stable Diffusion / Midjourney / Dall-e based in Python
