@@ -90,6 +90,7 @@
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [ZaWertun/gtk3-nocsd](https://github.com/ZaWertun/gtk3-nocsd) - A hack to disable gtk+ 3 client side decoration
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
@@ -394,6 +395,7 @@
 
 ## HTML 
 
+- [v00g100skr/ukraine_alarm_map](https://github.com/v00g100skr/ukraine_alarm_map) - прошивка для мапи тривог на основі ESP32
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [robole/vscode-snippets-ranger](https://github.com/robole/vscode-snippets-ranger) - View and edit all of your snippets in one purty place! Yee-haw!!
 - [reblim/fast](https://github.com/reblim/fast) - Develop, build, deploy, redeploy, and teardown frontend projects fast.
@@ -472,7 +474,6 @@
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
-- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [vegetableman/vandal](https://github.com/vegetableman/vandal) - Navigator for Web Archive
 - [benzino77/tasmocompiler](https://github.com/benzino77/tasmocompiler) - Web GUI for custom Tasmota compilation
