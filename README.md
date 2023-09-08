@@ -289,6 +289,7 @@
 
 ## Go 
 
+- [addozhang/alfred-safari-toolkit](https://github.com/addozhang/alfred-safari-toolkit) - Alfred workfow for search safari history.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [Elara6331/lure](https://github.com/Elara6331/lure) - Linux User REpository
 - [cabemo/godaddy-cli](https://github.com/cabemo/godaddy-cli) - A simple godaddy CLI to manage domains
@@ -772,6 +773,7 @@
 
 ## Others 
 
+- [dreamsofcode-io/tmux](https://github.com/dreamsofcode-io/tmux) - 
 - [zhenleiji/AlfredScrcpy](https://github.com/zhenleiji/AlfredScrcpy) - 
 - [bzick/oh-my-backend](https://github.com/bzick/oh-my-backend) - Что нужно знать бэкенд-разработчику web-приложений. Backend Roadmap (from Junior to Senior).
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
@@ -986,6 +988,7 @@
 
 ## Python 
 
+- [oldcai/CopyPublicKey](https://github.com/oldcai/CopyPublicKey) - 
 - [vegardinho/alfred_bluetooth_controller](https://github.com/vegardinho/alfred_bluetooth_controller) - Alfred workflow for managing bluetooth settings and -connections
 - [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine) - 🍷 Find the most refined emojis
 - [SebiAi/custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) - A repo containing scripts and tools for creating custom Nothing Glyph compositions.
@@ -1098,7 +1101,6 @@
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
 - [wayneyaoo/alfred-cheat](https://github.com/wayneyaoo/alfred-cheat) - Manage your self-defined cheat sheets & knowledge base in Alfred
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
-- [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [nevesnunes/sh-manpage-completions](https://github.com/nevesnunes/sh-manpage-completions) - Generate bash/zsh completions from man pages
@@ -1578,6 +1580,7 @@
 
 ## Swift 
 
+- [xilopaint/alfred-youtube](https://github.com/xilopaint/alfred-youtube) - Search YouTube from Alfred.
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [zero-sh/zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
@@ -1615,6 +1618,8 @@
 
 ## TypeScript 
 
+- [JXA-userland/JXA](https://github.com/JXA-userland/JXA) - JavaScript for Automation(JXA) packages for TypeScript/Node.js.
+- [stephancasas/jxa-ui-explorer](https://github.com/stephancasas/jxa-ui-explorer) - Discovery of JXA (osascript) UI Elements made easy.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, E
 - [dckiller51/lovelace-body-miscale-card](https://github.com/dckiller51/lovelace-body-miscale-card) - Card for data of Xiaomi scales in the Lovelace user interface of Home Assistant  The card is linked to the Bodymiscale custom components for Xiaomi scales. https://github.com/dckiller51/bodymiscale
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
