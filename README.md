@@ -588,7 +588,7 @@
 - [saadtazi/firefox-profile-js](https://github.com/saadtazi/firefox-profile-js) - Firefox Profile creation using nodejs and CLI
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [sven-piller/eslint-formatter-markdown](https://github.com/sven-piller/eslint-formatter-markdown) - Markdown reporter for eslint
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [thedevs-network/alfred-kutt](https://github.com/thedevs-network/alfred-kutt) - Alfred workflow for Kutt.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -773,6 +773,8 @@
 
 ## Others 
 
+- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
+- [Correia-jpv/fucking-quick-look-plugins](https://github.com/Correia-jpv/fucking-quick-look-plugins) - List of useful Quick Look plugins for developers. With repository stars⭐ and forks🍴
 - [dreamsofcode-io/tmux](https://github.com/dreamsofcode-io/tmux) - 
 - [zhenleiji/AlfredScrcpy](https://github.com/zhenleiji/AlfredScrcpy) - 
 - [bzick/oh-my-backend](https://github.com/bzick/oh-my-backend) - Что нужно знать бэкенд-разработчику web-приложений. Backend Roadmap (from Junior to Senior).
@@ -1580,6 +1582,7 @@
 
 ## Swift 
 
+- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [xilopaint/alfred-youtube](https://github.com/xilopaint/alfred-youtube) - Search YouTube from Alfred.
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [zero-sh/zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
