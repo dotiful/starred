@@ -1271,6 +1271,7 @@
 
 ## Rust 
 
+- [smudge/nightlight](https://github.com/smudge/nightlight) - A CLI for configuring "Night Shift" on macOS 🌕🌖🌗🌘🌑
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -1621,6 +1622,7 @@
 
 ## TypeScript 
 
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [JXA-userland/JXA](https://github.com/JXA-userland/JXA) - JavaScript for Automation(JXA) packages for TypeScript/Node.js.
 - [stephancasas/jxa-ui-explorer](https://github.com/stephancasas/jxa-ui-explorer) - Discovery of JXA (osascript) UI Elements made easy.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, E
