@@ -136,7 +136,7 @@
 ## C# # 
 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-- [a4004/n2d](https://github.com/a4004/n2d) - An easy to use ESP8266 flash tool with built-in support for the Deauther Project.
+- [adev4004/n2d](https://github.com/adev4004/n2d) - An easy to use ESP8266 flash tool with built-in support for the Deauther Project.
 - [GhostPack/KeeThief](https://github.com/GhostPack/KeeThief) - Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.
 - [MattMcManis/Glow](https://github.com/MattMcManis/Glow) - mpv Config File Generator for Windows
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
@@ -990,6 +990,8 @@
 
 ## Python 
 
+- [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [oldcai/CopyPublicKey](https://github.com/oldcai/CopyPublicKey) - 
 - [vegardinho/alfred_bluetooth_controller](https://github.com/vegardinho/alfred_bluetooth_controller) - Alfred workflow for managing bluetooth settings and -connections
 - [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine) - 🍷 Find the most refined emojis
