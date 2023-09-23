@@ -542,7 +542,7 @@
 - [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images) - Direct Google Images
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [The-OP/Fox](https://github.com/The-OP/Fox) - 
-- [yemreak/DarkCode-Theme](https://github.com/yemreak/DarkCode-Theme) - ༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
+- [yemreak/darkcode-theme-python](https://github.com/yemreak/darkcode-theme-python) - ༼ つ ◕_◕ ༽つ Dark - Light theme for cool coders 👩‍💻👨‍💻
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ColinEspinas/darken](https://github.com/ColinEspinas/darken) - 🌑 Dark mode made easy
 - [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
