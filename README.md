@@ -108,6 +108,7 @@
 - [baskerville/xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
 - [kyoto/sendkeys](https://github.com/kyoto/sendkeys) - Send key presses to open applications in X Windows (GNOME, KDE, Unity, etc.)
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+- [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -189,7 +190,6 @@
 - [psifidotos/applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
-- [Lurkki14/tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 - [marazmista/radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
@@ -1207,7 +1207,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [ArionMiles/Triton](https://github.com/ArionMiles/Triton) - GitHub notifications tracker for Telegram. Pushes GitHub notifications to Telegram.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
-- [Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
+- [nefelim4ag/systemd-swap](https://github.com/nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
 - [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
