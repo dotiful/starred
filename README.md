@@ -91,6 +91,7 @@
 - [ZaWertun/gtk3-nocsd](https://github.com/ZaWertun/gtk3-nocsd) - A hack to disable gtk+ 3 client side decoration
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
+- [benzino77/tasmocompiler](https://github.com/benzino77/tasmocompiler) - Web GUI for custom Tasmota compilation
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
@@ -377,7 +378,6 @@
 - [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app) - Use Alfred to quickly open notes in iCloud/Apple Notes.
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [AnalogJ/drawbridge](https://github.com/AnalogJ/drawbridge) - manage SSH access to multiple applications/environments protected by bastion servers
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [AnalogJ/capsulecd](https://github.com/AnalogJ/capsulecd) - Continuous Delivery for automating package releases (npm, cookbooks, gems, pip, jars, etc)
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
@@ -479,7 +479,6 @@
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [vegetableman/vandal](https://github.com/vegetableman/vandal) - Navigator for Web Archive
-- [benzino77/tasmocompiler](https://github.com/benzino77/tasmocompiler) - Web GUI for custom Tasmota compilation
 - [jmlntw/google-search-region](https://github.com/jmlntw/google-search-region) - A user script that lets you quickly switch Google search to different region.
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
@@ -585,7 +584,6 @@
 - [devSchacht/translations](https://github.com/devSchacht/translations) - Переводы от devSchacht
 - [idleberg/atom-build-homebrew](https://github.com/idleberg/atom-build-homebrew) - Atom Build provider for Homebrew formulas
 - [DevUnltd/js-library-boilerplate](https://github.com/DevUnltd/js-library-boilerplate) - Javascript Starter Boilerplate - Webpack 4, Babel 7, UMD, Hot Reloading, and more
-- [antonmedv/eat](https://github.com/antonmedv/eat) - Eats anything, spits out JSON 🧀
 - [saadtazi/firefox-profile-js](https://github.com/saadtazi/firefox-profile-js) - Firefox Profile creation using nodejs and CLI
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [sven-piller/eslint-formatter-markdown](https://github.com/sven-piller/eslint-formatter-markdown) - Markdown reporter for eslint
@@ -1558,7 +1556,7 @@
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, Cursor
 - [rogalmic/vscode-zsh-debug](https://github.com/rogalmic/vscode-zsh-debug) - Z shell debugger extension for VSCode (based on vscode-bash-debug + zshdb)
 - [yousefvand/shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -1672,7 +1670,6 @@
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [ExplainDev/kmdr-cli](https://github.com/ExplainDev/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [Kruemelkatze/vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
-- [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
 - [bodil/vscode-init-script](https://github.com/bodil/vscode-init-script) - Programmatic configuration for VS Code
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
