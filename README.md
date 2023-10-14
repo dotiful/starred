@@ -35,6 +35,7 @@
 - [M4](#m4)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [NWScript](#nwscript)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -739,6 +740,10 @@
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## NWScript 
+
+- [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 
 ## OCaml 
 
@@ -1587,6 +1592,7 @@
 
 ## Swift 
 
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [xilopaint/alfred-youtube](https://github.com/xilopaint/alfred-youtube) - Search YouTube from Alfred.
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
