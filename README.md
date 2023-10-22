@@ -176,7 +176,7 @@
 - [tobimensch/aqemu](https://github.com/tobimensch/aqemu) - Official AQEMU repository - a GUI for virtual machines using QEMU as the backend
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
-- [Ximi1970/systray-x](https://github.com/Ximi1970/systray-x) - SysTray-X: A system tray extension for Thunderbird. Needs both the addon AND the companion app installed to work. Will not work with full wayland desktops or TB flatpaks or snaps.
+- [Ximi1970/systray-x](https://github.com/Ximi1970/systray-x) - SysTray-X: A system tray extension for Thunderbird. Needs both the addon AND the companion app installed to work. Will not work with TB flatpaks or snaps.
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
