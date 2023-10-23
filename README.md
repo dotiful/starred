@@ -695,7 +695,7 @@
 
 ## Jupyter Notebook 
 
-- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
+- [wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic) - 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 
 ## Kotlin 
 
@@ -826,7 +826,7 @@
 - [dpkristensen/udev-rules](https://github.com/dpkristensen/udev-rules) - vscode syntax highlighting for udev rules
 - [evandroforks/VimL](https://github.com/evandroforks/VimL) - VimL Package for Sublime Text.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
 - [kufii/vscode-userscript](https://github.com/kufii/vscode-userscript) - UserScript language support for VS Code
 - [mosbasik/sxhkdrc-syntax](https://github.com/mosbasik/sxhkdrc-syntax) - Syntax definition for the sxhkd configuration file for Visual Studio Code.
