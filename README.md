@@ -502,7 +502,7 @@
 - [chocolateboy/gm-storage](https://github.com/chocolateboy/gm-storage) - An ES6 Map wrapper for the synchronous userscript storage API
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [all-contributors/cli](https://github.com/all-contributors/cli) - Tool to help automate adding contributor acknowledgements according to the all-contributors specification  ✨
-- [learnbyexample/learn_js_regexp](https://github.com/learnbyexample/learn_js_regexp) - Example based guide to mastering JavaScript regexp
+- [learnbyexample/learn_js_regexp](https://github.com/learnbyexample/learn_js_regexp) - Learn JavaScript Regular Expressions step-by-step from beginner to advanced levels with hundreds of examples and exercises.
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [y252328/Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button) - Add download button to download media in the post and the story in Instagram
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
