@@ -415,7 +415,7 @@
 - [minSW/fzf-color-picker](https://github.com/minSW/fzf-color-picker) - Web Color Picker for fzf custom color scheme
 - [selfrefactor/services](https://github.com/selfrefactor/services) - Holder of multiple npm packages
 - [schomery/privacy-settings](https://github.com/schomery/privacy-settings) - Alter Firefox's built-in privacy settings easily with a toolbar panel
-- [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - A tool to create firefox profiles with personalized defaults.
+- [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 - [DevUnltd/js-library-boilerplate-basic](https://github.com/DevUnltd/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
@@ -998,6 +998,7 @@
 
 ## Python 
 
+- [ronaldstoner/AppleJuice-ESP32](https://github.com/ronaldstoner/AppleJuice-ESP32) - Apple BLE proximity pairing message spoofing for the ESP32
 - [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [oldcai/CopyPublicKey](https://github.com/oldcai/CopyPublicKey) - 
