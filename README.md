@@ -403,7 +403,6 @@
 
 - [v00g100skr/ukraine_alarm_map](https://github.com/v00g100skr/ukraine_alarm_map) - прошивка для мапи тривог на основі ESP32
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [robole/vscode-snippets-ranger](https://github.com/robole/vscode-snippets-ranger) - View and edit all of your snippets in one purty place! Yee-haw!!
 - [reblim/fast](https://github.com/reblim/fast) - Develop, build, deploy, redeploy, and teardown frontend projects fast.
 - [Zren/zren.github.io](https://github.com/Zren/zren.github.io) - 
 - [secuvera/SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
@@ -493,6 +492,7 @@
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [brucebentley/vscode-recipes](https://github.com/brucebentley/vscode-recipes) - A collection of recipes for using Visual Studio Code with particular technologies.
 - [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) - Some scripts for KWin
+- [robole/vscode-snippets-ranger](https://github.com/robole/vscode-snippets-ranger) - View and edit all of your snippets in one purty place! Yee-haw!!
 - [k08045kk/CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl) - 
 - [captainbrosset/devtools-highlighter](https://github.com/captainbrosset/devtools-highlighter) - DevTools extension that finds and highlights elements in the page
 - [frontender-training/keksobooking-baseJS](https://github.com/frontender-training/keksobooking-baseJS) - Личный проект «Кексобукинг» с интенсива «Базовый JavaScript» от HTMLAcademy
