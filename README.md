@@ -993,6 +993,8 @@
 
 ## Python 
 
+- [n0a/telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) - Get IP address on other side audio call in Telegram.
+- [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) - Немного о ядре Linux
 - [ronaldstoner/AppleJuice-ESP32](https://github.com/ronaldstoner/AppleJuice-ESP32) - Apple BLE proximity pairing message spoofing for the ESP32
 - [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
