@@ -456,7 +456,7 @@
 ## JavaScript 
 
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [kvazis/training](https://github.com/kvazis/training) - 
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -591,7 +591,6 @@
 - [saadtazi/firefox-profile-js](https://github.com/saadtazi/firefox-profile-js) - Firefox Profile creation using nodejs and CLI
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [sven-piller/eslint-formatter-markdown](https://github.com/sven-piller/eslint-formatter-markdown) - Markdown reporter for eslint
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [thedevs-network/alfred-kutt](https://github.com/thedevs-network/alfred-kutt) - Alfred workflow for Kutt.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -696,6 +695,7 @@
 
 ## Kotlin 
 
+- [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 - [dogbin/dogbin](https://github.com/dogbin/dogbin) - The sexiest pastebin and url shortener ever
 - [michaldrabik/showly-2.0](https://github.com/michaldrabik/showly-2.0) - Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -1695,6 +1695,7 @@
 - [SimonAlling/userscripter](https://github.com/SimonAlling/userscripter) - Create userscripts in a breeze!
 - [Cloudstek/alfred-hugo](https://github.com/Cloudstek/alfred-hugo) - Alfred workflow bindings for NodeJS
 - [Cloudstek/alfred-atom](https://github.com/Cloudstek/alfred-atom) - Alfred workflow to browse and open Atom projects
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [fabiospampinato/bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
 - [pranaygp/vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
 - [pouyakary/comment](https://github.com/pouyakary/comment) - A KFCS plugin for Visual Studio Code, So that you can shape anything into KFCS section comment with just ⌘y and ⌘l
