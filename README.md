@@ -114,7 +114,6 @@
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) - Performance monitoring tools for Linux
-- [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [getdnsapi/getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -1479,6 +1478,7 @@
 - [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) - maybe the best AdGuardHome luci for openwrt
 - [microsoft/vscode-figma-toolkit](https://github.com/microsoft/vscode-figma-toolkit) - A Figma design toolkit for Visual Studio Code
+- [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [Andrej-Antipov/MountEFI](https://github.com/Andrej-Antipov/MountEFI) - Some shell scripts  for quickly searching and mounting EFI / ESP partitions on Mac OS 10.9 - 13.0
 - [Andrej-Antipov/SpiraMira-HybridMode-Patcher](https://github.com/Andrej-Antipov/SpiraMira-HybridMode-Patcher) - The script program to easy apply SpiraMira Hybrid Mode fo Mojave Interface
 - [staz0t/hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically
