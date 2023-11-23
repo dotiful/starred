@@ -399,6 +399,7 @@
 
 ## HTML 
 
+- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [v00g100skr/ukraine_alarm_map](https://github.com/v00g100skr/ukraine_alarm_map) - прошивка для мапи тривог на основі ESP32
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [reblim/fast](https://github.com/reblim/fast) - Develop, build, deploy, redeploy, and teardown frontend projects fast.
