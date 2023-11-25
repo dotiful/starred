@@ -90,7 +90,7 @@
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [ZaWertun/gtk3-nocsd](https://github.com/ZaWertun/gtk3-nocsd) - A hack to disable gtk+ 3 client side decoration
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.
+- [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Element Plus.
 - [benzino77/tasmocompiler](https://github.com/benzino77/tasmocompiler) - Web GUI for custom Tasmota compilation
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
@@ -1368,7 +1368,7 @@
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky) - Make your standing desk smarter
 - [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - 🏡 My smart home server setup built on top of Ubuntu, Docker, Home Assistant, Servarr, etc
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [saint-13/Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers) - Dynamic Wallpapers for Linux
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [hyperion-project/HyperBian](https://github.com/hyperion-project/HyperBian) - Hyperion pre installed on Raspberry Pi OS Lite
@@ -1653,7 +1653,7 @@
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
-- [VChet/telegram-vanilla-dark-desktop](https://github.com/VChet/telegram-vanilla-dark-desktop) - Dark Theme for Telegram Desktop
+- [VChet/telegram-vanilla-dark-desktop](https://github.com/VChet/telegram-vanilla-dark-desktop) - Dark theme for Telegram Desktop
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [oe/download-git-userscript](https://github.com/oe/download-git-userscript) - download github repo or directory via one-click
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
