@@ -441,6 +441,7 @@
 
 ## Java 
 
+- [abrenoch/hyperion-android-grabber](https://github.com/abrenoch/hyperion-android-grabber) - Screen grabber for hyperion
 - [stryker-project/app](https://github.com/stryker-project/app) - Magic tool for pentest from your android device!
 - [Regenerate38/RicerKit](https://github.com/Regenerate38/RicerKit) - An android app to browse KDE Store and other Linux Desktop Environment stores of Pling
 - [SmartPack/SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Source code of SmartPack-Kernel Manager, the Ultimate Tool to Manage your Kernel
@@ -455,6 +456,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [kvazis/training](https://github.com/kvazis/training) - 
