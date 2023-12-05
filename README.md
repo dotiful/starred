@@ -906,7 +906,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [chris1111/HP-Probook-EliteBook-Package-Creator](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator) - Main Forum
 - [chris1111/Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover) - Visit BLOG : https://com-chris1111.github.io
-- [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [trimstray/linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [kleber-swf/vscode-ocean-dark-extended-theme](https://github.com/kleber-swf/vscode-ocean-dark-extended-theme) - Available on VS Code Marketplace
