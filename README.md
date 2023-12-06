@@ -156,6 +156,7 @@
 
 ## C++ 
 
+- [awawa-dev/HyperSPI](https://github.com/awawa-dev/HyperSPI) - HyperHDR bridge using SPI bus. Connects Raspberry Pi with a generic ESP32/ESP8266 to control a LED strip. Fasted possible cable solution for external ESP LED driver. Data integration check included.
 - [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).
 - [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32
 - [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng) - The successor to Hyperion aka Hyperion Next Generation
