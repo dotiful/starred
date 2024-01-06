@@ -1047,7 +1047,6 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [plamere/SmarterPlaylists](https://github.com/plamere/SmarterPlaylists) - web app for creating sophisticated playlists
 - [mschwager/fierce](https://github.com/mschwager/fierce) - A DNS reconnaissance tool for locating non-contiguous IP space.
-- [drygdryg/OneShot](https://github.com/drygdryg/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
 - [LaurenceRawlings/savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art!
 - [Gameye98/Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
 - [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
