@@ -867,7 +867,6 @@
 - [yadox666/The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
 - [emily-curry/base16-tomorrow-dark-vscode](https://github.com/emily-curry/base16-tomorrow-dark-vscode) - A VS Code theme based on Atom's base16-tomorrow-dark
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [hl2guide/All-in-One-Customized-Adblock-List](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube 
 - [eutialia/open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from Alfred or Raycast
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
@@ -1002,6 +1001,7 @@
 
 ## Python 
 
+- [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [n0a/telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) - Get IP address on other side audio call in Telegram.
 - [proninyaroslav/linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru) - Немного о ядре Linux
 - [ronaldstoner/AppleJuice-ESP32](https://github.com/ronaldstoner/AppleJuice-ESP32) - Apple BLE proximity pairing message spoofing for the ESP32
@@ -1508,6 +1508,7 @@
 - [tj/n](https://github.com/tj/n) - Node version management
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [jaroslawhartman/TimeZones-Alfred](https://github.com/jaroslawhartman/TimeZones-Alfred) - Alfred Workflow
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
 - [andrewferrier/fzf-z](https://github.com/andrewferrier/fzf-z) - Plugin for zsh to integrate fzf and various 'frecency' plugins, including z.sh - enables easy switching between recent dirs in zsh
@@ -1570,7 +1571,6 @@
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, Cursor
 - [rogalmic/vscode-zsh-debug](https://github.com/rogalmic/vscode-zsh-debug) - Z shell debugger extension for VSCode (based on vscode-bash-debug + zshdb)
 - [yousefvand/shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
@@ -1738,6 +1738,7 @@
 - [chocolatey-community/chocolatey-vscode](https://github.com/chocolatey-community/chocolatey-vscode) - Chocolatey Extension for Visual Studio Code
 - [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
+- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [rubymaniac/vscode-paste-and-indent](https://github.com/rubymaniac/vscode-paste-and-indent) - Paste and Indent functionality for VSCode
