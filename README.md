@@ -584,7 +584,6 @@
 - [Mottie/Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!
 - [fiatjaf/module-linker](https://github.com/fiatjaf/module-linker) - browse modules by clicking directly on "import" statements on GitHub
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [psaegert/startpage](https://github.com/psaegert/startpage) - Startpage
@@ -1499,6 +1498,7 @@
 - [pawelduda/fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
 - [dsifford/yarn-completion](https://github.com/dsifford/yarn-completion) - Bash completion for Yarn
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
