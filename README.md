@@ -998,6 +998,7 @@
 
 ## Python 
 
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
 - [kvoloshenko/GPT_RAG_01](https://github.com/kvoloshenko/GPT_RAG_01) - ChatGPT and RAG (Retrieval-Augmented Generation)
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [n0a/telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) - Get IP address on other side audio call in Telegram.
