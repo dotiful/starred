@@ -481,7 +481,7 @@
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [KinoLien/gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.
-- [robole/vscode-javascript-extensions](https://github.com/robole/vscode-javascript-extensions) - VS Code extension examples written in in JavaScript
+- [robole/vscode-javascript-extensions](https://github.com/robole/vscode-javascript-extensions) - Example VS Code extensions written in JavaScript
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [egomobile/vscode-powertools](https://github.com/egomobile/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
 - [soufianesakhi/firefox-search-engines-helper](https://github.com/soufianesakhi/firefox-search-engines-helper) - Export, import and add custom firefox search engines
@@ -935,6 +935,7 @@
 - [odeskconf/guide](https://github.com/odeskconf/guide) - Гайд сообщества OdeskConf о тонкостях работы на Upwork
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [jpagano/wordpress-vscode-extensionpack](https://github.com/jpagano/wordpress-vscode-extensionpack) - A collection of extensions for working with WordPress sites in VS Code
+- [microsoft/live-share](https://github.com/microsoft/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [angristan/arch-linux-install](https://github.com/angristan/arch-linux-install) - My Arch Linux installation notes
 - [dorianpro/kali-linux-wallpapers](https://github.com/dorianpro/kali-linux-wallpapers) - A set of dedicated Kali Linux* wallpapers which I'm going to update regularly. They all done using GIMP and other GNU/Linux/FOSS.
@@ -993,7 +994,6 @@
 - [lukesampson/concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
-- [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [chocolatey/boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 
 ## Python 
