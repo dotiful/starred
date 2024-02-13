@@ -288,6 +288,7 @@
 
 ## Elixir 
 
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Elm 
@@ -609,7 +610,7 @@
 - [kevinoid/userscript-template](https://github.com/kevinoid/userscript-template) - A userscript (viz. Greasemonkey/Tampermonkey/Violentmonkey script) project template with codecov, coveralls, ESLint, github_changelog_generator, istanbul, JSDoc, and mocha.
 - [tziporaziegler/GitHubTopBar](https://github.com/tziporaziegler/GitHubTopBar) - A userscript for styling the GitHub top-bar
 - [soscripted/sox](https://github.com/soscripted/sox) - Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
-- [samliew/SO-mod-userscripts](https://github.com/samliew/SO-mod-userscripts) - Stack Overflow Moderation Userscripts - pull requests welcome
+- [samliew/SO-mod-userscripts](https://github.com/samliew/SO-mod-userscripts) - Stack Overflow Moderation Userscripts
 - [stackuserflow/stackoverflow-tampermonkey-greasemonkey](https://github.com/stackuserflow/stackoverflow-tampermonkey-greasemonkey) - Série de scripts prontos para usar nos sites da rede Stack Exchange quanto para facilitar os desenvolvimento
 - [daviduuang/ini-for-vscode](https://github.com/daviduuang/ini-for-vscode) - Provide outline view and section folding for INI file.
 - [bit2pixel/chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
@@ -700,6 +701,7 @@
 
 ## Jinja 
 
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [hassio-addons/addon-emqx](https://github.com/hassio-addons/addon-emqx) - EMQX - Home Assistant Community Add-ons
 - [pigmonkey/spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 
