@@ -1759,7 +1759,7 @@
 - [hangxingliu/vscode-nginx-conf-hint](https://github.com/hangxingliu/vscode-nginx-conf-hint) - :pencil: VS Code extension: Nginx config file hint(auto-completion)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
+- [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
 
 ## Vim Script 
