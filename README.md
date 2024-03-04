@@ -130,7 +130,7 @@
 - [master131/BlockTheSpot](https://github.com/master131/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify. This project has been superceded by SpotX: https://github.com/SpotX-CLI/SpotX-Win
 - [pepe2k/u-boot_mod](https://github.com/pepe2k/u-boot_mod) - U-Boot 1.1.4 modification for routers
 - [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
-- [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) - Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to J
+- [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) - A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper.
 - [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [linuxmint/nemo](https://github.com/linuxmint/nemo) - File browser for Cinnamon
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
