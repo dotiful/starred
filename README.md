@@ -1653,7 +1653,7 @@
 
 ## TypeScript 
 
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [JXA-userland/JXA](https://github.com/JXA-userland/JXA) - JavaScript for Automation(JXA) packages for TypeScript/Node.js.
 - [stephancasas/jxa-ui-explorer](https://github.com/stephancasas/jxa-ui-explorer) - Discovery of JXA (osascript) UI Elements made easy.
