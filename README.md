@@ -810,7 +810,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
 - [grem11n/awesome-it-communities-ua](https://github.com/grem11n/awesome-it-communities-ua) - Awesome Ukrainian IT Communities
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [yengoteam/awesome-gha-snippets](https://github.com/yengoteam/awesome-gha-snippets) - 🤯 A list of useful snippets and tips for GitHub Actions (GHA).
 - [Ignitetechnologies/Nmap-For-Pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester) - This cheatsheet was created to assist Red Teamers and Penetration Testers in hunting down vulnerabilities using "Nmap."
@@ -1408,6 +1407,7 @@
 - [sheepla/fzpac](https://github.com/sheepla/fzpac) - 🔎 Arch Linux package finder with fzf
 - [abourdon/shprofile](https://github.com/abourdon/shprofile) - Manage several shell profiles and switch between them.
 - [tete1030/openwrt-fastbuild-actions](https://github.com/tete1030/openwrt-fastbuild-actions) - FAST building OpenWrt with Github Actions and Docker!
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [setaur/kdec-share.sh](https://github.com/setaur/kdec-share.sh) - Script intended to run on linux HTPC alongside KDE Connect. It will show any media shared on mobile with KDE Connect App on PC fullscreen.
 - [Teraskull/bigsur-grub2-theme](https://github.com/Teraskull/bigsur-grub2-theme) - A Grub2 Bootloader Theme, compatible with Ventoy.
