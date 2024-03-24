@@ -1019,7 +1019,7 @@
 - [oldcai/CopyPublicKey](https://github.com/oldcai/CopyPublicKey) - 
 - [vegardinho/alfred_bluetooth_controller](https://github.com/vegardinho/alfred_bluetooth_controller) - Alfred workflow for managing bluetooth settings and -connections
 - [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine) - 🍷 Find the most refined emojis
-- [v00g100skr/ukraine_alarm_map](https://github.com/v00g100skr/ukraine_alarm_map) - прошивка для мапи тривог на основі ESP32
+- [J-A-A-M/ukraine_alarm_map](https://github.com/J-A-A-M/ukraine_alarm_map) - прошивка для мапи тривог на основі ESP32
 - [SebiAi/custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) - A repo containing scripts and tools for creating custom Nothing Glyph compositions.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
