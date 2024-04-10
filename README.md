@@ -475,7 +475,7 @@
 - [maurges/dynamic_workspaces](https://github.com/maurges/dynamic_workspaces) - A kwin script that creates and deletes desktops as you move windows on the last one
 - [ilyhalight/voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 - [sacredneobi/DurgerKingBot](https://github.com/sacredneobi/DurgerKingBot) - Иинтернет магазин @durgerkingbot telegram бота https://t.me/SacredDev
-- [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio for Google Apps Script
+- [tani/cheeriogs](https://github.com/tani/cheeriogs) - Cheerio/ jQuery for Google Apps Script
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [odditive/heroku-node-telegram-bot](https://github.com/odditive/heroku-node-telegram-bot) - Starter pack for running telegram bot on the Heroku using Node.js
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
