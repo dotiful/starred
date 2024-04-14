@@ -1651,6 +1651,7 @@
 
 ## TypeScript 
 
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [coderaidershaun/chatbot-conversation-jarvis](https://github.com/coderaidershaun/chatbot-conversation-jarvis) - Chatbot which communicates with voice
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
