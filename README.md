@@ -313,6 +313,7 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [shellbear/web-watcher](https://github.com/shellbear/web-watcher) - A discord bot which monitor and send alerts on website changes.
 - [xDWart/mqtg-bot](https://github.com/xDWart/mqtg-bot) - MQTT Client Telegram Bot
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [xyproto/gendesk](https://github.com/xyproto/gendesk) - :herb: Generate .desktop files and download .png icons by specifying a minimum of information
 - [uetchy/gst](https://github.com/uetchy/gst) - 👻 Supercharge your ghq workflow.
@@ -465,6 +466,7 @@
 
 ## JavaScript 
 
+- [khanh8910/memefi_miner](https://github.com/khanh8910/memefi_miner) - Mining Memefi on web browser
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
@@ -774,6 +776,7 @@
 - [macmade/GitHubUpdates](https://github.com/macmade/GitHubUpdates) - Cocoa framework to install application updates from GitHub releases.
 - [MuntashirAkon/DPCIManager](https://github.com/MuntashirAkon/DPCIManager) - Simple OS X app for viewing PCI hardware info
 - [MuntashirAkon/AdvanceKextUpdater](https://github.com/MuntashirAkon/AdvanceKextUpdater) - Keep your kexts up-to-date all the time starting from macOS 10.7
+- [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [Bensge/NativeDisplayBrightness](https://github.com/Bensge/NativeDisplayBrightness) - macOS display brightness utility for external monitors with a native UI.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [jbtule/cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
@@ -805,7 +808,6 @@
 - [appath/SublimeTextPortable](https://github.com/appath/SublimeTextPortable) - The sophisticated text editor for code, markup and prose.
 - [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action) - Install prerequisites for building Manjaro on ubuntu
 - [dadosch/barrier-android](https://github.com/dadosch/barrier-android) - 
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
 - [grem11n/awesome-it-communities-ua](https://github.com/grem11n/awesome-it-communities-ua) - Awesome Ukrainian IT Communities
@@ -1004,6 +1006,7 @@
 
 ## Python 
 
+- [shamhi/MemeFiBot](https://github.com/shamhi/MemeFiBot) - Bot that mines coins in MemeFiCoin
 - [austintraver/warp-theme](https://github.com/austintraver/warp-theme) - 
 - [BrasD99/HeyGenClone](https://github.com/BrasD99/HeyGenClone) - A simple and open-source analogue of the HeyGen system
 - [nitred/nr-wg-mtu-finder](https://github.com/nitred/nr-wg-mtu-finder) - 
@@ -1625,7 +1628,6 @@
 - [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
 - [ninxsoft/MacUserGenerator](https://github.com/ninxsoft/MacUserGenerator) - A Mac utility that assists in automating the creation of macOS User Accounts.
 - [macmade/Console](https://github.com/macmade/Console) - OS X console application.
-- [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [macmade/Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS.
 - [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
