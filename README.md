@@ -36,6 +36,7 @@
 - [M4](#m4)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -87,6 +88,7 @@
 
 ## C 
 
+- [ivan-rio/ha_deck_cyd](https://github.com/ivan-rio/ha_deck_cyd) - Home Assistant Deck CYD Component
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [ZaWertun/gtk3-nocsd](https://github.com/ZaWertun/gtk3-nocsd) - A hack to disable gtk+ 3 client side decoration
@@ -289,7 +291,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Elm 
@@ -754,6 +756,10 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Nix 
+
+- [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) - A pack of GRUB2 themes for each Linux distribution
+
 ## OCaml 
 
 - [twang817/zshprofile](https://github.com/twang817/zshprofile) - 
@@ -804,7 +810,6 @@
 - [kix/reverse-interview](https://github.com/kix/reverse-interview) - Questions to ask the company during your interview
 - [nico-castell/desktop-file-support](https://github.com/nico-castell/desktop-file-support) - Add support for .desktop files in VS Code.
 - [AkmarNafi/comment-headers](https://github.com/AkmarNafi/comment-headers) - Comment headers for VS Code
-- [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) - A pack of GRUB2 themes for each Linux distribution
 - [appath/SublimeTextPortable](https://github.com/appath/SublimeTextPortable) - The sophisticated text editor for code, markup and prose.
 - [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action) - Install prerequisites for building Manjaro on ubuntu
 - [dadosch/barrier-android](https://github.com/dadosch/barrier-android) - 
