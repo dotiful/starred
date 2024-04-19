@@ -88,6 +88,7 @@
 
 ## C 
 
+- [Mozer/talk-llama-fast](https://github.com/Mozer/talk-llama-fast) - Port of OpenAI's Whisper model in C/C++ with xtts and wav2lip
 - [ivan-rio/ha_deck_cyd](https://github.com/ivan-rio/ha_deck_cyd) - Home Assistant Deck CYD Component
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
