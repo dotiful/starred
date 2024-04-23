@@ -469,6 +469,7 @@
 
 ## JavaScript 
 
+- [twilio-labs/call-gpt](https://github.com/twilio-labs/call-gpt) - Generative AI phone call toolkit
 - [khanh8910/memefi_miner](https://github.com/khanh8910/memefi_miner) - Mining Memefi on web browser
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
@@ -796,6 +797,7 @@
 
 ## Others 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
 - [shmulvad/alfred-nightshift](https://github.com/shmulvad/alfred-nightshift) - A simple Alfred workflow for quickly turning on/off Night Shift or setting it to a custom value.
 - [translaster/Definitive-Guide-5th-Edition](https://github.com/translaster/Definitive-Guide-5th-Edition) - Перевод замечательной книги Asterisk™: Полное руководство, 5-е издание
