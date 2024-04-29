@@ -797,7 +797,6 @@
 
 ## Others 
 
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
 - [shmulvad/alfred-nightshift](https://github.com/shmulvad/alfred-nightshift) - A simple Alfred workflow for quickly turning on/off Night Shift or setting it to a custom value.
 - [translaster/Definitive-Guide-5th-Edition](https://github.com/translaster/Definitive-Guide-5th-Edition) - Перевод замечательной книги Asterisk™: Полное руководство, 5-е издание
