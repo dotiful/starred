@@ -1014,6 +1014,7 @@
 
 ## Python 
 
+- [clemlesne/call-center-ai](https://github.com/clemlesne/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [shamhi/MemeFiBot](https://github.com/shamhi/MemeFiBot) - Bot that mines coins in MemeFiCoin
 - [austintraver/warp-theme](https://github.com/austintraver/warp-theme) - 
