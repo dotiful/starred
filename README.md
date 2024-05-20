@@ -429,7 +429,7 @@
 - [schomery/privacy-settings](https://github.com/schomery/privacy-settings) - Alter Firefox's built-in privacy settings easily with a toolbar panel
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 - [DevUnltd/js-library-boilerplate-basic](https://github.com/DevUnltd/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [javascript-tutorial/ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [ttscoff/KeyBindings](https://github.com/ttscoff/KeyBindings) - DefaultKeybindings.dict for Mac OS X
