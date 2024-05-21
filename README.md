@@ -246,7 +246,7 @@
 - [AfroThundr3007730/MDN-Dark](https://github.com/AfroThundr3007730/MDN-Dark) - Dark theme for the Mozilla Developer Network
 - [CharlieEtienne/material-github](https://github.com/CharlieEtienne/material-github) - A Material Dark Theme for GitHub
 - [Wondermarin/VDARK](https://github.com/Wondermarin/VDARK) - Perhaps the best dark theme for VK
-- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [RaitaroH/Stylus-DeepDark](https://github.com/RaitaroH/Stylus-DeepDark) - Write thy themes in the dark. May the dark be kinder on thine eyes. (Stylus dark theme)
 - [Izheil/Dark-userstyles](https://github.com/Izheil/Dark-userstyles) - Dark userCSS styles to use with Stylus addon.
@@ -554,7 +554,7 @@
 - [michaelmob/kwin-quick-tile-enhancements](https://github.com/michaelmob/kwin-quick-tile-enhancements) - Enhancements for the KWin Quick Tile feature.
 - [maple3142/browser-extensions](https://github.com/maple3142/browser-extensions) - 我的一些 userjs & usercss
 - [shellscape/prettier-plugin-package](https://github.com/shellscape/prettier-plugin-package) - An opinionated package.json formatter plugin for Prettier
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [Jack89ita/vscode-open-file-from-path](https://github.com/Jack89ita/vscode-open-file-from-path) - Simple plugin for VS Code that allows you to quickly open file starting from path string.
 - [idank/showthedocs](https://github.com/idank/showthedocs) - 
 - [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts) - A collection of user scripts for StackExchange sites
