@@ -565,7 +565,7 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ColinEspinas/darken](https://github.com/ColinEspinas/darken) - 🌑 Dark mode made easy
 - [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
-- [bizarro/bruno-arizio](https://github.com/bizarro/bruno-arizio) - :art: Bruno Arizio portfolio.
+- [bizarro/bruno-arizio](https://github.com/bizarro/bruno-arizio) - Bruno Arizio's 2019 portfolio.
 - [joshuatvernon/cbf](https://github.com/joshuatvernon/cbf) - CBF  🦥is a simple CLI tool for developers who can't be f#@!'d learning or remembering all the commands they have to run day to day or just in a specific repo
 - [sizzlemctwizzle/GM_config](https://github.com/sizzlemctwizzle/GM_config) - A lightweight, reusable, cross-browser graphical settings framework for inclusion in user scripts.
 - [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
