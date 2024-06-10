@@ -903,6 +903,7 @@
 - [athlonreg/Common-patches-for-hackintosh](https://github.com/athlonreg/Common-patches-for-hackintosh) - 黑苹果常用的补丁
 - [ImmersiveX/clover-theme-minimal-dark](https://github.com/ImmersiveX/clover-theme-minimal-dark) - dark version of minimal clover theme with a few tweaks
 - [corpnewt/Hackintosh-Tips-And-Tricks](https://github.com/corpnewt/Hackintosh-Tips-And-Tricks) - A collection of things I've learned about Hackintosh - Hopefully it helps others!
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [notpeter/apple-installer-checksums](https://github.com/notpeter/apple-installer-checksums) - Checksums of Mac OSX installer DMGs
 - [marta-file-manager/marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
 - [acidanthera/IOJones](https://github.com/acidanthera/IOJones) - Realtime I/O Registry viewer
@@ -1197,7 +1198,6 @@
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [corpnewt/USBMap](https://github.com/corpnewt/USBMap) - Python script for mapping USB ports in macOS and creating a custom injector kext.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [corpnewt/EFI-Backup-Restore](https://github.com/corpnewt/EFI-Backup-Restore) - A smallish script that can backup EFI partitions - and eventually restore them (hopefully).
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [MagerValp/AutoDMG](https://github.com/MagerValp/AutoDMG) - Create deployable system images from OS X installer
