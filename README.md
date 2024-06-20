@@ -1612,6 +1612,7 @@
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
 - [fsquillace/buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
 - [tubbo/homer](https://github.com/tubbo/homer) - The home directory management tool.
+- [lararosekelley/dotfiles](https://github.com/lararosekelley/dotfiles) - My dotfiles, meant for use with a Bash shell
 - [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
 - [MaxMEllon/.dotfiles](https://github.com/MaxMEllon/.dotfiles) - :wrench: my configuration files ( .zshrc , .tmux.conf , etc... )
 
@@ -1788,7 +1789,6 @@
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - ⚠️ Deprecated! I’ve moved all my config to Nix+NixOS+Home Manager, and that repo is not currently public.
 - [motemen/dotfiles](https://github.com/motemen/dotfiles) - My dotfiles
-- [lararosekelley/dotfiles](https://github.com/lararosekelley/dotfiles) - My dotfiles, meant for use with a Bash shell
 - [trapd00r/configs](https://github.com/trapd00r/configs) - My ~/etc - configs, dotfiles
 - [dylanaraps/dotfiles](https://github.com/dylanaraps/dotfiles) - 🍙 dotfiles
 
