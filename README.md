@@ -287,7 +287,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [PagerDuty/postmortem-docs](https://github.com/PagerDuty/postmortem-docs) - PagerDuty's Public Postmortem Documentation
 
 ## Elixir 
@@ -469,7 +469,7 @@
 
 ## JavaScript 
 
-- [twilio-labs/call-gpt](https://github.com/twilio-labs/call-gpt) - Generative AI phone call toolkit
+- [twilio-labs/call-gpt](https://github.com/twilio-labs/call-gpt) - Generative AI phone call toolkit using Twilio Media Streams.
 - [khanh8910/memefi_miner](https://github.com/khanh8910/memefi_miner) - Mining Memefi on web browser
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
