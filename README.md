@@ -1076,7 +1076,7 @@
 - [mschwager/fierce](https://github.com/mschwager/fierce) - A DNS reconnaissance tool for locating non-contiguous IP space.
 - [LaurenceRawlings/savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art!
 - [Gameye98/Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
-- [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
+- [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper that helps you watch important package updates.
 - [BrodieRobertson/kdenchapters](https://github.com/BrodieRobertson/kdenchapters) - Extract YouTube chapter timestamps from a kdenlive project file
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [LukeLambert/fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) - Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
