@@ -745,6 +745,7 @@
 - [fabiospampinato/termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
+- [casprwang/dotfiles](https://github.com/casprwang/dotfiles) - 
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [alex35mil/dotfiles](https://github.com/alex35mil/dotfiles) - My dotfiles
 
@@ -1789,7 +1790,6 @@
 
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [casprwang/dotfiles](https://github.com/casprwang/dotfiles) - 
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [amarshall/dotfiles](https://github.com/amarshall/dotfiles) - ⚠️ Deprecated! I’ve moved all my config to Nix+NixOS+Home Manager, and that repo is not currently public.
 - [motemen/dotfiles](https://github.com/motemen/dotfiles) - My dotfiles
