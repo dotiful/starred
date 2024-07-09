@@ -293,7 +293,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Elm 
@@ -848,7 +848,6 @@
 - [dpkristensen/udev-rules](https://github.com/dpkristensen/udev-rules) - vscode syntax highlighting for udev rules
 - [evandroforks/VimL](https://github.com/evandroforks/VimL) - VimL Package for Sublime Text.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
 - [kufii/vscode-userscript](https://github.com/kufii/vscode-userscript) - UserScript language support for VS Code
 - [mosbasik/sxhkdrc-syntax](https://github.com/mosbasik/sxhkdrc-syntax) - Syntax definition for the sxhkd configuration file for Visual Studio Code.
@@ -1485,6 +1484,7 @@
 - [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms.
 - [3v1n0/zsh-bash-completions-fallback](https://github.com/3v1n0/zsh-bash-completions-fallback) - Simple zsh plugin to support bash completions for a command if no native one is available
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [babarot/emoji-cli](https://github.com/babarot/emoji-cli) - :scream: Emoji completion on the command line
 - [b0o/updoot](https://github.com/b0o/updoot) - 🎺 Unify the update process for your entire system
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
