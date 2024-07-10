@@ -667,7 +667,6 @@
 - [dearrrfish/browser-sugar-alfredworkflow](https://github.com/dearrrfish/browser-sugar-alfredworkflow) - Alfred workflow to switch current active tab between Safari and Chrome.
 - [LisaDziuba/Women-Made-It](https://github.com/LisaDziuba/Women-Made-It) - Awesome design & development tools, books, podcasts, and blogs made by women.
 - [pichfl/NoMoreiTunes](https://github.com/pichfl/NoMoreiTunes) - An Safari Extension preventing iTunes Preview and App Store pages in Safari from launching iTunes since 2010.
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [alexlafroscia/tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) - Alfred workflow for TLDR
 - [flippidippi/sVim](https://github.com/flippidippi/sVim) - Safari extension with shortcuts similar to Vim
 - [isometry/alfred-tty](https://github.com/isometry/alfred-tty) - Alfred Workflow to quickly switch between or close iTerm windows, tabs and panes based on title and tty
@@ -909,6 +908,7 @@
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [notpeter/apple-installer-checksums](https://github.com/notpeter/apple-installer-checksums) - Checksums of Mac OSX installer DMGs
 - [marta-file-manager/marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [acidanthera/IOJones](https://github.com/acidanthera/IOJones) - Realtime I/O Registry viewer
 - [xzhih/hackintosh-list](https://github.com/xzhih/hackintosh-list) - Hackintosh EFI and Kext, Clover theme, macOS installer image, mac Free App ...
 - [corpnewt/Hackintosh-Guide](https://github.com/corpnewt/Hackintosh-Guide) - 
