@@ -180,7 +180,7 @@
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark) - A simple open-source disk benchmark tool for Linux distros
 - [friciwolf/Rocket](https://github.com/friciwolf/Rocket) - Application launcher for KDE Plasma.
-- [emilengler/sysget](https://github.com/emilengler/sysget) - One package manager to rule them all
+- [cvengler/sysget](https://github.com/cvengler/sysget) - One package manager to rule them all
 - [tobimensch/aqemu](https://github.com/tobimensch/aqemu) - Official AQEMU repository - a GUI for virtual machines using QEMU as the backend
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
@@ -307,7 +307,7 @@
 ## Go 
 
 - [addozhang/alfred-safari-toolkit](https://github.com/addozhang/alfred-safari-toolkit) - Alfred workfow for search safari history.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [lure-sh/lure](https://github.com/lure-sh/lure) - The community repository missing from your Linux distro
 - [cabemo/godaddy-cli](https://github.com/cabemo/godaddy-cli) - A simple godaddy CLI to manage domains
 - [silenceshell/hcache](https://github.com/silenceshell/hcache) - showing top X biggest cache files global
