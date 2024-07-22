@@ -89,7 +89,6 @@
 
 ## C 
 
-- [Mozer/talk-llama-fast](https://github.com/Mozer/talk-llama-fast) - Port of OpenAI's Whisper model in C/C++ with xtts and wav2lip
 - [ivan-rio/ha_deck_cyd](https://github.com/ivan-rio/ha_deck_cyd) - Home Assistant Deck CYD Component
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
@@ -162,6 +161,7 @@
 
 ## C++ 
 
+- [Mozer/talk-llama-fast](https://github.com/Mozer/talk-llama-fast) - Port of OpenAI's Whisper model in C/C++ with xtts and wav2lip
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
 - [awawa-dev/HyperSPI](https://github.com/awawa-dev/HyperSPI) - HyperHDR bridge using SPI bus. Connects Raspberry Pi with a generic Raspberry Pi Pico (rp2040)/ESP32/ESP8266 to control a LED strip. Fasted possible cable solution for external Pico/ESP LED driver. Da
 - [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).
