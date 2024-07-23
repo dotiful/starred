@@ -716,7 +716,7 @@
 
 ## Jupyter Notebook 
 
-- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
 
 ## Kotlin 
 
