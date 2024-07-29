@@ -552,7 +552,7 @@
 - [KSmanis/kwin-move-window-to-center](https://github.com/KSmanis/kwin-move-window-to-center) - A simple KWin script that introduces a KDE Global Shortcut for centering the active window in the current screen.
 - [bahamondev/hide-titles](https://github.com/bahamondev/hide-titles) - A Kwin script which hides window title when is maximized
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
-- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
+- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Speed up eslint to accelerate your development workflow
 - [dumptyd/slack-sidebar-toggler](https://github.com/dumptyd/slack-sidebar-toggler) - Userscript to add the ability to toggle the main sidebar on Slack Web using a keyboard shortcut.
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [baleyko/syntax-highlighting-scopes-showroom](https://github.com/baleyko/syntax-highlighting-scopes-showroom) - Highlights syntax scopes to simplify syntax highlighting extensions development
@@ -1430,7 +1430,7 @@
 - [Teraskull/bigsur-grub2-theme](https://github.com/Teraskull/bigsur-grub2-theme) - A Grub2 Bootloader Theme, compatible with Ventoy.
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
 - [alexwbaule/telegramopenwrt](https://github.com/alexwbaule/telegramopenwrt) - Telegram Scripts for OpenWrt/Lede Project
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~13,000 unique cloners as of May '24, 580+ Homebrew installs 6/23-6/24
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 unique cloners as of July '24, 700+ Homebrew installs 7/23-7/24
 - [zhangsean/OpenWrt-Actions](https://github.com/zhangsean/OpenWrt-Actions) - 
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [stuarthayhurst/argon-grub-theme](https://github.com/stuarthayhurst/argon-grub-theme) - Configurable, modern theme for the GRUB bootloader, containing backgrounds, icons, fonts and styling
