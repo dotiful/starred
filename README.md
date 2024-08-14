@@ -1729,7 +1729,7 @@
 - [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
 - [usernamehw/vscode-error-lens](https://github.com/usernamehw/vscode-error-lens) - VSCode extension that enhances display of errors and warnings.
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
-- [svipas/vscode-control-snippets](https://github.com/svipas/vscode-control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
+- [benasvip/vscode-control-snippets](https://github.com/benasvip/vscode-control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [davidnussio/vscode-jq-playground](https://github.com/davidnussio/vscode-jq-playground) - Visual Code Studio jq playground
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
