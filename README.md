@@ -541,7 +541,6 @@
 - [probot/stale](https://github.com/probot/stale) - A GitHub App built with Probot that closes abandoned Issues and Pull Requests after a period of inactivity.
 - [KNawm/speed-cloudflare-cli](https://github.com/KNawm/speed-cloudflare-cli) - 📈 Measure the speed and consistency of your internet connection using speed.cloudflare.com
 - [xxczaki/speedo-cli](https://github.com/xxczaki/speedo-cli) - ⌚️ Internet speed report in your terminal!
-- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [Flupp/sticky-window-snapping](https://github.com/Flupp/sticky-window-snapping) - A KWin script which lets snapped window edges stick together when one window is resized.
 - [tophf/mpiv](https://github.com/tophf/mpiv) - A fully reworked fork of Mouseover Popup Image Viewer
 - [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
@@ -1042,7 +1041,6 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
 - [jordip/prompt-generator-api](https://github.com/jordip/prompt-generator-api) - A simple prompt generator API for Stable Diffusion / Midjourney / Dall-e based in Python
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
 - [avbor/HomeAssistantConfig](https://github.com/avbor/HomeAssistantConfig) - My Home Assistant Configuration. Feel free to :star: my repo if you found something useful here =)
 - [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
@@ -1676,6 +1674,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [JXA-userland/JXA](https://github.com/JXA-userland/JXA) - JavaScript for Automation(JXA) packages for TypeScript/Node.js.
 - [stephancasas/jxa-ui-explorer](https://github.com/stephancasas/jxa-ui-explorer) - Discovery of JXA (osascript) UI Elements made easy.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, E
 - [dckiller51/lovelace-body-miscale-card](https://github.com/dckiller51/lovelace-body-miscale-card) - Card for data of Xiaomi scales in the Lovelace user interface of Home Assistant  The card is linked to the Bodymiscale custom components for Xiaomi scales. https://github.com/dckiller51/bodymiscale
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -1711,6 +1710,7 @@
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [ryanraposo/codeui](https://github.com/ryanraposo/codeui) - Customize your color theme for VS Code.
 - [tusaeff/vscode-iterm2-theme-sync](https://github.com/tusaeff/vscode-iterm2-theme-sync) - Synchronizes an iTerm2 color profile with selected VSCode theme 🎨
 - [xt0rted/stylelint-problem-matcher](https://github.com/xt0rted/stylelint-problem-matcher) - A GitHub Action that registers a problem matcher for Stylelint's report format
