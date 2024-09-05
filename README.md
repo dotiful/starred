@@ -923,7 +923,6 @@
 - [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [acidanthera/macserial](https://github.com/acidanthera/macserial) - Decode mac serial number
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [chris1111/HP-Probook-EliteBook-Package-Creator](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator) - Main Forum
 - [chris1111/Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover) - Visit BLOG : https://com-chris1111.github.io
