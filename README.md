@@ -908,7 +908,6 @@
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [notpeter/apple-installer-checksums](https://github.com/notpeter/apple-installer-checksums) - Checksums of Mac OSX installer DMGs
 - [marta-file-manager/marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
-- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [acidanthera/IOJones](https://github.com/acidanthera/IOJones) - Realtime I/O Registry viewer
 - [xzhih/hackintosh-list](https://github.com/xzhih/hackintosh-list) - Hackintosh EFI and Kext, Clover theme, macOS installer image, mac Free App ...
 - [corpnewt/Hackintosh-Guide](https://github.com/corpnewt/Hackintosh-Guide) - 
@@ -1802,6 +1801,7 @@
 - [Zerx0r/Kage](https://github.com/Zerx0r/Kage) - Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
