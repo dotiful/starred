@@ -885,7 +885,7 @@
 - [hl2guide/All-in-One-Customized-Adblock-List](https://github.com/hl2guide/All-in-One-Customized-Adblock-List) - An all-in-one adblock list that thoroughly blocks trackers, popup ads, ads, unwanted cookies, fake news, cookie warning messages, typosquatters, unwanted comment sections, crypto-coin mining, YouTube 
 - [eutialia/open-in-iina](https://github.com/eutialia/open-in-iina) - Open url in IINA directly from Alfred or Raycast
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
-- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [danielbayley/atom-language-homebrew-formula](https://github.com/danielbayley/atom-language-homebrew-formula) - :atom: @Atom language support for @Homebrew formulae and Casks.
 - [macfanatic77/hackintosh](https://github.com/macfanatic77/hackintosh) - 
 - [cnstntn-kndrtv/open-in-buttons-for-finder-toolbar](https://github.com/cnstntn-kndrtv/open-in-buttons-for-finder-toolbar) - Open in TextMate, open in VS Code buttons for Finder toolbar and MB pro Touch Bar
