@@ -552,7 +552,7 @@
 - [KSmanis/kwin-move-window-to-center](https://github.com/KSmanis/kwin-move-window-to-center) - A simple KWin script that introduces a KDE Global Shortcut for centering the active window in the current screen.
 - [bahamondev/hide-titles](https://github.com/bahamondev/hide-titles) - A Kwin script which hides window title when is maximized
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
-- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Speed up eslint to accelerate your development workflow
+- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow
 - [dumptyd/slack-sidebar-toggler](https://github.com/dumptyd/slack-sidebar-toggler) - Userscript to add the ability to toggle the main sidebar on Slack Web using a keyboard shortcut.
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
 - [baleyko/syntax-highlighting-scopes-showroom](https://github.com/baleyko/syntax-highlighting-scopes-showroom) - Highlights syntax scopes to simplify syntax highlighting extensions development
