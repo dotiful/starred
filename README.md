@@ -438,6 +438,7 @@
 - [ttscoff/KeyBindings](https://github.com/ttscoff/KeyBindings) - DefaultKeybindings.dict for Mac OS X
 - [janmoesen/bookmarklets](https://github.com/janmoesen/bookmarklets) - Time-saving and life-enhancing (ahem) bookmarklets
 - [kaishin/syndicate](https://github.com/kaishin/syndicate) - Safari extension that brings the RSS button back to the toolbar.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [InsightDataScience/Parsing-Workshop](https://github.com/InsightDataScience/Parsing-Workshop) - This is Insight's Workshop to help our DevOps Fellows prepare for Log Parsing Intervies.
 - [RehabMan/OS-X-MaciASL-patchmatic](https://github.com/RehabMan/OS-X-MaciASL-patchmatic) - Fork of phpdev32's MaciASL project, primarily to add command line patcher, patchmatic
@@ -896,7 +897,6 @@
 - [joonaspaakko/System-Commands.alfredworkflow](https://github.com/joonaspaakko/System-Commands.alfredworkflow) - Alfred's system commands, like "Restart" doesn’t honor the "Reopen windows when logging back in" option. This workflow gets around it.
 - [PMheart/LiluFriend](https://github.com/PMheart/LiluFriend) - A helper of Lilu that ensures everything loaded properly
 - [sebadur/language-asl](https://github.com/sebadur/language-asl) - Atom Editor package for ACPI Source Language Support
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Goldfish64/AudioPkg](https://github.com/Goldfish64/AudioPkg) - Audio stack for UEFI. Currently supports HD audio controllers/codecs. WIP
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
 - [SpiraMira/HybridMode-Public](https://github.com/SpiraMira/HybridMode-Public) - Public version of HybridMode repository
@@ -913,7 +913,7 @@
 - [acidanthera/AptioFixPkg](https://github.com/acidanthera/AptioFixPkg) - AptioFixPkg drivers to workaround macOS compatibility with APTIO UEFI FW
 - [Goldfish64/ArrandaleGraphicsHackintosh](https://github.com/Goldfish64/ArrandaleGraphicsHackintosh) - Information regarding first generation Intel HD Graphics and macOS.
 - [Dids/clover-builder](https://github.com/Dids/clover-builder) - Automated Clover builds.
-- [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
+- [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [vookimedlo/alfred-make-appicon](https://github.com/vookimedlo/alfred-make-appicon) - Alfred 3 workflow for making an app icon [icns] based upon the selected file.
 - [cpimhoff/alfred3-newFiles](https://github.com/cpimhoff/alfred3-newFiles) - An Alfred 3 workflow which allows for the fast creation of new documents and folders
 - [stuartcryan/defaultbrowser-alfred-workflow](https://github.com/stuartcryan/defaultbrowser-alfred-workflow) - Default Browser workflow for Alfred using Kerma's DefaultBrowser Binary
