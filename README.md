@@ -1006,7 +1006,6 @@
 - [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Get-ChildItemColor provides colorized version of Get-ChildItem Cmdlet of PowerShell.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [lukesampson/concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
@@ -1214,6 +1213,7 @@
 - [e7h4n/alfred-workflow-moment](https://github.com/e7h4n/alfred-workflow-moment) - 
 - [b3-v3r/Hunner](https://github.com/b3-v3r/Hunner) - Hacking framework
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [tonyxu-io/Alfred-Workflow-Upload-S3](https://github.com/tonyxu-io/Alfred-Workflow-Upload-S3) - This is an Alfred workflow that helps you upload image in clipboard or local to AWS S3
 - [bfleming-ciena/aws-alfred](https://github.com/bfleming-ciena/aws-alfred) - AWS Workflow for Alfred2
 - [lukewaite/alfred-gitlab](https://github.com/lukewaite/alfred-gitlab) - A GitLab workflow for Alfred 3
