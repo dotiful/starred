@@ -385,6 +385,7 @@
 - [gcla/gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
 - [deanishe/alfred-gcal](https://github.com/deanishe/alfred-gcal) - View Google Calendar events in Alfred
 - [deanishe/alfred-sublime-text](https://github.com/deanishe/alfred-sublime-text) - Filter and open your Sublime Text (2 and 3) project files from Alfred.
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [mxssl/dns](https://github.com/mxssl/dns) - dns is a simple CLI tool for DNS-LG API
 - [deanishe/alfred-ssh](https://github.com/deanishe/alfred-ssh) - Open SSH/SFTP/mosh connections from Alfred 3+
 - [deanishe/alfred-safari-assistant](https://github.com/deanishe/alfred-safari-assistant) - Alfred 3+ workflow to search and use Safari bookmarks, history, reading list and tabs.
@@ -1769,7 +1770,7 @@
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
 - [phindle/error-lens](https://github.com/phindle/error-lens) - Visual Studio Code extension which enhances the display of errors and warnings.
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
+- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [rubymaniac/vscode-paste-and-indent](https://github.com/rubymaniac/vscode-paste-and-indent) - Paste and Indent functionality for VSCode
@@ -1799,7 +1800,6 @@
 - [Zerx0r/Kage](https://github.com/Zerx0r/Kage) - Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
