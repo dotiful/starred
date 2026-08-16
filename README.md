@@ -1022,6 +1022,7 @@
 
 ## Python 
 
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - The engineering intelligence of hermes-agent. harness, optimized tool, memory system, subagents and mixture model packages  ⚚
@@ -1424,7 +1425,7 @@
 - [JakeSwiz/SwizGuard](https://github.com/JakeSwiz/SwizGuard) - A self-hosted "Stealth VPN" implementation, forked from xray-core and WireGuard. It makes your traffic look like normal TLS traffic but little does your ISP know there is an entire encrypted WireGuard
 - [FireFingers21/alfred-resolution-changer](https://github.com/FireFingers21/alfred-resolution-changer) - Quickly change the resolution of your displays in Alfred
 - [khangkontum/alfred-mullvad](https://github.com/khangkontum/alfred-mullvad) - alfred workflow to interact with mullvad desktop
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [cyfran/goautodial](https://github.com/cyfran/goautodial) - 
@@ -1716,7 +1717,7 @@
 - [plune-ai/cairn](https://github.com/plune-ai/cairn) - Cairn — an AI that walks your system and leaves a trail of tests: UI, API, unit, docs.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
