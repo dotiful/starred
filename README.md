@@ -1022,6 +1022,7 @@
 
 ## Python 
 
+- [shenhao-stu/ohmycaptcha](https://github.com/shenhao-stu/ohmycaptcha) - ⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -1252,7 +1253,7 @@
 - [TooSchoolForCool/LeetCode-Search](https://github.com/TooSchoolForCool/LeetCode-Search) - An Alfred Workflow for searching algorithm problems in LeetCode with advanced options
 - [ejsuncy/tesla-alfred-workflow](https://github.com/ejsuncy/tesla-alfred-workflow) - A workflow for Alfred to interact with a Tesla vehicle using the unofficial Tesla JSON API
 - [matthewmcgarvey/alfred-oh-my-zsh-workflow](https://github.com/matthewmcgarvey/alfred-oh-my-zsh-workflow) - 
-- [pawamoy/shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts!
+- [pawamoy/shellhistory](https://github.com/pawamoy/shellhistory) - Visualize your shell usage with Highcharts!
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [andrewrabert/base16-shell-preview](https://github.com/andrewrabert/base16-shell-preview) - Preview and enable Base16 Shell themes in your terminal.
