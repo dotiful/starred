@@ -801,7 +801,6 @@
 
 ## Others 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [hyperspaceai/agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your brow
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
@@ -1724,6 +1723,7 @@
 - [plune-ai/cairn](https://github.com/plune-ai/cairn) - Cairn — an AI that walks your system and leaves a trail of tests: UI, API, unit, docs.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
