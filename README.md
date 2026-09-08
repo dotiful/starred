@@ -476,6 +476,7 @@
 
 ## JavaScript 
 
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [antoxa2584x/retro_auction_bot](https://github.com/antoxa2584x/retro_auction_bot) - Lightweight Telegram Auction Bot
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -909,7 +910,6 @@
 - [SpiraMira/HybridMode-Public](https://github.com/SpiraMira/HybridMode-Public) - Public version of HybridMode repository
 - [athlonreg/Common-patches-for-hackintosh](https://github.com/athlonreg/Common-patches-for-hackintosh) - 黑苹果常用的补丁
 - [corpnewt/Hackintosh-Tips-And-Tricks](https://github.com/corpnewt/Hackintosh-Tips-And-Tricks) - A collection of things I've learned about Hackintosh - Hopefully it helps others!
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [notpeter/apple-installer-checksums](https://github.com/notpeter/apple-installer-checksums) - Checksums of Mac OSX installer DMGs
 - [marta-file-manager/marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
 - [acidanthera/IOJones](https://github.com/acidanthera/IOJones) - Realtime I/O Registry viewer
@@ -1021,6 +1021,7 @@
 
 ## Python 
 
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) - let your agent control your phone
@@ -1595,6 +1596,7 @@
 - [black-dragon74/OSX-Debug](https://github.com/black-dragon74/OSX-Debug) - A script to generate debugging files for macOS.
 - [joeyhoer/starter](https://github.com/joeyhoer/starter) - Take the monotony out of macOS system setup.
 - [AlexanderWillner/deepl-alfred-workflow2](https://github.com/AlexanderWillner/deepl-alfred-workflow2) - DeepL Alfred Workflow
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [wombat94/EFIClone](https://github.com/wombat94/EFIClone) - macOS Shell Scripts to clone the EFI partition automatically from either Carbon Copy Cloner or SuperDuper! when run on a Hackintosh
 - [Piker-Alpha/HandyScripts](https://github.com/Piker-Alpha/HandyScripts) - Handy script that may become a life saver...
 - [RehabMan/HP-ProBook-4x30s-DSDT-Patch](https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch) - This repository contains the ACPI patches (using Clover hotpatch) for a wide range of HP ProBook/EliteBook/ZBook laptops
