@@ -810,7 +810,6 @@
 - [djeknet/n8n-master-workflows](https://github.com/djeknet/n8n-master-workflows) - n8n workflows for n8n Master browser extension
 - [shmulvad/alfred-nightshift](https://github.com/shmulvad/alfred-nightshift) - A simple Alfred workflow for quickly turning on/off Night Shift or setting it to a custom value.
 - [translaster/Definitive-Guide-5th-Edition](https://github.com/translaster/Definitive-Guide-5th-Edition) - Перевод замечательной книги Asterisk™: Полное руководство, 5-е издание
-- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [Correia-jpv/fucking-quick-look-plugins](https://github.com/Correia-jpv/fucking-quick-look-plugins) - List of useful Quick Look plugins for developers. With repository stars⭐ and forks🍴
 - [dreamsofcode-io/tmux](https://github.com/dreamsofcode-io/tmux) - 
 - [zhenleiji/AlfredScrcpy](https://github.com/zhenleiji/AlfredScrcpy) - 
@@ -1022,6 +1021,8 @@
 
 ## Python 
 
+- [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
+- [lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text) - Open-source text humanization pipeline with every intermediate step published. Two LLM rewrites at temp 1.3, then two hops across different NMT engines. Four documented methodologies you can read, mod
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
@@ -1716,8 +1717,9 @@
 
 ## TypeScript 
 
+- [hypit-ai/hypit](https://github.com/hypit-ai/hypit) - Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 - [diwenne/openreply](https://github.com/diwenne/openreply) - The open-source Manychat alternative
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps
@@ -1736,7 +1738,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [wierdbytes/cc-wiretap](https://github.com/wierdbytes/cc-wiretap) - 
 - [vincanger/envelope-budgeting-test](https://github.com/vincanger/envelope-budgeting-test) - full-stack vibe coding template (envelope budgeting app)
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs) - vanilla javascript input mask
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
