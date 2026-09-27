@@ -479,6 +479,7 @@
 ## JavaScript 
 
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- [alexgetmancom/claudecut](https://github.com/alexgetmancom/claudecut) - Run Claude Code with almost everything cut away: one shell tool, a 36-token system prompt, and a capped context window.
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1435,8 +1436,8 @@
 
 ## Shell 
 
+- [yuedizhibo/MHI2Q-CarPlay-AltScreen](https://github.com/yuedizhibo/MHI2Q-CarPlay-AltScreen) - 补全 Audi MHI2Q / MIB2 High AUG22 的 CarPlay AltScreen 逻辑，让 CarPlay 第二屏显示在 Virtual Cockpit 仪表盘。Completes CarPlay AltScreen logic for Audi MHI2Q / MIB2 High AUG22, displaying the CarPlay secondary screen 
 - [Lanye-z/MHI2Q-CarPlay-MMI-Mirror](https://github.com/Lanye-z/MHI2Q-CarPlay-MMI-Mirror) - 将 MHI2Q 中控 MMI 画面实时镜像至 Virtual Cockpit。Mirror the MHI2Q MMI center display to the Virtual Cockpit.
-- [alexgetmancom/claudecut](https://github.com/alexgetmancom/claudecut) - Run Claude Code with almost everything cut away: one shell tool, a 36-token system prompt, and a capped context window.
 - [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes) - An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent
 - [JakeSwiz/SwizGuard](https://github.com/JakeSwiz/SwizGuard) - A self-hosted "Stealth VPN" implementation, forked from xray-core and WireGuard. It makes your traffic look like normal TLS traffic but little does your ISP know there is an entire encrypted WireGuard
 - [FireFingers21/alfred-resolution-changer](https://github.com/FireFingers21/alfred-resolution-changer) - Quickly change the resolution of your displays in Alfred
