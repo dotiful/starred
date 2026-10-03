@@ -305,7 +305,7 @@
 ## Go 
 
 - [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) - Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -805,7 +805,7 @@
 ## Others 
 
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [Anashost/HA-Animated-cards](https://github.com/Anashost/HA-Animated-cards) - Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.
 - [Anashost/MY-HA-DASH](https://github.com/Anashost/MY-HA-DASH) - Awesome Home Assistant Dashboard with animations and multi tasking.
 - [djeknet/n8n-master-workflows](https://github.com/djeknet/n8n-master-workflows) - n8n workflows for n8n Master browser extension
@@ -1424,7 +1424,6 @@
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [liorgrossman/darkness](https://github.com/liorgrossman/darkness) - ⚠️ DEPRECATED: Dark Themes Extension - no longer functional due to Chrome Manifest V2 deprecation
 
 ## SVG 
@@ -1855,6 +1854,7 @@
 - [qjebbs/vscode-markdown-extended](https://github.com/qjebbs/vscode-markdown-extended) - Extended syntaxes to built-in markdown & What you see is what you get exporter.
 - [zabel-xyz/local-history](https://github.com/zabel-xyz/local-history) - local-history for vscode
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
