@@ -493,6 +493,7 @@
 - [chrisgrieser/alfred-quick-file-access](https://github.com/chrisgrieser/alfred-quick-file-access) - Quickly access recent files, files with a specific tag, files in the current window, files in the downloads folder, or trashed files.
 - [breschio/drawbridge](https://github.com/breschio/drawbridge) - Design editor for Claude Code and Cursor. "Figma Comments" for the browser, are sent directly to Claude Code and Cursor as prompts.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [khanh8910/memefi_miner](https://github.com/khanh8910/memefi_miner) - Mining Memefi on web browser
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
@@ -1754,7 +1755,6 @@
 - [wierdbytes/cc-wiretap](https://github.com/wierdbytes/cc-wiretap) - 
 - [vincanger/envelope-budgeting-test](https://github.com/vincanger/envelope-budgeting-test) - full-stack vibe coding template (envelope budgeting app)
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs) - vanilla javascript input mask
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
