@@ -481,6 +481,7 @@
 
 ## JavaScript 
 
+- [cauliflowermossgrape/idrive7-apps](https://github.com/cauliflowermossgrape/idrive7-apps) - Custom apps for the BMW MGU / iDrive 7 head unit (shift lights, virtual dyno, brake and drag timers, G-meter, fault scanner) plus an SDK kit to build and install your own.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [alexgetmancom/claudecut](https://github.com/alexgetmancom/claudecut) - Run Claude Code with almost everything cut away: one shell tool, a 36-token system prompt, and a capped context window.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
