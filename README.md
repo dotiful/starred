@@ -479,7 +479,7 @@
 
 ## JavaScript 
 
-- [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) - Публічне сховище даних про планові відключення електроенергії в Україні.
+- [uapowerguardkit/outage-data-ua](https://github.com/uapowerguardkit/outage-data-ua) - Публічне сховище даних про планові відключення електроенергії в Україні.
 - [cauliflowermossgrape/idrive7-apps](https://github.com/cauliflowermossgrape/idrive7-apps) - Custom apps for the BMW iDrive 7 head unit (shift lights, virtual dyno, brake and drag timers, G-meter, fault scanner) plus an SDK to build and install your own.
 - [jamro/tiny-engineer](https://github.com/jamro/tiny-engineer) - A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
