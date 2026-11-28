@@ -88,6 +88,7 @@
 
 - [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 - [yuedizhibo/MHI2Q-CarPlay-AltScreen](https://github.com/yuedizhibo/MHI2Q-CarPlay-AltScreen) - 补全 Audi MHI2Q / MIB2 High AUG22 的 CarPlay AltScreen 逻辑，让 CarPlay 第二屏显示在 Virtual Cockpit 仪表盘。Completes CarPlay AltScreen logic for Audi MHI2Q / MIB2 High AUG22, displaying the CarPlay secondary screen 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [ivan-rio/ha_deck_cyd](https://github.com/ivan-rio/ha_deck_cyd) - Home Assistant Deck CYD Component
 - [J-A-A-M/ukraine_alarm_map](https://github.com/J-A-A-M/ukraine_alarm_map) - прошивка для мапи тривог на основі ESP32
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable
@@ -1057,7 +1058,6 @@
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [im-xiangda-li/ProxmoxMCP-Plus](https://github.com/im-xiangda-li/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 - [visomaster/VisoMaster](https://github.com/visomaster/VisoMaster) - Powerful & Easy-to-Use Video Face Swapping and Editing Software
 - [samugit83/redamon](https://github.com/samugit83/redamon) - Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what it
